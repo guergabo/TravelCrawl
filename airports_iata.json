@@ -1,0 +1,17239 @@
+{
+  "Goroka": [
+    "GKA"
+  ],
+  "Madang": [
+    "MAG"
+  ],
+  "Mount Hagen": [
+    "HGU"
+  ],
+  "Nadzab": [
+    "LAE"
+  ],
+  "Port Moresby": [
+    "POM"
+  ],
+  "Wewak": [
+    "WWK"
+  ],
+  "Narssarssuaq": [
+    "UAK"
+  ],
+  "Godthaab": [
+    "GOH"
+  ],
+  "Sondrestrom": [
+    "SFJ"
+  ],
+  "Thule": [
+    "THU"
+  ],
+  "Akureyri": [
+    "AEY"
+  ],
+  "Egilsstadir": [
+    "EGS"
+  ],
+  "Hofn": [
+    "HFN"
+  ],
+  "Husavik": [
+    "HZK"
+  ],
+  "Isafjordur": [
+    "IFJ"
+  ],
+  "Keflavik": [
+    "KEF"
+  ],
+  "Patreksfjordur": [
+    "PFJ"
+  ],
+  "Reykjavik": [
+    "RKV"
+  ],
+  "Siglufjordur": [
+    "SIJ"
+  ],
+  "Vestmannaeyjar": [
+    "VEY"
+  ],
+  "Sault Sainte Marie": [
+    "YAM"
+  ],
+  "St. Anthony": [
+    "YAY"
+  ],
+  "Tofino": [
+    "YAZ"
+  ],
+  "Pelly Bay": [
+    "YBB"
+  ],
+  "Baie Comeau": [
+    "YBC"
+  ],
+  "Bagotville": [
+    "YBG"
+  ],
+  "Baker Lake": [
+    "YBK"
+  ],
+  "Campbell River": [
+    "YBL"
+  ],
+  "Brandon": [
+    "YBR"
+  ],
+  "Cambridge Bay": [
+    "YCB"
+  ],
+  "Nanaimo": [
+    "YCD",
+    "ZNA"
+  ],
+  "Castlegar": [
+    "YCG"
+  ],
+  "Chatham": [
+    "YCH"
+  ],
+  "Charlo": [
+    "YCL"
+  ],
+  "Coppermine": [
+    "YCO"
+  ],
+  "Coronation": [
+    "YCT"
+  ],
+  "Chilliwack": [
+    "YCW"
+  ],
+  "Clyde River": [
+    "YCY"
+  ],
+  "Coral Harbour": [
+    "YZS"
+  ],
+  "Dawson": [
+    "YDA"
+  ],
+  "Burwash": [
+    "YDB"
+  ],
+  "Deer Lake": [
+    "YDF",
+    "YVZ"
+  ],
+  "Dease Lake": [
+    "YDL"
+  ],
+  "Dauphin": [
+    "YDN"
+  ],
+  "Dawson Creek": [
+    "YDQ"
+  ],
+  "Edmonton": [
+    "YEG",
+    "YXD"
+  ],
+  "Eskimo Point": [
+    "YEK"
+  ],
+  "Estevan": [
+    "YEN"
+  ],
+  "Edson": [
+    "YET"
+  ],
+  "Eureka": [
+    "YEU",
+    "EKA"
+  ],
+  "Inuvik": [
+    "YEV"
+  ],
+  "Iqaluit": [
+    "YFB"
+  ],
+  "Fredericton": [
+    "YFC"
+  ],
+  "Forestville": [
+    "YFE"
+  ],
+  "Flin Flon": [
+    "YFO"
+  ],
+  "Fort Resolution": [
+    "YFR"
+  ],
+  "Fort Simpson": [
+    "YFS"
+  ],
+  "Kingston": [
+    "YGK",
+    "KIN",
+    "KTP"
+  ],
+  "La Grande Riviere": [
+    "YGL"
+  ],
+  "Gaspe": [
+    "YGP"
+  ],
+  "Geraldton": [
+    "YGQ",
+    "GET"
+  ],
+  "Iles De La Madeleine": [
+    "YGR"
+  ],
+  "Hudson Bay": [
+    "YHB"
+  ],
+  "Dryden": [
+    "YHD"
+  ],
+  "Holman Island": [
+    "YHI"
+  ],
+  "Gjoa Haven": [
+    "YHK"
+  ],
+  "Hamilton": [
+    "YHM",
+    "HLZ",
+    "HLT",
+    "HAO"
+  ],
+  "Montreal": [
+    "YHU",
+    "YMX",
+    "YUL"
+  ],
+  "Hay River": [
+    "YHY"
+  ],
+  "Halifax": [
+    "YHZ"
+  ],
+  "Atikokan": [
+    "YIB"
+  ],
+  "Pond Inlet": [
+    "YIO"
+  ],
+  "St. Jean": [
+    "YJN"
+  ],
+  "Stephenville": [
+    "YJT",
+    "SEP"
+  ],
+  "Kamloops": [
+    "YKA",
+    "AMN"
+  ],
+  "Waterloo": [
+    "YKF",
+    "ALO"
+  ],
+  "Schefferville": [
+    "YKL"
+  ],
+  "Kindersley": [
+    "YKY"
+  ],
+  "Toronto": [
+    "YKZ",
+    "YTZ",
+    "YYZ",
+    "YZD"
+  ],
+  "Chapleau": [
+    "YLD"
+  ],
+  "Meadow Lake": [
+    "YLJ"
+  ],
+  "Lloydminster": [
+    "YLL"
+  ],
+  "Alert": [
+    "YLT"
+  ],
+  "Kelowna": [
+    "YLW"
+  ],
+  "Mayo": [
+    "YMA"
+  ],
+  "Moose Jaw": [
+    "YMJ"
+  ],
+  "Fort Mcmurray": [
+    "YMM"
+  ],
+  "Moosonee": [
+    "YMO"
+  ],
+  "Maniwaki": [
+    "YMW"
+  ],
+  "Natashquan": [
+    "YNA"
+  ],
+  "Gatineau": [
+    "YND"
+  ],
+  "Matagami": [
+    "YNM"
+  ],
+  "Old Crow": [
+    "YOC"
+  ],
+  "Cold Lake": [
+    "YOD"
+  ],
+  "High Level": [
+    "YOJ"
+  ],
+  "Ottawa": [
+    "YOW",
+    "YRO"
+  ],
+  "Prince Albert": [
+    "YPA"
+  ],
+  "Peace River": [
+    "YPE"
+  ],
+  "Portage-la-prairie": [
+    "YPG"
+  ],
+  "Pickle Lake": [
+    "YPL"
+  ],
+  "Port Menier": [
+    "YPN"
+  ],
+  "Peterborough": [
+    "YPQ"
+  ],
+  "Prince Pupert": [
+    "YPR"
+  ],
+  "Fort Chipewyan": [
+    "YPY"
+  ],
+  "Muskoka": [
+    "YQA"
+  ],
+  "Quebec": [
+    "YQB"
+  ],
+  "Red Deer Industrial": [
+    "YQF"
+  ],
+  "Windsor": [
+    "YQG"
+  ],
+  "Watson Lake": [
+    "YQH"
+  ],
+  "Kenora": [
+    "YQK"
+  ],
+  "Lethbridge": [
+    "YQL"
+  ],
+  "Moncton": [
+    "YQM"
+  ],
+  "Comox": [
+    "YQQ"
+  ],
+  "Regina": [
+    "YQR"
+  ],
+  "Thunder Bay": [
+    "YQT"
+  ],
+  "Grande Prairie": [
+    "YQU"
+  ],
+  "Yorkton": [
+    "YQV"
+  ],
+  "North Battleford": [
+    "YQW"
+  ],
+  "Gander": [
+    "YQX"
+  ],
+  "Sydney": [
+    "YQY",
+    "BWU",
+    "SYD"
+  ],
+  "Quesnel": [
+    "YQZ"
+  ],
+  "Resolute": [
+    "YRB"
+  ],
+  "Riviere Du Loup": [
+    "YRI"
+  ],
+  "Roberval": [
+    "YRJ"
+  ],
+  "Rocky Mountain House": [
+    "YRM"
+  ],
+  "Rankin Inlet": [
+    "YRT"
+  ],
+  "Sudbury": [
+    "YSB"
+  ],
+  "Sherbrooke": [
+    "YSC"
+  ],
+  "St. John": [
+    "YSJ"
+  ],
+  "Fort Smith": [
+    "YSM",
+    "FSM"
+  ],
+  "Nanisivik": [
+    "YSR"
+  ],
+  "Summerside": [
+    "YSU"
+  ],
+  "Sachs Harbour": [
+    "YSY"
+  ],
+  "Cape Dorset": [
+    "YTE"
+  ],
+  "Thompson": [
+    "YTH"
+  ],
+  "Trenton": [
+    "YTR",
+    "TTN"
+  ],
+  "Timmins": [
+    "YTS"
+  ],
+  "Tuktoyaktuk": [
+    "YUB"
+  ],
+  "Repulse Bay": [
+    "YUT"
+  ],
+  "Hall Beach": [
+    "YUX"
+  ],
+  "Rouyn": [
+    "YUY"
+  ],
+  "La Ronge": [
+    "YVC"
+  ],
+  "Vermillion": [
+    "YVG"
+  ],
+  "Broughton Island": [
+    "YVM"
+  ],
+  "Val D'or": [
+    "YVO"
+  ],
+  "Quujjuaq": [
+    "YVP"
+  ],
+  "Norman Wells": [
+    "YVQ"
+  ],
+  "Vancouver": [
+    "YVR",
+    "CXH"
+  ],
+  "Buffalo Narrows": [
+    "YVT"
+  ],
+  "Wiarton": [
+    "YVV"
+  ],
+  "Petawawa": [
+    "YWA"
+  ],
+  "Winnipeg": [
+    "YWG"
+  ],
+  "Wabush": [
+    "YWK"
+  ],
+  "Williams Lake": [
+    "YWL"
+  ],
+  "Wrigley": [
+    "YWY"
+  ],
+  "Cranbrook": [
+    "YXC"
+  ],
+  "Saskatoon": [
+    "YXE"
+  ],
+  "Medicine Hat": [
+    "YXH"
+  ],
+  "Fort Saint John": [
+    "YXJ"
+  ],
+  "Sioux Lookout": [
+    "YXL"
+  ],
+  "Pangnirtung": [
+    "YXP"
+  ],
+  "Earlton": [
+    "YXR"
+  ],
+  "Prince George": [
+    "YXS"
+  ],
+  "Terrace": [
+    "YXT"
+  ],
+  "London": [
+    "YXU",
+    "LTN",
+    "LGW",
+    "LCY",
+    "LHR",
+    "STN",
+    "LOZ"
+  ],
+  "Abbotsford": [
+    "YXX"
+  ],
+  "Whitehorse": [
+    "YXY"
+  ],
+  "North Bay": [
+    "YYB"
+  ],
+  "Calgary": [
+    "YYC"
+  ],
+  "Smithers": [
+    "YYD"
+  ],
+  "Fort Nelson": [
+    "YYE"
+  ],
+  "Penticton": [
+    "YYF"
+  ],
+  "Charlottetown": [
+    "YYG"
+  ],
+  "Spence Bay": [
+    "YYH"
+  ],
+  "Victoria": [
+    "YYJ",
+    "YWH",
+    "VCT",
+    "ZIC"
+  ],
+  "Lynn Lake": [
+    "YYL"
+  ],
+  "Swift Current": [
+    "YYN"
+  ],
+  "Churchill": [
+    "YYQ"
+  ],
+  "Goose Bay": [
+    "YYR"
+  ],
+  "St. John's": [
+    "YYT"
+  ],
+  "Kapuskasing": [
+    "YYU"
+  ],
+  "Armstrong": [
+    "YYW"
+  ],
+  "Mont Joli": [
+    "YYY"
+  ],
+  "Gore Bay": [
+    "YZE"
+  ],
+  "Yellowknife": [
+    "YZF"
+  ],
+  "Slave Lake": [
+    "YZH"
+  ],
+  "Sandspit": [
+    "YZP"
+  ],
+  "Sarnia": [
+    "YZR"
+  ],
+  "Port Hardy": [
+    "YZT"
+  ],
+  "Whitecourt": [
+    "YZU"
+  ],
+  "Sept-iles": [
+    "YZV"
+  ],
+  "Teslin": [
+    "YZW"
+  ],
+  "Greenwood": [
+    "YZX",
+    "GWO"
+  ],
+  "Faro": [
+    "ZFA",
+    "FAO"
+  ],
+  "Fort Mcpherson": [
+    "ZFM"
+  ],
+  "Blida": [
+    "QLD"
+  ],
+  "Bou Saada": [
+    "BUJ"
+  ],
+  "Bejaja": [
+    "BJA"
+  ],
+  "Algier": [
+    "ALG"
+  ],
+  "Djanet": [
+    "DJG"
+  ],
+  "Illizi": [
+    "VVZ"
+  ],
+  "Tamanrasset": [
+    "TMR"
+  ],
+  "Jijel": [
+    "GJL"
+  ],
+  "Mecheria": [
+    "MZW"
+  ],
+  "Annaba": [
+    "AAE"
+  ],
+  "Constantine": [
+    "CZL"
+  ],
+  "Tebessa": [
+    "TEE"
+  ],
+  "Tilrempt": [
+    "HRM"
+  ],
+  "Tiaret": [
+    "TID"
+  ],
+  "Tindouf": [
+    "TIN"
+  ],
+  "Ech-cheliff": [
+    "CFK"
+  ],
+  "Oran": [
+    "TAF",
+    "ORN",
+    "ORA"
+  ],
+  "Tlemcen": [
+    "TLM"
+  ],
+  "Sidi Bel Abbes": [
+    "BFW"
+  ],
+  "Ghriss": [
+    "MUW"
+  ],
+  "Adrar": [
+    "AZR"
+  ],
+  "Biskra": [
+    "BSK"
+  ],
+  "El Golea": [
+    "ELG"
+  ],
+  "Ghardaia": [
+    "GHA"
+  ],
+  "Hassi Messaoud": [
+    "HME"
+  ],
+  "In Salah": [
+    "INZ"
+  ],
+  "Touggourt": [
+    "TGR"
+  ],
+  "Laghouat": [
+    "LOO"
+  ],
+  "Timimoun": [
+    "TMX"
+  ],
+  "Ouargla": [
+    "OGX"
+  ],
+  "Zarzaitine": [
+    "IAM"
+  ],
+  "Cotonou": [
+    "COO"
+  ],
+  "Ouagadougou": [
+    "OUA"
+  ],
+  "Bobo-dioulasso": [
+    "BOY"
+  ],
+  "Accra": [
+    "ACC"
+  ],
+  "Tamale": [
+    "TML"
+  ],
+  "Sunyani": [
+    "NYI"
+  ],
+  "Takoradi": [
+    "TKD"
+  ],
+  "Abidjan": [
+    "ABJ"
+  ],
+  "Bouake": [
+    "BYK"
+  ],
+  "Daloa": [
+    "DJO"
+  ],
+  "Korhogo": [
+    "HGO"
+  ],
+  "Man": [
+    "MJC"
+  ],
+  "San Pedro": [
+    "SPY",
+    "SPR"
+  ],
+  "Yamoussoukro": [
+    "ASK"
+  ],
+  "Abuja": [
+    "ABV"
+  ],
+  "Akure": [
+    "AKR"
+  ],
+  "Benin": [
+    "BNI"
+  ],
+  "Calabar": [
+    "CBQ"
+  ],
+  "Enugu": [
+    "ENU"
+  ],
+  "Ibadan": [
+    "IBA"
+  ],
+  "Ilorin": [
+    "ILR"
+  ],
+  "Jos": [
+    "JOS"
+  ],
+  "Kaduna": [
+    "KAD"
+  ],
+  "Kano": [
+    "KAN"
+  ],
+  "Maiduguri": [
+    "MIU"
+  ],
+  "Makurdi": [
+    "MDI"
+  ],
+  "Lagos": [
+    "LOS"
+  ],
+  "Minna": [
+    "MXJ"
+  ],
+  "Port Hartcourt": [
+    "PHC"
+  ],
+  "Sokoto": [
+    "SKO"
+  ],
+  "Yola": [
+    "YOL"
+  ],
+  "Zaria": [
+    "ZAR"
+  ],
+  "Maradi": [
+    "MFQ"
+  ],
+  "Niamey": [
+    "NIM"
+  ],
+  "Tahoua": [
+    "THZ"
+  ],
+  "Agadez": [
+    "AJY"
+  ],
+  "Zinder": [
+    "ZND"
+  ],
+  "Monastir": [
+    "MIR"
+  ],
+  "Tunis": [
+    "TUN"
+  ],
+  "Gafsa": [
+    "GAF"
+  ],
+  "Gabes": [
+    "GAE"
+  ],
+  "Djerba": [
+    "DJE"
+  ],
+  "El Borma": [
+    "EBM"
+  ],
+  "Sfax": [
+    "SFA"
+  ],
+  "Tozeur": [
+    "TOE"
+  ],
+  "Niatougou": [
+    "LRL"
+  ],
+  "Lome": [
+    "LFW"
+  ],
+  "Antwerp": [
+    "ANR"
+  ],
+  "Brussels": [
+    "BRU"
+  ],
+  "Charleroi": [
+    "CRL"
+  ],
+  "Kortrijk-vevelgem": [
+    "KJK"
+  ],
+  "Liege": [
+    "LGG"
+  ],
+  "Ostend": [
+    "OST"
+  ],
+  "Zoersel": [
+    "OBL"
+  ],
+  "Altenburg": [
+    "AOC"
+  ],
+  "Riesa": [
+    "IES"
+  ],
+  "Rechlin-laerz": [
+    "REB"
+  ],
+  "Schoenhagen": [
+    "QXH"
+  ],
+  "Barth": [
+    "BBH"
+  ],
+  "Magdeburg": [
+    "ZMG"
+  ],
+  "Cottbus": [
+    "CBU"
+  ],
+  "Berlin": [
+    "SXF",
+    "THF",
+    "TXL"
+  ],
+  "Dresden": [
+    "DRS"
+  ],
+  "Erfurt": [
+    "ERF"
+  ],
+  "Frankfurt": [
+    "FRA"
+  ],
+  "Munster": [
+    "FMO"
+  ],
+  "Hamburg": [
+    "HAM",
+    "XFW"
+  ],
+  "Cologne": [
+    "CGN"
+  ],
+  "Duesseldorf": [
+    "DUS"
+  ],
+  "Munich": [
+    "MUC"
+  ],
+  "Nuernberg": [
+    "NUE"
+  ],
+  "Leipzig": [
+    "LEJ"
+  ],
+  "Saarbruecken": [
+    "SCN"
+  ],
+  "Stuttgart": [
+    "STR"
+  ],
+  "Hannover": [
+    "HAJ"
+  ],
+  "Bremen": [
+    "BRE"
+  ],
+  "Egelsbach": [
+    "QEF"
+  ],
+  "Hahn": [
+    "HHN"
+  ],
+  "Mannheim": [
+    "MHG"
+  ],
+  "Eisenach": [
+    "EIB"
+  ],
+  "Siegerland": [
+    "SGE"
+  ],
+  "Kiel": [
+    "KEL"
+  ],
+  "Luebeck": [
+    "LBC"
+  ],
+  "Essen": [
+    "ESS"
+  ],
+  "Bielefeld": [
+    "BFE"
+  ],
+  "Moenchengladbach": [
+    "MGL"
+  ],
+  "Paderborn": [
+    "PAD"
+  ],
+  "Dortmund": [
+    "DTM"
+  ],
+  "Augsburg": [
+    "AGB"
+  ],
+  "Oberpfaffenhofen": [
+    "OBF"
+  ],
+  "Straubing": [
+    "RBM"
+  ],
+  "Friedrichshafen": [
+    "FDH"
+  ],
+  "Parchim": [
+    "SZW"
+  ],
+  "Bayreuth": [
+    "BYU"
+  ],
+  "Burg Feuerstein": [
+    "URD"
+  ],
+  "Hof": [
+    "HOQ"
+  ],
+  "Zweibruecken": [
+    "ZQW"
+  ],
+  "Donaueschingen": [
+    "ZQL"
+  ],
+  "Braunschweig": [
+    "BWE"
+  ],
+  "Kassel": [
+    "KSF"
+  ],
+  "Bremerhaven": [
+    "BRV"
+  ],
+  "Emden": [
+    "EME"
+  ],
+  "Wilhelmshaven": [
+    "WVN"
+  ],
+  "Borkum": [
+    "BMK"
+  ],
+  "Norderney": [
+    "NRD"
+  ],
+  "Flensburg": [
+    "FLF"
+  ],
+  "Westerland": [
+    "GWT"
+  ],
+  "Kardla": [
+    "KDL"
+  ],
+  "Kuressaare": [
+    "URE"
+  ],
+  "Parnu": [
+    "EPU"
+  ],
+  "Tallinn-ulemiste International": [
+    "TLL"
+  ],
+  "Tartu": [
+    "TAY"
+  ],
+  "Enontekio": [
+    "ENF"
+  ],
+  "Halli": [
+    "KEV"
+  ],
+  "Helsinki": [
+    "HEM",
+    "HEL"
+  ],
+  "Hyvinkaa": [
+    "HYV"
+  ],
+  "Kitee": [
+    "KTQ"
+  ],
+  "Ivalo": [
+    "IVL"
+  ],
+  "Joensuu": [
+    "JOE"
+  ],
+  "Jyvaskyla": [
+    "JYV"
+  ],
+  "Kauhava": [
+    "KAU"
+  ],
+  "Kemi": [
+    "KEM"
+  ],
+  "Kajaani": [
+    "KAJ"
+  ],
+  "Kauhajoki": [
+    "KHJ"
+  ],
+  "Kruunupyy": [
+    "KOK"
+  ],
+  "Kuusamo": [
+    "KAO"
+  ],
+  "Kittila": [
+    "KTT"
+  ],
+  "Kuopio": [
+    "KUO"
+  ],
+  "Vesivehmaa": [
+    "QLF"
+  ],
+  "Lappeenranta": [
+    "LPP"
+  ],
+  "Mariehamn": [
+    "MHQ"
+  ],
+  "Mikkeli": [
+    "MIK"
+  ],
+  "Oulu": [
+    "OUL"
+  ],
+  "Pori": [
+    "POR"
+  ],
+  "Rovaniemi": [
+    "RVN"
+  ],
+  "Savonlinna": [
+    "SVL"
+  ],
+  "Sodankyla": [
+    "SOT"
+  ],
+  "Tampere": [
+    "TMP"
+  ],
+  "Turku": [
+    "TKU"
+  ],
+  "Utti": [
+    "UTI"
+  ],
+  "Vaasa": [
+    "VAA"
+  ],
+  "Varkaus": [
+    "VRK"
+  ],
+  "Ylivieska-raudaskyla": [
+    "YLI"
+  ],
+  "Belfast": [
+    "BFS",
+    "BHD"
+  ],
+  "Enniskillen": [
+    "ENK"
+  ],
+  "Londonderry": [
+    "LDY"
+  ],
+  "Birmingham": [
+    "BHX",
+    "BHM"
+  ],
+  "Coventry": [
+    "CVT"
+  ],
+  "Golouchestershire": [
+    "GLO"
+  ],
+  "Pailton": [
+    "GBA"
+  ],
+  "Manchester": [
+    "MAN"
+  ],
+  "Newquai": [
+    "NQY"
+  ],
+  "Lyneham": [
+    "LYE"
+  ],
+  "Yeovilton": [
+    "YEO"
+  ],
+  "Haverfordwest": [
+    "HAW"
+  ],
+  "Cardiff": [
+    "CWL"
+  ],
+  "Swansea": [
+    "SWS"
+  ],
+  "Bristol": [
+    "BRS",
+    "FZO"
+  ],
+  "Liverpool": [
+    "LPL"
+  ],
+  "Plymouth": [
+    "PLH",
+    "PYM"
+  ],
+  "Bournemouth": [
+    "BOH"
+  ],
+  "Southampton": [
+    "SOU"
+  ],
+  "Lasham": [
+    "QLA"
+  ],
+  "Alderney": [
+    "ACI"
+  ],
+  "Guernsey": [
+    "GCI"
+  ],
+  "Jersey": [
+    "JER"
+  ],
+  "Shoreham By Sea": [
+    "ESH"
+  ],
+  "Biggin Hill": [
+    "BQH"
+  ],
+  "Farnborough": [
+    "FAB"
+  ],
+  "Blackbushe": [
+    "BBS"
+  ],
+  "Southend": [
+    "SEN"
+  ],
+  "Lydd": [
+    "LYX"
+  ],
+  "Manston": [
+    "MSE"
+  ],
+  "Carlisle": [
+    "CAX"
+  ],
+  "Blackpool": [
+    "BLK"
+  ],
+  "Humberside": [
+    "HUY"
+  ],
+  "Barrow Island": [
+    "BWF",
+    "BWB"
+  ],
+  "Leeds": [
+    "LBA"
+  ],
+  "Warton": [
+    "WRT"
+  ],
+  "Hawarden": [
+    "CEG"
+  ],
+  "Isle Of Man": [
+    "IOM"
+  ],
+  "Newcastle": [
+    "NCL",
+    "NCS",
+    "NTL"
+  ],
+  "Teesside": [
+    "MME"
+  ],
+  "East Midlands": [
+    "EMA"
+  ],
+  "Kirkwall": [
+    "KOI"
+  ],
+  "Sumburgh": [
+    "LSI"
+  ],
+  "Wick": [
+    "WIC"
+  ],
+  "Aberdeen": [
+    "ABZ",
+    "APG",
+    "ABR"
+  ],
+  "Inverness": [
+    "INV"
+  ],
+  "Glasgow": [
+    "GLA",
+    "GGW",
+    "GLW"
+  ],
+  "Edinburgh": [
+    "EDI"
+  ],
+  "Islay": [
+    "ILY"
+  ],
+  "Prestwick": [
+    "PIK"
+  ],
+  "Benbecula": [
+    "BEB"
+  ],
+  "Scatsta": [
+    "SCS"
+  ],
+  "Dundee": [
+    "DND"
+  ],
+  "Stornoway": [
+    "SYY"
+  ],
+  "Tiree": [
+    "TRE"
+  ],
+  "Leuchars": [
+    "ADX"
+  ],
+  "Lossiemouth": [
+    "LMO"
+  ],
+  "Cambridge": [
+    "CBG"
+  ],
+  "Norwich": [
+    "NWI"
+  ],
+  "Exeter": [
+    "EXT"
+  ],
+  "Oxford": [
+    "OXF",
+    "OXC",
+    "UOX"
+  ],
+  "Benson": [
+    "BEX"
+  ],
+  "Lakenheath": [
+    "LKZ"
+  ],
+  "Mildenhall": [
+    "MHZ"
+  ],
+  "Wyton": [
+    "QUY"
+  ],
+  "Fairford": [
+    "FFD"
+  ],
+  "Brize Norton": [
+    "BZZ"
+  ],
+  "Odiham": [
+    "ODH"
+  ],
+  "Northolt": [
+    "NHT"
+  ],
+  "Coningsby": [
+    "QCY"
+  ],
+  "Honington": [
+    "BEQ"
+  ],
+  "Scampton": [
+    "SQZ"
+  ],
+  "Linton-on-ouse": [
+    "HRT"
+  ],
+  "Waddington": [
+    "WTN"
+  ],
+  "Marham": [
+    "KNF"
+  ],
+  "Mount Pleasant": [
+    "MPN"
+  ],
+  "Amsterdam": [
+    "AMS"
+  ],
+  "Maastricht": [
+    "MST"
+  ],
+  "Eindhoven": [
+    "EIN"
+  ],
+  "Groningen": [
+    "GRQ"
+  ],
+  "Gilze-rijen": [
+    "GLZ"
+  ],
+  "De Kooy": [
+    "DHR"
+  ],
+  "Lelystad": [
+    "LEY"
+  ],
+  "Leeuwarden": [
+    "LWR"
+  ],
+  "Rotterdam": [
+    "RTM"
+  ],
+  "Soesterberg": [
+    "UTC"
+  ],
+  "Enschede": [
+    "ENS"
+  ],
+  "Valkenburg": [
+    "LID"
+  ],
+  "Woensdrecht": [
+    "WOE"
+  ],
+  "Cork": [
+    "ORK"
+  ],
+  "Galway": [
+    "GWY"
+  ],
+  "Dublin": [
+    "DUB",
+    "DBN"
+  ],
+  "Connaught": [
+    "NOC"
+  ],
+  "Kerry": [
+    "KIR"
+  ],
+  "Shannon": [
+    "SNN"
+  ],
+  "Sligo": [
+    "SXL"
+  ],
+  "Waterford": [
+    "WAT"
+  ],
+  "Aarhus": [
+    "AAR"
+  ],
+  "Billund": [
+    "BLL"
+  ],
+  "Copenhagen": [
+    "CPH",
+    "RKE"
+  ],
+  "Esbjerg": [
+    "EBJ"
+  ],
+  "Karup": [
+    "KRP"
+  ],
+  "Laeso": [
+    "BYR"
+  ],
+  "Maribo": [
+    "MRW"
+  ],
+  "Odense": [
+    "ODE"
+  ],
+  "Ronne": [
+    "RNN"
+  ],
+  "Soenderborg": [
+    "SGD"
+  ],
+  "Skrydstrup": [
+    "SKS"
+  ],
+  "Skive": [
+    "SQW"
+  ],
+  "Thisted": [
+    "TED"
+  ],
+  "Vagar": [
+    "FAE"
+  ],
+  "Stauning": [
+    "STA"
+  ],
+  "Aalborg": [
+    "AAL"
+  ],
+  "Luxemburg": [
+    "LUX"
+  ],
+  "Alesund": [
+    "AES"
+  ],
+  "Andoya": [
+    "ANX"
+  ],
+  "Alta": [
+    "ALF"
+  ],
+  "Bronnoysund": [
+    "BNN"
+  ],
+  "Bodo": [
+    "BOO"
+  ],
+  "Bergen": [
+    "BGO"
+  ],
+  "Batsfjord": [
+    "BJF"
+  ],
+  "Kristiansand": [
+    "KRS"
+  ],
+  "Geilo": [
+    "DLD"
+  ],
+  "Bardufoss": [
+    "BDU"
+  ],
+  "Harstad/Narvik": [
+    "EVE"
+  ],
+  "Fagernes": [
+    "VDB"
+  ],
+  "Floro": [
+    "FRO"
+  ],
+  "Oslo": [
+    "OSL",
+    "FBU"
+  ],
+  "Haugesund": [
+    "HAU"
+  ],
+  "Hasvik": [
+    "HAA"
+  ],
+  "Kristiansund": [
+    "KSU"
+  ],
+  "Kirkenes": [
+    "KKN"
+  ],
+  "Farsund": [
+    "FAN"
+  ],
+  "Molde": [
+    "MOL"
+  ],
+  "Mosjoen": [
+    "MJF"
+  ],
+  "Lakselv": [
+    "LKL"
+  ],
+  "Notodden": [
+    "NTB"
+  ],
+  "Orland": [
+    "OLA"
+  ],
+  "Roros": [
+    "RRS"
+  ],
+  "Rygge": [
+    "RYG"
+  ],
+  "Svalbard": [
+    "LYR"
+  ],
+  "Skien": [
+    "SKE"
+  ],
+  "Stord": [
+    "SRP"
+  ],
+  "Sandnessjoen": [
+    "SSJ"
+  ],
+  "Tromso": [
+    "TOS"
+  ],
+  "Sandefjord": [
+    "TRF"
+  ],
+  "Trondheim": [
+    "TRD"
+  ],
+  "Stavanger": [
+    "SVG"
+  ],
+  "Gdansk": [
+    "GDN"
+  ],
+  "Krakow": [
+    "KRK"
+  ],
+  "Katowice": [
+    "KTW"
+  ],
+  "Poznan": [
+    "POZ"
+  ],
+  "Rzeszow": [
+    "RZE"
+  ],
+  "Szczecin": [
+    "SZZ"
+  ],
+  "Slupsk": [
+    "OSP"
+  ],
+  "Warsaw": [
+    "WAW",
+    "WMI"
+  ],
+  "Wroclaw": [
+    "WRO"
+  ],
+  "Zielona Gora": [
+    "IEG"
+  ],
+  "Ronneby": [
+    "RNB"
+  ],
+  "Gothenborg": [
+    "GOT",
+    "GSE"
+  ],
+  "Joenkoeping": [
+    "JKG"
+  ],
+  "Lidkoping": [
+    "LDK"
+  ],
+  "Skovde": [
+    "KVB"
+  ],
+  "Trollhattan": [
+    "THN"
+  ],
+  "Karlskoga": [
+    "KSK"
+  ],
+  "Mora": [
+    "MXX"
+  ],
+  "Stockholm": [
+    "NYO",
+    "ARN",
+    "BMA"
+  ],
+  "Kristianstad": [
+    "KID"
+  ],
+  "Oskarshamn": [
+    "OSK"
+  ],
+  "Kalkmar": [
+    "KLR"
+  ],
+  "Malmoe": [
+    "MMX"
+  ],
+  "Halmstad": [
+    "HAD"
+  ],
+  "Vaxjo": [
+    "VXO"
+  ],
+  "Sveg": [
+    "EVG"
+  ],
+  "Gallivare": [
+    "GEV"
+  ],
+  "Hudiksvall": [
+    "HUV"
+  ],
+  "Kramfors": [
+    "KRF"
+  ],
+  "Lycksele": [
+    "LYC"
+  ],
+  "Sundsvall": [
+    "SDL"
+  ],
+  "Ornskoldsvik": [
+    "OER"
+  ],
+  "Kiruna": [
+    "KRN"
+  ],
+  "Skelleftea": [
+    "SFT"
+  ],
+  "Umea": [
+    "UME"
+  ],
+  "Vilhelmina": [
+    "VHM"
+  ],
+  "Arvidsjaur": [
+    "AJR"
+  ],
+  "Orebro": [
+    "ORB"
+  ],
+  "Vasteras": [
+    "VST"
+  ],
+  "Lulea": [
+    "LLA"
+  ],
+  "Borlange": [
+    "BLE"
+  ],
+  "Hultsfred": [
+    "HLF"
+  ],
+  "Gavle": [
+    "GVX"
+  ],
+  "Linkoeping": [
+    "LPI"
+  ],
+  "Norrkoeping": [
+    "NRK"
+  ],
+  "Eskilstuna": [
+    "EKT"
+  ],
+  "Visby": [
+    "VBY"
+  ],
+  "Spangdahlem": [
+    "SPM"
+  ],
+  "Ramstein": [
+    "RMS"
+  ],
+  "Giebelstadt": [
+    "GHF"
+  ],
+  "Celle": [
+    "ZCN"
+  ],
+  "Fritzlar": [
+    "FRZ"
+  ],
+  "Hanau": [
+    "ZNF"
+  ],
+  "Kitzingen": [
+    "KZG"
+  ],
+  "Nordholz": [
+    "FCN"
+  ],
+  "Geilenkirchen": [
+    "GKE"
+  ],
+  "Laage": [
+    "RLG"
+  ],
+  "Schleswig": [
+    "WBG"
+  ],
+  "Wiesbaden": [
+    "WIE"
+  ],
+  "Fuerstenfeldbruck": [
+    "FEL"
+  ],
+  "Ingolstadt": [
+    "IGS"
+  ],
+  "Guetersloh": [
+    "GUT"
+  ],
+  "Alexander Bay": [
+    "ALJ"
+  ],
+  "Aggeneys": [
+    "AGZ"
+  ],
+  "Bisho": [
+    "BIY"
+  ],
+  "Bloemfontein": [
+    "BFN"
+  ],
+  "Cape Town": [
+    "CPT"
+  ],
+  "Durban": [
+    "DUR",
+    "VIR"
+  ],
+  "East London": [
+    "ELS"
+  ],
+  "Ficksburg": [
+    "FCB"
+  ],
+  "Johannesburg": [
+    "GCJ",
+    "JNB",
+    "HLA",
+    "QRA"
+  ],
+  "George": [
+    "GRJ"
+  ],
+  "Harrismith": [
+    "HRS"
+  ],
+  "Hoedspruit": [
+    "HDS"
+  ],
+  "Klerksdorp": [
+    "KXE"
+  ],
+  "Kimberley": [
+    "KIM"
+  ],
+  "Kuruman": [
+    "KMH"
+  ],
+  "Kleinsee": [
+    "KLZ"
+  ],
+  "Langebaanweg": [
+    "SDB"
+  ],
+  "Ladysmith": [
+    "LAY"
+  ],
+  "Margate": [
+    "MGH"
+  ],
+  "Malalane": [
+    "LLE"
+  ],
+  "Mkuze": [
+    "MZQ"
+  ],
+  "Overberg": [
+    "OVG"
+  ],
+  "Oudtshoorn": [
+    "OUH"
+  ],
+  "Port Elizabeth": [
+    "PLZ"
+  ],
+  "Plettenberg Bay": [
+    "PBZ"
+  ],
+  "Phalaborwa": [
+    "PHW"
+  ],
+  "Port Saint Johns": [
+    "JOH"
+  ],
+  "Pietermaritzburg": [
+    "PZB"
+  ],
+  "Pilanesberg": [
+    "NTY"
+  ],
+  "Potgietersrus": [
+    "PTG"
+  ],
+  "Potchefstroom": [
+    "PCF"
+  ],
+  "Queenstown": [
+    "UTW"
+  ],
+  "Richard's Bay": [
+    "RCB"
+  ],
+  "Robertson": [
+    "ROD"
+  ],
+  "Springbok": [
+    "SBU"
+  ],
+  "Secunda": [
+    "ZEC"
+  ],
+  "Sishen": [
+    "SIS"
+  ],
+  "Skukuza": [
+    "SZK"
+  ],
+  "Tzaneen": [
+    "LTA"
+  ],
+  "Ulundi": [
+    "ULD"
+  ],
+  "Upington": [
+    "UTN"
+  ],
+  "Umtata": [
+    "UTT"
+  ],
+  "Vryburg": [
+    "VRU"
+  ],
+  "Vredendal": [
+    "VRE"
+  ],
+  "Pretoria": [
+    "PRY"
+  ],
+  "Waterkloof": [
+    "WKF"
+  ],
+  "Francistown": [
+    "FRW"
+  ],
+  "Jwaneng": [
+    "JWA"
+  ],
+  "Kasane": [
+    "BBK"
+  ],
+  "Maun": [
+    "MUB"
+  ],
+  "Gaberone": [
+    "GBE"
+  ],
+  "Selebi-phikwe": [
+    "PKW"
+  ],
+  "Brazzaville": [
+    "BZV"
+  ],
+  "Owando": [
+    "FTX"
+  ],
+  "Ouesso": [
+    "OUE"
+  ],
+  "Pointe-noire": [
+    "PNR"
+  ],
+  "Manzini": [
+    "MTS",
+    "SHO"
+  ],
+  "Bangui": [
+    "BGF"
+  ],
+  "Berberati": [
+    "BBT"
+  ],
+  "Bata": [
+    "BSG"
+  ],
+  "Malabo": [
+    "SSG"
+  ],
+  "Wide Awake": [
+    "ASI"
+  ],
+  "Plaisance": [
+    "MRU"
+  ],
+  "Rodriguez Island": [
+    "RRG"
+  ],
+  "Diego Garcia Island": [
+    "NKW"
+  ],
+  "Tiko": [
+    "TKC"
+  ],
+  "Douala": [
+    "DLA"
+  ],
+  "Maroua": [
+    "MVR"
+  ],
+  "Foumban": [
+    "FOM"
+  ],
+  "N'gaoundere": [
+    "NGE"
+  ],
+  "Garoua": [
+    "GOU"
+  ],
+  "Bafoussam": [
+    "BFX"
+  ],
+  "Bamenda": [
+    "BPC"
+  ],
+  "Yaounde": [
+    "YAO",
+    "NSI"
+  ],
+  "Kasompe": [
+    "CGJ"
+  ],
+  "Livingstone": [
+    "LVI"
+  ],
+  "Lusaka": [
+    "LUN"
+  ],
+  "Mfuwe": [
+    "MFU"
+  ],
+  "Mongu": [
+    "MNR"
+  ],
+  "Ndola": [
+    "NLA"
+  ],
+  "Southdowns": [
+    "KIW"
+  ],
+  "Moroni": [
+    "HAH",
+    "YVA"
+  ],
+  "Moheli": [
+    "NWA"
+  ],
+  "Anjouan": [
+    "AJN"
+  ],
+  "Dzaoudzi": [
+    "DZA"
+  ],
+  "St.-denis": [
+    "RUN"
+  ],
+  "St.-pierre": [
+    "ZSE",
+    "FSP"
+  ],
+  "Antananarivo": [
+    "TNR"
+  ],
+  "Miandrivazo": [
+    "ZVA"
+  ],
+  "Sainte Marie": [
+    "SMS"
+  ],
+  "Toamasina": [
+    "TMM"
+  ],
+  "Morondava": [
+    "MOQ"
+  ],
+  "Antsiranana": [
+    "DIE"
+  ],
+  "Mananara": [
+    "WMR"
+  ],
+  "Andapa": [
+    "ZWA"
+  ],
+  "Ambilobe": [
+    "AMB"
+  ],
+  "Antalaha": [
+    "ANM"
+  ],
+  "Analalava": [
+    "HVA"
+  ],
+  "Mahajanga": [
+    "MJN"
+  ],
+  "Nosy-be": [
+    "NOS"
+  ],
+  "Besalampy": [
+    "BPY"
+  ],
+  "Maroantsetra": [
+    "WMN"
+  ],
+  "Sambava": [
+    "SVB"
+  ],
+  "Vohemar": [
+    "VOH"
+  ],
+  "Antsohihy": [
+    "WAI"
+  ],
+  "Ampampamena": [
+    "IVA"
+  ],
+  "Tolagnaro": [
+    "FTU"
+  ],
+  "Fianarantsoa": [
+    "WFI"
+  ],
+  "Farafangana": [
+    "RVA"
+  ],
+  "Manakara": [
+    "WVK"
+  ],
+  "Mananjary": [
+    "MNJ"
+  ],
+  "Morombe": [
+    "MXM"
+  ],
+  "Toliara": [
+    "TLE"
+  ],
+  "M'banza-congo": [
+    "SSY"
+  ],
+  "Benguela": [
+    "BUG"
+  ],
+  "Cabinda": [
+    "CAB"
+  ],
+  "Huambo": [
+    "NOV"
+  ],
+  "Kuito": [
+    "SVP"
+  ],
+  "Luanda": [
+    "LAD"
+  ],
+  "Malanje": [
+    "MEG"
+  ],
+  "Menongue": [
+    "SPP"
+  ],
+  "Negage": [
+    "GXG"
+  ],
+  "Porto Amboim": [
+    "PBN"
+  ],
+  "Saurimo": [
+    "VHC"
+  ],
+  "Soyo": [
+    "SZA"
+  ],
+  "Lubango": [
+    "SDD"
+  ],
+  "Luena": [
+    "LUO"
+  ],
+  "Uige": [
+    "UGO"
+  ],
+  "Xangongo": [
+    "XGN"
+  ],
+  "Oyem": [
+    "OYE"
+  ],
+  "Okondja": [
+    "OKN"
+  ],
+  "Lambarene": [
+    "LBQ"
+  ],
+  "Bitam": [
+    "BMM"
+  ],
+  "Port Gentil": [
+    "POG"
+  ],
+  "Omboue Hospial": [
+    "OMB"
+  ],
+  "Makokou": [
+    "MKU"
+  ],
+  "Libreville": [
+    "LBV"
+  ],
+  "Franceville": [
+    "MVB"
+  ],
+  "Principe": [
+    "PCP"
+  ],
+  "Sao Tome": [
+    "TMS"
+  ],
+  "Beira": [
+    "BEW"
+  ],
+  "Inhambane": [
+    "INH"
+  ],
+  "Lichinga": [
+    "VXC"
+  ],
+  "Lumbo": [
+    "LFB"
+  ],
+  "Maputo": [
+    "MPM"
+  ],
+  "Mueda": [
+    "MUD"
+  ],
+  "Mocimboa Da Praia": [
+    "MZB"
+  ],
+  "Nacala": [
+    "MNC"
+  ],
+  "Nampula": [
+    "APL"
+  ],
+  "Pemba": [
+    "POL",
+    "PMA"
+  ],
+  "Quelimane": [
+    "UEL"
+  ],
+  "Tete": [
+    "TET"
+  ],
+  "Vilankulu": [
+    "VNX"
+  ],
+  "Desroches": [
+    "DES"
+  ],
+  "Mahe": [
+    "SEZ"
+  ],
+  "Praslin": [
+    "PRI"
+  ],
+  "Abeche": [
+    "AEH"
+  ],
+  "Moundou": [
+    "MQQ"
+  ],
+  "N'djamena": [
+    "NDJ"
+  ],
+  "Faya-largeau": [
+    "FYT"
+  ],
+  "Bulawayo": [
+    "BUQ"
+  ],
+  "Chiredzi": [
+    "BFO"
+  ],
+  "Victoria Falls": [
+    "VFA"
+  ],
+  "Harare": [
+    "HRE"
+  ],
+  "Kariba": [
+    "KAB"
+  ],
+  "Mutare": [
+    "UTA"
+  ],
+  "Masvingo": [
+    "MVZ"
+  ],
+  "Gwert": [
+    "GWE"
+  ],
+  "Hwange National Park": [
+    "HWN"
+  ],
+  "Blantyre": [
+    "BLZ"
+  ],
+  "Karonga": [
+    "KGJ"
+  ],
+  "Kasungu": [
+    "KBQ"
+  ],
+  "Lilongwe": [
+    "LLW"
+  ],
+  "Mzuzu": [
+    "ZZU"
+  ],
+  "Maseru": [
+    "MSU"
+  ],
+  "Kinshasa": [
+    "FIH",
+    "NLO"
+  ],
+  "Muanda": [
+    "MNB"
+  ],
+  "Bandoundu": [
+    "FDU"
+  ],
+  "Kikwit": [
+    "KKW"
+  ],
+  "Mbandaka": [
+    "MDK"
+  ],
+  "Gbadolite": [
+    "BDT"
+  ],
+  "Gemena": [
+    "GMA"
+  ],
+  "Kotakoli": [
+    "KLI"
+  ],
+  "Lisala": [
+    "LIQ"
+  ],
+  "Kisangani": [
+    "FKI"
+  ],
+  "Isiro": [
+    "IRP"
+  ],
+  "Bunia": [
+    "BUX"
+  ],
+  "Buta Zega": [
+    "BZU"
+  ],
+  "Bukavu/kavumu": [
+    "BKY"
+  ],
+  "Goma": [
+    "GOM"
+  ],
+  "Kindu": [
+    "KND"
+  ],
+  "Lubumashi": [
+    "FBM"
+  ],
+  "Kolwezi": [
+    "KWZ"
+  ],
+  "Kalemie": [
+    "FMI"
+  ],
+  "Kamina Base": [
+    "KMN"
+  ],
+  "Kananga": [
+    "KGA"
+  ],
+  "Mbuji-mayi": [
+    "MJM"
+  ],
+  "Bamako": [
+    "BKO"
+  ],
+  "Gao": [
+    "GAQ"
+  ],
+  "Kayes": [
+    "KYS"
+  ],
+  "Mopti": [
+    "MZI"
+  ],
+  "Tombouctou": [
+    "TOM"
+  ],
+  "Banjul": [
+    "BJL"
+  ],
+  "Fuerteventura": [
+    "FUE"
+  ],
+  "Hierro": [
+    "VDE"
+  ],
+  "Santa Cruz De La Palma": [
+    "SPC"
+  ],
+  "Gran Canaria": [
+    "LPA"
+  ],
+  "Arrecife": [
+    "ACE"
+  ],
+  "Tenerife": [
+    "TFS",
+    "TFN"
+  ],
+  "Melilla": [
+    "MLN"
+  ],
+  "Freetown": [
+    "FNA",
+    "HGS"
+  ],
+  "Monrovia": [
+    "MLW",
+    "ROB"
+  ],
+  "Agadir": [
+    "AGA"
+  ],
+  "Tan Tan": [
+    "TTA"
+  ],
+  "Fes": [
+    "FEZ"
+  ],
+  "Er-rachidia": [
+    "ERH"
+  ],
+  "Meknes": [
+    "MEK"
+  ],
+  "Oujda": [
+    "OUD"
+  ],
+  "Ben Slimane": [
+    "GMD"
+  ],
+  "Rabat": [
+    "RBA"
+  ],
+  "Casablanca": [
+    "CMN"
+  ],
+  "Marrakech": [
+    "RAK"
+  ],
+  "Kentira": [
+    "NNA"
+  ],
+  "Ouarzazate": [
+    "OZZ"
+  ],
+  "Al Hociema": [
+    "AHU"
+  ],
+  "Tetouan": [
+    "TTU"
+  ],
+  "Tanger": [
+    "TNG"
+  ],
+  "Ziguinchor": [
+    "ZIG"
+  ],
+  "Cap Skiring": [
+    "CSK"
+  ],
+  "Kaolack": [
+    "KLC"
+  ],
+  "Dakar": [
+    "DKR"
+  ],
+  "St. Louis": [
+    "XLS",
+    "STL"
+  ],
+  "Bakel": [
+    "BXE"
+  ],
+  "Kedougou": [
+    "KGG"
+  ],
+  "Tambacounda": [
+    "TUD"
+  ],
+  "Aioun El Atrouss": [
+    "AEO"
+  ],
+  "Tidjikja": [
+    "TIY"
+  ],
+  "Kiffa": [
+    "KFA"
+  ],
+  "Nema": [
+    "EMN"
+  ],
+  "Kaedi": [
+    "KED"
+  ],
+  "Nouakschott": [
+    "NKC"
+  ],
+  "Selibabi": [
+    "SEY"
+  ],
+  "Atar": [
+    "ATR"
+  ],
+  "Nouadhibou": [
+    "NDB"
+  ],
+  "Fira": [
+    "FIG"
+  ],
+  "Faranah": [
+    "FAA"
+  ],
+  "Labe": [
+    "LEK"
+  ],
+  "Amilcar Cabral": [
+    "SID"
+  ],
+  "Boa Vista": [
+    "BVC",
+    "BVB"
+  ],
+  "Maio": [
+    "MMO"
+  ],
+  "Sao Nocolau Island": [
+    "SNE"
+  ],
+  "Sao Vicente Island": [
+    "VXE"
+  ],
+  "Addis Ababa": [
+    "ADD"
+  ],
+  "Arba Minch": [
+    "AMH"
+  ],
+  "Axum": [
+    "AXU"
+  ],
+  "Bahar Dar": [
+    "BJR"
+  ],
+  "Dire Dawa": [
+    "DIR"
+  ],
+  "Gambella": [
+    "GMB"
+  ],
+  "Gondar": [
+    "GDQ"
+  ],
+  "Jimma": [
+    "JIM"
+  ],
+  "Lalibella": [
+    "LLI"
+  ],
+  "Makale": [
+    "MQX",
+    "TTR"
+  ],
+  "Asosa": [
+    "ASO"
+  ],
+  "Bujumbura": [
+    "BJM"
+  ],
+  "Hargeisa": [
+    "HGA"
+  ],
+  "Berbera": [
+    "BBO"
+  ],
+  "Kismayu": [
+    "KMU"
+  ],
+  "Alexandria": [
+    "ALY",
+    "HBE",
+    "ESF",
+    "AEX",
+    "AXN"
+  ],
+  "Abu Simbel": [
+    "ABS"
+  ],
+  "Cairo": [
+    "CAI",
+    "CWE"
+  ],
+  "Hurghada": [
+    "HRG"
+  ],
+  "El Gorah": [
+    "EGH"
+  ],
+  "Luxor": [
+    "LXR"
+  ],
+  "Mersa-matruh": [
+    "MUH"
+  ],
+  "Port Said": [
+    "PSD"
+  ],
+  "St. Catherine": [
+    "SKV"
+  ],
+  "Aswan": [
+    "ASW"
+  ],
+  "El-tor": [
+    "ELT"
+  ],
+  "Eldoret": [
+    "EDL"
+  ],
+  "Kakamega": [
+    "GGM"
+  ],
+  "Kisumu": [
+    "KIS"
+  ],
+  "Kitale": [
+    "KTL"
+  ],
+  "Lodwar": [
+    "LOK"
+  ],
+  "Lamu": [
+    "LAU"
+  ],
+  "Mombasa": [
+    "MBA"
+  ],
+  "Nairobi": [
+    "WIL",
+    "NBO"
+  ],
+  "Wajir": [
+    "WJR"
+  ],
+  "Ghat": [
+    "GHT"
+  ],
+  "Kufra": [
+    "AKF"
+  ],
+  "Benghazi": [
+    "BEN"
+  ],
+  "Sebha": [
+    "SEB"
+  ],
+  "Tripoli": [
+    "TIP",
+    "MJI"
+  ],
+  "Marsa Brega": [
+    "LMQ"
+  ],
+  "Hon": [
+    "HUQ"
+  ],
+  "Ghadames": [
+    "LTD"
+  ],
+  "Gisenyi": [
+    "GYI"
+  ],
+  "Kigali": [
+    "KGL"
+  ],
+  "Kamembe": [
+    "KME"
+  ],
+  "Dongola": [
+    "DOG"
+  ],
+  "Damazin": [
+    "RSS"
+  ],
+  "El Fasher": [
+    "ELF"
+  ],
+  "Kassala": [
+    "KSL"
+  ],
+  "Kadugli": [
+    "KDX"
+  ],
+  "El Obeid": [
+    "EBD"
+  ],
+  "Juba": [
+    "JUB"
+  ],
+  "Malakal": [
+    "MAK"
+  ],
+  "Khartoum": [
+    "KRT"
+  ],
+  "Arusha": [
+    "ARK"
+  ],
+  "Dar Es Salaam": [
+    "DAR"
+  ],
+  "Dodoma": [
+    "DOD"
+  ],
+  "Iringa": [
+    "IRI"
+  ],
+  "Kilimanjaro": [
+    "JRO"
+  ],
+  "Lake Manyara": [
+    "LKY"
+  ],
+  "Mtwara": [
+    "MYW"
+  ],
+  "Mwanza": [
+    "MWZ"
+  ],
+  "Tanga": [
+    "TGT"
+  ],
+  "Zanzibar": [
+    "ZNZ"
+  ],
+  "Entebbe": [
+    "EBB"
+  ],
+  "Soroti": [
+    "SRT"
+  ],
+  "Tirana": [
+    "TIA"
+  ],
+  "Bourgas": [
+    "BOJ"
+  ],
+  "Gorna Orechovica": [
+    "GOZ"
+  ],
+  "Plovdiv": [
+    "PDV"
+  ],
+  "Sofia": [
+    "SOF"
+  ],
+  "Stara Zagora": [
+    "SZR"
+  ],
+  "Varna": [
+    "VAR"
+  ],
+  "Larnaca": [
+    "LCA"
+  ],
+  "Paphos": [
+    "PFO"
+  ],
+  "Akrotiri": [
+    "AKT"
+  ],
+  "Dubrovnik": [
+    "DBV"
+  ],
+  "Osijek": [
+    "OSI"
+  ],
+  "Pula": [
+    "PUY"
+  ],
+  "Rijeka": [
+    "RJK"
+  ],
+  "Split": [
+    "SPU"
+  ],
+  "Zagreb": [
+    "ZAG"
+  ],
+  "Zadar": [
+    "ZAD"
+  ],
+  "Albacete": [
+    "ABC"
+  ],
+  "Alicante": [
+    "ALC"
+  ],
+  "Almeria": [
+    "LEI"
+  ],
+  "Aviles": [
+    "OVD"
+  ],
+  "Cordoba": [
+    "ODB",
+    "COR"
+  ],
+  "Bilbao": [
+    "BIO"
+  ],
+  "Barcelona": [
+    "BCN",
+    "BLA"
+  ],
+  "Badajoz": [
+    "BJZ"
+  ],
+  "La Coruna": [
+    "LCG"
+  ],
+  "Gerona": [
+    "GRO"
+  ],
+  "Granada": [
+    "GRX"
+  ],
+  "Ibiza": [
+    "IBZ"
+  ],
+  "Jerez": [
+    "XRY"
+  ],
+  "Murcia": [
+    "MJV",
+    "RMU"
+  ],
+  "Madrid": [
+    "MAD",
+    "TOJ",
+    "ECV"
+  ],
+  "Malaga": [
+    "AGP"
+  ],
+  "Menorca": [
+    "MAH"
+  ],
+  "Sevilla": [
+    "OZP",
+    "SVQ"
+  ],
+  "Pamplona": [
+    "PNA"
+  ],
+  "Reus": [
+    "REU"
+  ],
+  "Rota": [
+    "ROZ",
+    "ROP"
+  ],
+  "Salamanca": [
+    "SLM"
+  ],
+  "San Sebastian": [
+    "EAS"
+  ],
+  "Santiago": [
+    "SCQ",
+    "STI",
+    "SYP",
+    "SCL"
+  ],
+  "Seo De Urgel": [
+    "LEU"
+  ],
+  "Valencia": [
+    "VLC",
+    "VLN"
+  ],
+  "Valladolid": [
+    "VLL"
+  ],
+  "Vitoria": [
+    "VIT",
+    "VIX"
+  ],
+  "Vigo": [
+    "VGO"
+  ],
+  "Santander": [
+    "SDR"
+  ],
+  "Zaragoza": [
+    "ZAZ"
+  ],
+  "Calais": [
+    "CQF"
+  ],
+  "Albert": [
+    "BYF"
+  ],
+  "Le Tourquet": [
+    "LTQ"
+  ],
+  "Valenciennes": [
+    "XVS"
+  ],
+  "Agen": [
+    "AGF"
+  ],
+  "Bordeaux": [
+    "BOD"
+  ],
+  "Bergerac": [
+    "EGC"
+  ],
+  "Cognac": [
+    "CNG"
+  ],
+  "Poitiers": [
+    "PIS"
+  ],
+  "Montlucon-gueret": [
+    "MCU"
+  ],
+  "Limoges": [
+    "LIG"
+  ],
+  "Niort": [
+    "NIT"
+  ],
+  "Toulouse": [
+    "TLS"
+  ],
+  "Pau": [
+    "PUF"
+  ],
+  "Tarbes": [
+    "LDE"
+  ],
+  "Angouleme": [
+    "ANG"
+  ],
+  "Brive": [
+    "BVE"
+  ],
+  "Perigueux": [
+    "PGX"
+  ],
+  "Biarritz-bayonne": [
+    "BIQ"
+  ],
+  "Cahors": [
+    "ZAO"
+  ],
+  "Albi": [
+    "LBI"
+  ],
+  "Castres": [
+    "DCM"
+  ],
+  "Rodez": [
+    "RDZ"
+  ],
+  "Royan": [
+    "RYN"
+  ],
+  "Montauban": [
+    "XMW"
+  ],
+  "Rochefort": [
+    "RCO"
+  ],
+  "Colmar": [
+    "CMR"
+  ],
+  "Dole": [
+    "DLE"
+  ],
+  "Aubenas-vals-lanas": [
+    "OBS"
+  ],
+  "Le Puy": [
+    "LPY"
+  ],
+  "Metz": [
+    "ETZ",
+    "MZM"
+  ],
+  "Bastia": [
+    "BIA"
+  ],
+  "Calvi": [
+    "CLY"
+  ],
+  "Figari": [
+    "FSC"
+  ],
+  "Ajaccio": [
+    "AJA",
+    "MFX"
+  ],
+  "Propriano": [
+    "PRP"
+  ],
+  "Solenzara": [
+    "SOZ"
+  ],
+  "Auxerre": [
+    "AUF"
+  ],
+  "Chambery": [
+    "CMF"
+  ],
+  "Clermont-Ferrand": [
+    "CFE"
+  ],
+  "Bourges": [
+    "BOU"
+  ],
+  "Annemasse": [
+    "QNJ"
+  ],
+  "Lyon": [
+    "LYS",
+    "LYN"
+  ],
+  "St.-yan": [
+    "SYT"
+  ],
+  "Roanne": [
+    "RNE"
+  ],
+  "Annecy": [
+    "NCY"
+  ],
+  "Grenoble": [
+    "GNB"
+  ],
+  "Valence": [
+    "VAF"
+  ],
+  "Vichy": [
+    "VHY"
+  ],
+  "Aurillac": [
+    "AUR"
+  ],
+  "Chateauroux": [
+    "CHR"
+  ],
+  "Cannes": [
+    "CEQ"
+  ],
+  "St-Etienne": [
+    "EBU"
+  ],
+  "Carcassonne": [
+    "CCF"
+  ],
+  "Marseille": [
+    "MRS"
+  ],
+  "Nice": [
+    "NCE"
+  ],
+  "Orange": [
+    "XOG",
+    "OAG"
+  ],
+  "Perpignan": [
+    "PGF"
+  ],
+  "Le Castellet": [
+    "CTT"
+  ],
+  "Montpellier": [
+    "MPL"
+  ],
+  "Beziers": [
+    "BZR"
+  ],
+  "Avignon": [
+    "AVN"
+  ],
+  "Mende": [
+    "MEN"
+  ],
+  "Beauvais": [
+    "BVA"
+  ],
+  "Evreux": [
+    "EVX"
+  ],
+  "Le Havre": [
+    "LEH"
+  ],
+  "Abbeville": [
+    "XAB"
+  ],
+  "Orleans": [
+    "ORE"
+  ],
+  "Chalons": [
+    "XCR"
+  ],
+  "Rouen": [
+    "URO"
+  ],
+  "Tours": [
+    "TUF"
+  ],
+  "Cholet": [
+    "CET"
+  ],
+  "Laval": [
+    "LVA"
+  ],
+  "Paris": [
+    "LBG",
+    "CDG",
+    "ORY",
+    "PRX"
+  ],
+  "Creil": [
+    "CSF"
+  ],
+  "Toussous-le-noble": [
+    "TNF"
+  ],
+  "Pontoise": [
+    "POX"
+  ],
+  "Villacoublay": [
+    "VIY"
+  ],
+  "Nevers": [
+    "NVS"
+  ],
+  "Maubeuge": [
+    "XME"
+  ],
+  "Lille": [
+    "LIL"
+  ],
+  "Merville": [
+    "HZB"
+  ],
+  "Charleville": [
+    "XCZ"
+  ],
+  "Brest": [
+    "BES",
+    "BQT"
+  ],
+  "Cherbourg": [
+    "CER"
+  ],
+  "Dinard": [
+    "DNR"
+  ],
+  "La Baule": [
+    "LBY"
+  ],
+  "Granville": [
+    "GFR"
+  ],
+  "Deauville": [
+    "DOL"
+  ],
+  "Lorient": [
+    "LRT"
+  ],
+  "La Roche-sur-yon": [
+    "EDM"
+  ],
+  "Landivisiau": [
+    "LDV"
+  ],
+  "Caen": [
+    "CFR"
+  ],
+  "Le Mans": [
+    "LME"
+  ],
+  "Rennes": [
+    "RNS"
+  ],
+  "Lannion": [
+    "LAI"
+  ],
+  "Quimper": [
+    "UIP"
+  ],
+  "Nantes": [
+    "NTE"
+  ],
+  "St.-brieuc Armor": [
+    "SBK"
+  ],
+  "Morlaix": [
+    "MXN"
+  ],
+  "Vannes": [
+    "VNE"
+  ],
+  "St.-nazaire": [
+    "SNR"
+  ],
+  "Mulhouse": [
+    "BSL"
+  ],
+  "Dijon": [
+    "DIJ"
+  ],
+  "Epinal": [
+    "EPL"
+  ],
+  "Nancy": [
+    "ENC"
+  ],
+  "Reims": [
+    "RHE"
+  ],
+  "Strasbourg": [
+    "SXB"
+  ],
+  "Hyeres": [
+    "TLN"
+  ],
+  "Nimes": [
+    "FNI"
+  ],
+  "Miquelon": [
+    "MQC"
+  ],
+  "Andravida": [
+    "PYR"
+  ],
+  "Agrinion": [
+    "AGQ"
+  ],
+  "Alexandroupolis": [
+    "AXD"
+  ],
+  "Nea Anghialos": [
+    "VOL"
+  ],
+  "Chios": [
+    "JKH"
+  ],
+  "Ioannina": [
+    "IOA"
+  ],
+  "Heraklion": [
+    "HER"
+  ],
+  "Kastoria": [
+    "KSO"
+  ],
+  "Kithira": [
+    "KIT"
+  ],
+  "Keffallinia": [
+    "EFL"
+  ],
+  "Kalamata": [
+    "KLX"
+  ],
+  "Kos": [
+    "KGS"
+  ],
+  "Karpathos": [
+    "AOK"
+  ],
+  "Kerkyra/corfu": [
+    "CFU"
+  ],
+  "Kasos": [
+    "KSJ"
+  ],
+  "Kavala": [
+    "KVA"
+  ],
+  "Kozani": [
+    "KZI"
+  ],
+  "Leros": [
+    "LRS"
+  ],
+  "Limnos": [
+    "LXS"
+  ],
+  "Larissa": [
+    "LRA"
+  ],
+  "Mykonos": [
+    "JMK"
+  ],
+  "Mytilini": [
+    "MJT"
+  ],
+  "Preveza": [
+    "PVK"
+  ],
+  "Rhodos": [
+    "RHO"
+  ],
+  "Patras": [
+    "GPA"
+  ],
+  "Chania": [
+    "CHQ"
+  ],
+  "Skiathos": [
+    "JSI"
+  ],
+  "Samos": [
+    "SMI"
+  ],
+  "Sparti": [
+    "SPJ"
+  ],
+  "Thira": [
+    "JTR"
+  ],
+  "Sitia": [
+    "JSH"
+  ],
+  "Skiros": [
+    "SKU"
+  ],
+  "Thessaloniki": [
+    "SKG"
+  ],
+  "Zakynthos": [
+    "ZTH"
+  ],
+  "Budapest": [
+    "BUD"
+  ],
+  "Debrecen": [
+    "DEB"
+  ],
+  "Crotone": [
+    "CRV"
+  ],
+  "Bari": [
+    "BRI"
+  ],
+  "Foggia": [
+    "FOG"
+  ],
+  "Grottaglie": [
+    "TAR"
+  ],
+  "Lecce": [
+    "LCC"
+  ],
+  "Pescara": [
+    "PSR"
+  ],
+  "Brindisi": [
+    "BDS"
+  ],
+  "Lamezia": [
+    "SUF"
+  ],
+  "Catania": [
+    "CTA"
+  ],
+  "Lampedusa": [
+    "LMP"
+  ],
+  "Pantelleria": [
+    "PNL"
+  ],
+  "Palermo": [
+    "PMO"
+  ],
+  "Reggio Calabria": [
+    "REG"
+  ],
+  "Trapani": [
+    "TPS"
+  ],
+  "Sigonella": [
+    "NSY"
+  ],
+  "Alghero": [
+    "AHO"
+  ],
+  "Decimomannu": [
+    "DCI"
+  ],
+  "Cagliari": [
+    "CAG"
+  ],
+  "Olbia": [
+    "OLB"
+  ],
+  "Tortoli": [
+    "TTB"
+  ],
+  "Milano": [
+    "MXP"
+  ],
+  "Bergamo": [
+    "BGY"
+  ],
+  "Torino": [
+    "TRN"
+  ],
+  "Albenga": [
+    "ALL"
+  ],
+  "Genoa": [
+    "GOA"
+  ],
+  "Milan": [
+    "LIN"
+  ],
+  "Parma": [
+    "PMF"
+  ],
+  "Cuneo": [
+    "CUF"
+  ],
+  "Aviano": [
+    "AVB"
+  ],
+  "Bolzano": [
+    "BZO"
+  ],
+  "Bologna": [
+    "BLQ"
+  ],
+  "Treviso": [
+    "TSF"
+  ],
+  "Forli": [
+    "FRL"
+  ],
+  "Brescia": [
+    "VBS"
+  ],
+  "Ronchi De Legionari": [
+    "TRS"
+  ],
+  "Rimini": [
+    "RMI"
+  ],
+  "Vicenza": [
+    "VIC"
+  ],
+  "Padova": [
+    "QPA"
+  ],
+  "Villafranca": [
+    "VRN"
+  ],
+  "Venice": [
+    "VCE",
+    "VNC"
+  ],
+  "Siena": [
+    "SAY"
+  ],
+  "Rome": [
+    "CIA",
+    "FCO",
+    "RME",
+    "RMG"
+  ],
+  "Marina Di Campo": [
+    "EBA"
+  ],
+  "Latina": [
+    "QLT"
+  ],
+  "Naples": [
+    "NAP",
+    "APF"
+  ],
+  "Pisa": [
+    "PSA"
+  ],
+  "Florence": [
+    "FLR",
+    "FLO"
+  ],
+  "Grosseto": [
+    "GRS"
+  ],
+  "Perugia": [
+    "PEG"
+  ],
+  "Ljubljana": [
+    "LJU"
+  ],
+  "Maribor": [
+    "MBX"
+  ],
+  "Portoroz": [
+    "POW"
+  ],
+  "Kunovice": [
+    "UHE"
+  ],
+  "Karlovy Vary": [
+    "KLV"
+  ],
+  "Ostrava": [
+    "OSR"
+  ],
+  "Pardubice": [
+    "PED"
+  ],
+  "Prerov": [
+    "PRV"
+  ],
+  "Prague": [
+    "PRG"
+  ],
+  "Brno": [
+    "BRQ"
+  ],
+  "Vodochody": [
+    "VOD"
+  ],
+  "Tel-aviv": [
+    "TLV",
+    "SDV"
+  ],
+  "Beer-sheba": [
+    "BEV"
+  ],
+  "Elat": [
+    "ETH"
+  ],
+  "Eyn-yahav": [
+    "EIY"
+  ],
+  "Haifa": [
+    "HFA"
+  ],
+  "Rosh Pina": [
+    "RPN"
+  ],
+  "Metzada": [
+    "MTZ"
+  ],
+  "Nevatim": [
+    "VTM"
+  ],
+  "Ovda": [
+    "VDA"
+  ],
+  "Ramon": [
+    "MIP"
+  ],
+  "Malta": [
+    "MLA"
+  ],
+  "Graz": [
+    "GRZ"
+  ],
+  "Innsbruck": [
+    "INN"
+  ],
+  "Linz": [
+    "LNZ"
+  ],
+  "Salzburg": [
+    "SZG"
+  ],
+  "Vienna": [
+    "VIE"
+  ],
+  "Alverca": [
+    "AVR"
+  ],
+  "Santa Maria (island)": [
+    "SMA"
+  ],
+  "Braganca": [
+    "BGC"
+  ],
+  "Beja (madeira)": [
+    "BYJ"
+  ],
+  "Braga": [
+    "BGZ"
+  ],
+  "Cascais": [
+    "CAT"
+  ],
+  "Flores": [
+    "FLW",
+    "FRS"
+  ],
+  "Graciosa Island": [
+    "GRW"
+  ],
+  "Horta": [
+    "HOR"
+  ],
+  "Lajes (terceira Island)": [
+    "TER"
+  ],
+  "Monte Real": [
+    "QLR"
+  ],
+  "Ponta Delgada": [
+    "PDL"
+  ],
+  "Pico": [
+    "PIX"
+  ],
+  "Portimao": [
+    "PRM"
+  ],
+  "Porto": [
+    "OPO"
+  ],
+  "Porto Santo": [
+    "PXO"
+  ],
+  "Lisbon": [
+    "LIS"
+  ],
+  "Sao Jorge Island": [
+    "SJZ"
+  ],
+  "Vila Real": [
+    "VRL"
+  ],
+  "Viseu": [
+    "VSE"
+  ],
+  "Mostar": [
+    "OMO"
+  ],
+  "Sarajevo": [
+    "SJJ"
+  ],
+  "Arad": [
+    "ARW"
+  ],
+  "Bacau": [
+    "BCM"
+  ],
+  "Baia Mare": [
+    "BAY"
+  ],
+  "Bucharest": [
+    "BBU",
+    "OTP"
+  ],
+  "Constanta": [
+    "CND"
+  ],
+  "Cluj-napoca": [
+    "CLJ"
+  ],
+  "Caransebes": [
+    "CSB"
+  ],
+  "Craiova": [
+    "CRA"
+  ],
+  "Iasi": [
+    "IAS"
+  ],
+  "Oradea": [
+    "OMR"
+  ],
+  "Sibiu": [
+    "SBZ"
+  ],
+  "Satu Mare": [
+    "SUJ"
+  ],
+  "Suceava": [
+    "SCV"
+  ],
+  "Tulcea": [
+    "TCE"
+  ],
+  "Tirgu Mures": [
+    "TGM"
+  ],
+  "Timisoara": [
+    "TSR"
+  ],
+  "Geneva": [
+    "GVA"
+  ],
+  "Sion": [
+    "SIR"
+  ],
+  "Emmen": [
+    "EML"
+  ],
+  "Lugano": [
+    "LUG"
+  ],
+  "Bern": [
+    "BRN"
+  ],
+  "Grenchen": [
+    "ZHI"
+  ],
+  "Zurich": [
+    "ZRH"
+  ],
+  "Altenrhein": [
+    "ACH"
+  ],
+  "Samedan": [
+    "SMV"
+  ],
+  "Ankara": [
+    "ESB",
+    "ANK"
+  ],
+  "Adana": [
+    "ADA",
+    "UAB"
+  ],
+  "Afyon": [
+    "AFY"
+  ],
+  "Antalya": [
+    "AYT"
+  ],
+  "Gaziantep": [
+    "GZT"
+  ],
+  "Konya": [
+    "KYA"
+  ],
+  "Merzifon": [
+    "MZH"
+  ],
+  "Sivas": [
+    "VAS"
+  ],
+  "Malatya": [
+    "MLX"
+  ],
+  "Kayseri": [
+    "ASR"
+  ],
+  "Tokat": [
+    "TJK"
+  ],
+  "Denizli": [
+    "DNZ"
+  ],
+  "Istanbul": [
+    "ISL",
+    "SAW",
+    "IST"
+  ],
+  "Balikesir": [
+    "BZI"
+  ],
+  "Bandirma": [
+    "BDM"
+  ],
+  "Eskisehir": [
+    "ESK"
+  ],
+  "Izmir": [
+    "ADB",
+    "IGL"
+  ],
+  "Topel": [
+    "KCO"
+  ],
+  "Dalaman": [
+    "DLM"
+  ],
+  "Bodrum": [
+    "BXN",
+    "BJV"
+  ],
+  "Elazig": [
+    "EZS"
+  ],
+  "Diyabakir": [
+    "DIY"
+  ],
+  "Erzincan": [
+    "ERC"
+  ],
+  "Erzurum": [
+    "ERZ"
+  ],
+  "Trabzon": [
+    "TZX"
+  ],
+  "Van": [
+    "VAN"
+  ],
+  "Batman": [
+    "BAL"
+  ],
+  "Siirt": [
+    "SXZ"
+  ],
+  "Saltsy": [
+    "BZY"
+  ],
+  "Chisinau": [
+    "KIV"
+  ],
+  "Ohrid": [
+    "OHD"
+  ],
+  "Skopje": [
+    "SKP"
+  ],
+  "Gibraltar": [
+    "GIB"
+  ],
+  "Belgrade": [
+    "BEG"
+  ],
+  "Nis": [
+    "INI"
+  ],
+  "Podgorica": [
+    "TGD"
+  ],
+  "Pristina": [
+    "PRN"
+  ],
+  "Tivat": [
+    "TIV"
+  ],
+  "Bratislava": [
+    "BTS"
+  ],
+  "Kosice": [
+    "KSC"
+  ],
+  "Piestany": [
+    "PZY"
+  ],
+  "Sliac": [
+    "SLD"
+  ],
+  "Poprad": [
+    "TAT"
+  ],
+  "North Caicos": [
+    "NCA"
+  ],
+  "Providenciales": [
+    "PLS"
+  ],
+  "South Caicos": [
+    "XSC"
+  ],
+  "Barahona": [
+    "BRX"
+  ],
+  "Cabo Rojo": [
+    "CBJ"
+  ],
+  "La Romana": [
+    "LRM"
+  ],
+  "Punta Cana": [
+    "PUJ"
+  ],
+  "Puerto Plata": [
+    "POP"
+  ],
+  "Santo Domingo": [
+    "SDQ",
+    "STD",
+    "HEX"
+  ],
+  "Coban": [
+    "CBV"
+  ],
+  "Guatemala City": [
+    "GUA"
+  ],
+  "Retalhuleu": [
+    "RER"
+  ],
+  "San Jose": [
+    "GSJ",
+    "SJO",
+    "SJI",
+    "EUQ",
+    "SJC",
+    "SYQ",
+    "RHV"
+  ],
+  "La Ceiba": [
+    "LCE"
+  ],
+  "San Pedro Sula": [
+    "SAP"
+  ],
+  "Guanaja": [
+    "GJA"
+  ],
+  "Roatan": [
+    "RTB"
+  ],
+  "Tela": [
+    "TEA"
+  ],
+  "Tegucigalpa": [
+    "TGU"
+  ],
+  "Trujillo": [
+    "TJI",
+    "TRU"
+  ],
+  "Ocho Rios": [
+    "OCJ"
+  ],
+  "Montego Bay": [
+    "MBJ"
+  ],
+  "Port Antonio": [
+    "POT"
+  ],
+  "Acapulco": [
+    "ACA"
+  ],
+  "Monterrey": [
+    "NTR",
+    "MTY"
+  ],
+  "Aguascalientes": [
+    "AGU"
+  ],
+  "Huatulco": [
+    "HUX"
+  ],
+  "Cuernavaca": [
+    "CVJ"
+  ],
+  "Ciudad Acuna": [
+    "ACN"
+  ],
+  "Ciudad Del Carmen": [
+    "CME"
+  ],
+  "Nuevo Casas Grandes": [
+    "NCG"
+  ],
+  "Culiacan": [
+    "CUL"
+  ],
+  "Chetumal": [
+    "CTM"
+  ],
+  "Ciudad Obregon": [
+    "CEN"
+  ],
+  "Campeche": [
+    "CPE"
+  ],
+  "Ciudad Juarez": [
+    "CJS"
+  ],
+  "Chihuahua": [
+    "CUU"
+  ],
+  "Ciudad Victoria": [
+    "CVM"
+  ],
+  "Cozumel": [
+    "CZM"
+  ],
+  "Durango": [
+    "DGO",
+    "DRO"
+  ],
+  "Tepic": [
+    "TPQ"
+  ],
+  "Ensenada": [
+    "ESE"
+  ],
+  "Guadalajara": [
+    "GDL"
+  ],
+  "Guaymas": [
+    "GYM"
+  ],
+  "Tehuacan": [
+    "TCN"
+  ],
+  "Hermosillo": [
+    "HMO"
+  ],
+  "Colima": [
+    "CLQ"
+  ],
+  "Isla Mujeres": [
+    "ISJ"
+  ],
+  "Saltillo": [
+    "SLW"
+  ],
+  "Iztepec": [
+    "IZT"
+  ],
+  "Lazard Cardenas": [
+    "LZC"
+  ],
+  "Los Mochis": [
+    "LMM"
+  ],
+  "Del Bajio": [
+    "BJX"
+  ],
+  "La Paz": [
+    "LAP",
+    "LPB"
+  ],
+  "Loreto": [
+    "LTO"
+  ],
+  "Matamoros": [
+    "MAM"
+  ],
+  "Merida": [
+    "MID",
+    "MRD"
+  ],
+  "Mexicali": [
+    "MXL"
+  ],
+  "Morelia": [
+    "MLM"
+  ],
+  "Minatitlan": [
+    "MTT"
+  ],
+  "Monclova": [
+    "LOV"
+  ],
+  "Mexico City": [
+    "MEX"
+  ],
+  "Mazatlan": [
+    "MZT"
+  ],
+  "Nogales": [
+    "NOG",
+    "OLS"
+  ],
+  "Nuevo Laredo": [
+    "NLD"
+  ],
+  "Oaxaca": [
+    "OAX"
+  ],
+  "Poza Rico": [
+    "PAZ"
+  ],
+  "Puebla": [
+    "PBC"
+  ],
+  "Punta Penasco": [
+    "PPE"
+  ],
+  "Piedras Negras": [
+    "PDS"
+  ],
+  "Uruapan": [
+    "UPN"
+  ],
+  "Puerto Vallarta": [
+    "PVR"
+  ],
+  "Puerto Escondido": [
+    "PXM"
+  ],
+  "Queretaro": [
+    "QRO"
+  ],
+  "Reynosa": [
+    "REX"
+  ],
+  "San Jose Del Cabo": [
+    "SJD"
+  ],
+  "San Filipe": [
+    "SFH"
+  ],
+  "San Luis Potosi": [
+    "SLP"
+  ],
+  "Torreon": [
+    "TRC"
+  ],
+  "Tuxtla Gutierrez": [
+    "TGZ"
+  ],
+  "Tijuana": [
+    "TIJ"
+  ],
+  "Tampico": [
+    "TAM"
+  ],
+  "Tamuin": [
+    "TSL"
+  ],
+  "Toluca": [
+    "TLC"
+  ],
+  "Tapachula": [
+    "TAP"
+  ],
+  "Cancun": [
+    "CUN"
+  ],
+  "Villahermosa": [
+    "VSA"
+  ],
+  "Vera Cruz": [
+    "VER"
+  ],
+  "Zacatecas": [
+    "ZCL"
+  ],
+  "Zihuatanejo": [
+    "ZIH"
+  ],
+  "Zamora": [
+    "ZMM"
+  ],
+  "Manzanillo": [
+    "ZLO",
+    "MZO"
+  ],
+  "Bluefields": [
+    "BEF"
+  ],
+  "Managua": [
+    "MGA"
+  ],
+  "Puerto Cabezas": [
+    "PUZ"
+  ],
+  "Bocas Del Toro": [
+    "BOC"
+  ],
+  "Changuinola": [
+    "CHX"
+  ],
+  "David": [
+    "DAV"
+  ],
+  "Howard": [
+    "BLB"
+  ],
+  "Panama": [
+    "PAC"
+  ],
+  "Panama City": [
+    "PTY",
+    "PAM",
+    "PFN",
+    "ECP"
+  ],
+  "Buenos Aires": [
+    "BAI",
+    "AEP",
+    "EZE"
+  ],
+  "Coto 47": [
+    "OTR"
+  ],
+  "Chacarita": [
+    "JAP"
+  ],
+  "Golfito": [
+    "GLF"
+  ],
+  "Guapiles": [
+    "GPL"
+  ],
+  "Liberia": [
+    "LIR"
+  ],
+  "Los Chiles": [
+    "LSL"
+  ],
+  "Limon": [
+    "LIO"
+  ],
+  "Nosara Beach": [
+    "NOB"
+  ],
+  "Palmar Sur": [
+    "PMZ"
+  ],
+  "Quepos": [
+    "XQP"
+  ],
+  "San Vito De Jaba": [
+    "TOO"
+  ],
+  "San Salvador": [
+    "SAL"
+  ],
+  "Cayes": [
+    "CYA"
+  ],
+  "Cap Haitien": [
+    "CAP"
+  ],
+  "Jacmel": [
+    "JAK"
+  ],
+  "Port-au-prince": [
+    "PAP"
+  ],
+  "Baracoa Playa": [
+    "BCA",
+    "UPB"
+  ],
+  "Bayamo": [
+    "BYM"
+  ],
+  "Ciego De Avila": [
+    "AVI"
+  ],
+  "Cunagua": [
+    "CCC"
+  ],
+  "Cienfuegos": [
+    "CFG"
+  ],
+  "Cayo Largo del Sur": [
+    "CYO"
+  ],
+  "Camaguey": [
+    "CMW"
+  ],
+  "Santiago De Cuba": [
+    "SCU"
+  ],
+  "Guantanamo": [
+    "NBW",
+    "GAO"
+  ],
+  "Havana": [
+    "HAV"
+  ],
+  "Holguin": [
+    "HOG"
+  ],
+  "La Coloma": [
+    "LCL"
+  ],
+  "Moa": [
+    "MOA"
+  ],
+  "Nueva Gerona": [
+    "GER"
+  ],
+  "Pinar Del Rio Norte": [
+    "QPD"
+  ],
+  "Santa Clara": [
+    "SNU"
+  ],
+  "Siguanea": [
+    "SZJ"
+  ],
+  "Sancti Spiritus": [
+    "USS"
+  ],
+  "Varadero": [
+    "VRA"
+  ],
+  "Las Tunas": [
+    "VTU"
+  ],
+  "Cayman Brac": [
+    "CYB"
+  ],
+  "Georgetown": [
+    "GCM",
+    "GEO",
+    "OGL",
+    "GED",
+    "GGE"
+  ],
+  "Clarence Bain": [
+    "MAY"
+  ],
+  "Andros Town": [
+    "ASD"
+  ],
+  "Marsh Harbor": [
+    "MHH"
+  ],
+  "San Andros": [
+    "SAQ"
+  ],
+  "Spring Point": [
+    "AXP"
+  ],
+  "Treasure Cay": [
+    "TCB"
+  ],
+  "Chub Cay": [
+    "CCZ"
+  ],
+  "Bullocks Harbour": [
+    "GHC"
+  ],
+  "Alice Town": [
+    "BIM"
+  ],
+  "Great Exuma": [
+    "GGT"
+  ],
+  "North Eleuthera": [
+    "ELH"
+  ],
+  "Governor's Harbor": [
+    "GHB"
+  ],
+  "Norman's Cay": [
+    "NMC"
+  ],
+  "Rock Sound": [
+    "RSD"
+  ],
+  "Staniel Cay": [
+    "TYM"
+  ],
+  "Freeport": [
+    "FPO"
+  ],
+  "Matthew Town": [
+    "IGA"
+  ],
+  "Dead Man's Cay": [
+    "LGI"
+  ],
+  "Stella Maris": [
+    "SML"
+  ],
+  "Mayaguana": [
+    "MYG"
+  ],
+  "Nassau": [
+    "NAS",
+    "PID"
+  ],
+  "Duncan Town": [
+    "DCT"
+  ],
+  "Port Nelson": [
+    "RCY"
+  ],
+  "Cockburn Town": [
+    "ZSA",
+    "GDT"
+  ],
+  "Belize City": [
+    "BZE"
+  ],
+  "Aitutaki": [
+    "AIT"
+  ],
+  "Avarua": [
+    "RAR"
+  ],
+  "Nandi": [
+    "NAN"
+  ],
+  "Nausori": [
+    "SUV"
+  ],
+  "Tongatapu": [
+    "TBU"
+  ],
+  "Vava'u": [
+    "VAV"
+  ],
+  "Tarawa": [
+    "TRW"
+  ],
+  "Tabiteuea North": [
+    "TBF"
+  ],
+  "Wallis": [
+    "WLS"
+  ],
+  "Faleolo": [
+    "APW"
+  ],
+  "Pago Pago": [
+    "PPG"
+  ],
+  "Rurutu": [
+    "RUR"
+  ],
+  "Tubuai": [
+    "TUB"
+  ],
+  "Anaa": [
+    "AAA"
+  ],
+  "Fangatau": [
+    "FGU"
+  ],
+  "Tikehau": [
+    "TIH"
+  ],
+  "Reao": [
+    "REA"
+  ],
+  "Fakarava": [
+    "FAV"
+  ],
+  "Manihi": [
+    "XMH"
+  ],
+  "Totegegie": [
+    "GMR"
+  ],
+  "Kaukura Atoll": [
+    "KKR"
+  ],
+  "Makemo": [
+    "MKP"
+  ],
+  "Puka Puka": [
+    "PKP"
+  ],
+  "Takapoto": [
+    "TKP"
+  ],
+  "Arutua": [
+    "AXR"
+  ],
+  "Mataiva": [
+    "MVT"
+  ],
+  "Takaroa": [
+    "TKX"
+  ],
+  "Nuku Hiva": [
+    "NHV"
+  ],
+  "Bora Bora": [
+    "BOB"
+  ],
+  "Rangiroa": [
+    "RGI"
+  ],
+  "Huahine Island": [
+    "HUH"
+  ],
+  "Moorea": [
+    "MOZ"
+  ],
+  "Hao Island": [
+    "HOI"
+  ],
+  "Maupiti": [
+    "MAU"
+  ],
+  "Raiatea Island": [
+    "RFP"
+  ],
+  "Port-vila": [
+    "VLI"
+  ],
+  "Kone": [
+    "KNQ"
+  ],
+  "Koumac": [
+    "KOC"
+  ],
+  "Lifou": [
+    "LIF"
+  ],
+  "Noumea": [
+    "GEA",
+    "NOU"
+  ],
+  "Mare": [
+    "MEE"
+  ],
+  "Touho": [
+    "TOU"
+  ],
+  "Ouvea": [
+    "UVE"
+  ],
+  "Auckland": [
+    "AKL"
+  ],
+  "Taupo": [
+    "TUO"
+  ],
+  "Ardmore": [
+    "AMZ",
+    "ADM"
+  ],
+  "Christchurch": [
+    "CHC"
+  ],
+  "Chatham Island": [
+    "CHT"
+  ],
+  "Dunedin": [
+    "DUD"
+  ],
+  "Gisborne": [
+    "GIS"
+  ],
+  "Glentanner": [
+    "GTN"
+  ],
+  "Hokitika": [
+    "HKK"
+  ],
+  "Kerikeri": [
+    "KKE"
+  ],
+  "Kaitaia": [
+    "KAT"
+  ],
+  "Alexandra": [
+    "ALR"
+  ],
+  "Mount Cook": [
+    "MON"
+  ],
+  "Manapouri": [
+    "TEU"
+  ],
+  "Masterton": [
+    "MRO"
+  ],
+  "New Plymouth": [
+    "NPL"
+  ],
+  "Nelson": [
+    "NSN"
+  ],
+  "Invercargill": [
+    "IVC"
+  ],
+  "Ohakea": [
+    "OHA"
+  ],
+  "Oamaru": [
+    "OAM"
+  ],
+  "Palmerston North": [
+    "PMR"
+  ],
+  "Paraparaumu": [
+    "PPQ"
+  ],
+  "Queenstown International": [
+    "ZQN"
+  ],
+  "Rotorua": [
+    "ROT"
+  ],
+  "Tauranga": [
+    "TRG"
+  ],
+  "Timaru": [
+    "TIU"
+  ],
+  "Pukaki": [
+    "TWZ"
+  ],
+  "Woodbourne": [
+    "BHE"
+  ],
+  "Wanaka": [
+    "WKA"
+  ],
+  "Whakatane": [
+    "WHK"
+  ],
+  "Wellington": [
+    "WLG"
+  ],
+  "Wairoa": [
+    "WIR"
+  ],
+  "Whangarei": [
+    "WRE"
+  ],
+  "Westport": [
+    "WSZ"
+  ],
+  "Wanganui": [
+    "WAG"
+  ],
+  "Herat": [
+    "HEA"
+  ],
+  "Jalalabad": [
+    "JAA"
+  ],
+  "Kabul": [
+    "KBL",
+    "OAI"
+  ],
+  "Kandahar": [
+    "KDH"
+  ],
+  "Maimama": [
+    "MMZ"
+  ],
+  "Mazar-i-sharif": [
+    "MZR"
+  ],
+  "Shindand": [
+    "OAH"
+  ],
+  "Kunduz": [
+    "UND"
+  ],
+  "Bahrain": [
+    "BAH"
+  ],
+  "Abha": [
+    "AHB"
+  ],
+  "Al-ahsa": [
+    "HOF"
+  ],
+  "El-baha": [
+    "ABT"
+  ],
+  "Bisha": [
+    "BHH"
+  ],
+  "Dammam": [
+    "DMM"
+  ],
+  "Dhahran": [
+    "DHA"
+  ],
+  "Gizan": [
+    "GIZ"
+  ],
+  "Gassim": [
+    "ELQ"
+  ],
+  "Guriat": [
+    "URY"
+  ],
+  "Hail": [
+    "HAS"
+  ],
+  "Jubail": [
+    "QJB"
+  ],
+  "Jeddah": [
+    "JED"
+  ],
+  "King Khalid Mil.city": [
+    "KMC"
+  ],
+  "Madinah": [
+    "MED"
+  ],
+  "Nejran": [
+    "EAM"
+  ],
+  "Hafr Al-batin": [
+    "AQI"
+  ],
+  "Rafha": [
+    "RAH"
+  ],
+  "Riyadh": [
+    "RUH",
+    "XXN"
+  ],
+  "Arar": [
+    "RAE"
+  ],
+  "Sharurah": [
+    "SHW"
+  ],
+  "Sulayel": [
+    "SLF"
+  ],
+  "Tabuk": [
+    "TUU"
+  ],
+  "Taif": [
+    "TIF"
+  ],
+  "Turaif": [
+    "TUI"
+  ],
+  "Wejh": [
+    "EJH"
+  ],
+  "Yenbo": [
+    "YNB"
+  ],
+  "Abadan": [
+    "ABD"
+  ],
+  "Dezful": [
+    "DEF"
+  ],
+  "Aghajari": [
+    "AKW"
+  ],
+  "Gachsaran": [
+    "GCH"
+  ],
+  "Omidyeh": [
+    "OMI"
+  ],
+  "Bandar Mahshahr": [
+    "MRX"
+  ],
+  "Ahwaz": [
+    "AWZ"
+  ],
+  "Abumusa I.": [
+    "AEU"
+  ],
+  "Bushehr": [
+    "BUZ"
+  ],
+  "Kish Island": [
+    "KIH"
+  ],
+  "Bandar Lengeh": [
+    "BDH"
+  ],
+  "Khark Island": [
+    "KHK"
+  ],
+  "Siri Island": [
+    "SXI"
+  ],
+  "Lavan Island": [
+    "LVP"
+  ],
+  "Bakhtaran": [
+    "KSH"
+  ],
+  "Sanandaj": [
+    "SDG"
+  ],
+  "Daran": [
+    "IFH"
+  ],
+  "Kashan": [
+    "KKS"
+  ],
+  "Esfahan": [
+    "IFN"
+  ],
+  "Rasht": [
+    "RAS"
+  ],
+  "Arak": [
+    "AJK"
+  ],
+  "Teheran": [
+    "THR"
+  ],
+  "Ghazvin": [
+    "GZW"
+  ],
+  "Bandar Abbas": [
+    "BND",
+    "HDR"
+  ],
+  "Jiroft": [
+    "JYR"
+  ],
+  "Kerman": [
+    "KER"
+  ],
+  "Sirjan": [
+    "SYJ"
+  ],
+  "Birjand": [
+    "XBJ"
+  ],
+  "Sarakhs": [
+    "CKT"
+  ],
+  "Emam Shahr": [
+    "RUD"
+  ],
+  "Tabas": [
+    "TCX"
+  ],
+  "Kalaleh": [
+    "KLM"
+  ],
+  "Ramsar": [
+    "RZR"
+  ],
+  "Fasa": [
+    "FAZ"
+  ],
+  "Jahrom": [
+    "JAR"
+  ],
+  "Lamerd": [
+    "LFM"
+  ],
+  "Shiraz": [
+    "SYZ"
+  ],
+  "Khoy": [
+    "KHY"
+  ],
+  "Tabriz": [
+    "TBZ"
+  ],
+  "Zanjan": [
+    "JWN"
+  ],
+  "Yazd": [
+    "AZD"
+  ],
+  "Zabol": [
+    "ACZ"
+  ],
+  "Chah Bahar": [
+    "ZBR"
+  ],
+  "Zahedan": [
+    "ZAH"
+  ],
+  "Iran Shahr": [
+    "IHR"
+  ],
+  "Amman": [
+    "AMM",
+    "ADJ"
+  ],
+  "Aqaba": [
+    "AQJ"
+  ],
+  "Mafraq": [
+    "OMF"
+  ],
+  "Kuwait": [
+    "KWI"
+  ],
+  "Beirut": [
+    "BEY"
+  ],
+  "Kleiat": [
+    "KYE"
+  ],
+  "Abu Dhabi": [
+    "AUH",
+    "AZI",
+    "DHF"
+  ],
+  "Dubai": [
+    "DXB",
+    "DWC"
+  ],
+  "Fujeirah": [
+    "FJR"
+  ],
+  "Ras Al Khaimah": [
+    "RKT"
+  ],
+  "Sharjah": [
+    "SHJ"
+  ],
+  "Khasab": [
+    "KHS"
+  ],
+  "Masirah": [
+    "MSH"
+  ],
+  "Muscat": [
+    "MCT"
+  ],
+  "Salalah": [
+    "SLL"
+  ],
+  "Thumrait": [
+    "TTH"
+  ],
+  "Bhagtanwala": [
+    "BHW"
+  ],
+  "Faisalabad": [
+    "LYP"
+  ],
+  "Gwadar": [
+    "GWD"
+  ],
+  "Gilgit": [
+    "GIL"
+  ],
+  "Jacobsbad": [
+    "JAG"
+  ],
+  "Karachi": [
+    "KHI"
+  ],
+  "Lahore": [
+    "LHE"
+  ],
+  "Mangla": [
+    "XJM"
+  ],
+  "Muzaffarabad": [
+    "MFG"
+  ],
+  "Mianwali": [
+    "MWD"
+  ],
+  "Moenjodaro": [
+    "MJD"
+  ],
+  "Multan": [
+    "MUX"
+  ],
+  "Nawabshah": [
+    "WNS"
+  ],
+  "Panjgur": [
+    "PJG"
+  ],
+  "Pasni": [
+    "PSI"
+  ],
+  "Peshawar": [
+    "PEW"
+  ],
+  "Quetta": [
+    "UET"
+  ],
+  "Rahim Yar Khan": [
+    "RYK"
+  ],
+  "Rawala Kot": [
+    "RAZ"
+  ],
+  "Sukkur": [
+    "SKZ"
+  ],
+  "Saidu Sharif": [
+    "SDT"
+  ],
+  "Sui": [
+    "SUL"
+  ],
+  "Talhar": [
+    "BDN"
+  ],
+  "Wana": [
+    "WAF"
+  ],
+  "Zhob": [
+    "PZH"
+  ],
+  "Basrah": [
+    "BSR"
+  ],
+  "Aleppo": [
+    "ALP"
+  ],
+  "Damascus": [
+    "DAM"
+  ],
+  "Deire Zor": [
+    "DEZ"
+  ],
+  "Latakia": [
+    "LTK"
+  ],
+  "Palmyra": [
+    "PMS"
+  ],
+  "Doha": [
+    "DIA",
+    "XJD",
+    "DOH"
+  ],
+  "Canton Island": [
+    "CIS"
+  ],
+  "Saipan": [
+    "SPN"
+  ],
+  "Andersen": [
+    "UAM",
+    "AND"
+  ],
+  "Agana": [
+    "GUM"
+  ],
+  "West Tinian": [
+    "TIQ"
+  ],
+  "Majuro": [
+    "MAJ"
+  ],
+  "Kwajalein": [
+    "KWA"
+  ],
+  "Kiritimati": [
+    "CXI"
+  ],
+  "Midway": [
+    "MDY"
+  ],
+  "Chuuk": [
+    "TKK"
+  ],
+  "Pohnpei": [
+    "PNI"
+  ],
+  "Babelthuap": [
+    "ROR"
+  ],
+  "Kosrae": [
+    "KSA"
+  ],
+  "Yap": [
+    "YAP"
+  ],
+  "Kinmen": [
+    "KNH"
+  ],
+  "Fengnin": [
+    "TTT"
+  ],
+  "Green Island": [
+    "GNI"
+  ],
+  "Kaohsiung": [
+    "KHH"
+  ],
+  "Chiayi": [
+    "CYI"
+  ],
+  "Lanyu": [
+    "KYD"
+  ],
+  "Taichung": [
+    "RMQ",
+    "TXG"
+  ],
+  "Tainan": [
+    "TNN"
+  ],
+  "Hsinchu": [
+    "HSZ"
+  ],
+  "Makung": [
+    "MZG"
+  ],
+  "Pingtung": [
+    "PIF"
+  ],
+  "Taipei": [
+    "TSA",
+    "TPE"
+  ],
+  "Wang An": [
+    "WOT"
+  ],
+  "Hualien": [
+    "HUN"
+  ],
+  "Tokyo": [
+    "NRT",
+    "HND"
+  ],
+  "Matsumoto": [
+    "MMJ"
+  ],
+  "Ibaraki": [
+    "IBR"
+  ],
+  "Minami Tori Shima": [
+    "MUS"
+  ],
+  "Iwojima": [
+    "IWO"
+  ],
+  "Nanki-shirahama": [
+    "SHM"
+  ],
+  "Obihiro": [
+    "OBO"
+  ],
+  "Sapporo": [
+    "CTS",
+    "OKD"
+  ],
+  "Hakodate": [
+    "HKD"
+  ],
+  "Memanbetsu": [
+    "MMB"
+  ],
+  "Nakashibetsu": [
+    "SHB"
+  ],
+  "Wakkanai": [
+    "WKJ"
+  ],
+  "Iki": [
+    "IKI"
+  ],
+  "Yamaguchi": [
+    "UBJ"
+  ],
+  "Tsushima": [
+    "TSJ"
+  ],
+  "Monbetsu": [
+    "MBE"
+  ],
+  "Asahikawa": [
+    "AKJ"
+  ],
+  "Okushiri": [
+    "OIR"
+  ],
+  "Rishiri Island": [
+    "RIS"
+  ],
+  "Yakushima": [
+    "KUM"
+  ],
+  "Fukue": [
+    "FUJ"
+  ],
+  "Fukuoka": [
+    "FUK"
+  ],
+  "Tanegashima": [
+    "TNE"
+  ],
+  "Kagoshima": [
+    "KOJ"
+  ],
+  "Miyazaki": [
+    "KMI"
+  ],
+  "Oita": [
+    "OIT"
+  ],
+  "Kitakyushu": [
+    "KKJ"
+  ],
+  "Kumamoto": [
+    "KMJ"
+  ],
+  "Nagasaki": [
+    "NGS"
+  ],
+  "Amami": [
+    "ASJ"
+  ],
+  "Okierabu": [
+    "OKE"
+  ],
+  "Tokunoshima": [
+    "TKN"
+  ],
+  "Fukui": [
+    "FKJ"
+  ],
+  "Gifu": [
+    "QGU"
+  ],
+  "Kanazawa": [
+    "KMQ"
+  ],
+  "Oki Island": [
+    "OKI"
+  ],
+  "Toyama": [
+    "TOY"
+  ],
+  "Hiroshima": [
+    "HIJ",
+    "HIW"
+  ],
+  "Okayama": [
+    "OKJ"
+  ],
+  "Izumo": [
+    "IZO"
+  ],
+  "Miho": [
+    "YGJ"
+  ],
+  "Kochi": [
+    "KCZ",
+    "COK"
+  ],
+  "Matsuyama": [
+    "MYJ"
+  ],
+  "Osaka": [
+    "ITM",
+    "KIX"
+  ],
+  "Tottori": [
+    "TTJ"
+  ],
+  "Tokushima": [
+    "TKS"
+  ],
+  "Takamatsu": [
+    "TAK"
+  ],
+  "Aomori": [
+    "AOJ"
+  ],
+  "Yamagata": [
+    "GAJ"
+  ],
+  "Sado": [
+    "SDS"
+  ],
+  "Hachinoe": [
+    "HHE"
+  ],
+  "Hanamaki": [
+    "HNA"
+  ],
+  "Akita": [
+    "AXT"
+  ],
+  "Misawa": [
+    "MSJ"
+  ],
+  "Sendai": [
+    "SDJ"
+  ],
+  "Atsugi": [
+    "NJA"
+  ],
+  "Hachijojima": [
+    "HAC"
+  ],
+  "Oshima": [
+    "OIM"
+  ],
+  "Yokota": [
+    "OKO"
+  ],
+  "Kwangju": [
+    "KWJ"
+  ],
+  "Jhunju": [
+    "CHN"
+  ],
+  "Yeosu": [
+    "RSU"
+  ],
+  "Kangnung": [
+    "KAG"
+  ],
+  "Cheju": [
+    "CJU"
+  ],
+  "Chinhae": [
+    "CHF"
+  ],
+  "Busan": [
+    "PUS"
+  ],
+  "Ulsan": [
+    "USN"
+  ],
+  "Seoul East": [
+    "SSN"
+  ],
+  "Osan": [
+    "OSN"
+  ],
+  "Seoul": [
+    "GMP",
+    "ICN"
+  ],
+  "Suwon": [
+    "SWU"
+  ],
+  "Pohang": [
+    "KPO"
+  ],
+  "Taegu": [
+    "TAE"
+  ],
+  "Yechon": [
+    "YEC"
+  ],
+  "Okinawa": [
+    "OKA"
+  ],
+  "Kadena": [
+    "DNA"
+  ],
+  "Ishigaki": [
+    "ISG"
+  ],
+  "Kumejima": [
+    "UEO"
+  ],
+  "Minami Daito": [
+    "MMD"
+  ],
+  "Miyako": [
+    "MMY"
+  ],
+  "Kitadaito": [
+    "KTD"
+  ],
+  "Shimojishima": [
+    "SHI"
+  ],
+  "Tarama": [
+    "TRA"
+  ],
+  "Yoron": [
+    "RNJ"
+  ],
+  "Yonaguni Jima": [
+    "OGN"
+  ],
+  "Manila": [
+    "MNL"
+  ],
+  "Cotabato": [
+    "CBO"
+  ],
+  "Pagadian": [
+    "PAG"
+  ],
+  "Romblon": [
+    "GES",
+    "TBH"
+  ],
+  "Zamboanga": [
+    "ZAM"
+  ],
+  "Baguio": [
+    "BAG"
+  ],
+  "Daet": [
+    "DTE"
+  ],
+  "Mamburao": [
+    "MBO"
+  ],
+  "Baler": [
+    "BQA"
+  ],
+  "Tacloban": [
+    "TAC"
+  ],
+  "Bacolod": [
+    "BCD"
+  ],
+  "Dumaguete": [
+    "DGT"
+  ],
+  "Caticlan": [
+    "MPH"
+  ],
+  "Iloilo": [
+    "ILO"
+  ],
+  "Kalibo": [
+    "KLO"
+  ],
+  "Puerto Princesa": [
+    "PPS"
+  ],
+  "Concordia": [
+    "COC",
+    "CCI"
+  ],
+  "Gualeguaychu": [
+    "GHU"
+  ],
+  "Junin": [
+    "JNI"
+  ],
+  "Parana": [
+    "PRA"
+  ],
+  "Rosario": [
+    "ROS"
+  ],
+  "Santa Fe": [
+    "SFN",
+    "SAF"
+  ],
+  "San Fernando": [
+    "FDO",
+    "SFE"
+  ],
+  "La Plata": [
+    "LPG"
+  ],
+  "El Palomar": [
+    "EPA"
+  ],
+  "Chosmadal": [
+    "HOS"
+  ],
+  "Fuerte Gral Roca": [
+    "GNR"
+  ],
+  "Mendoza": [
+    "MDZ"
+  ],
+  "Malargue": [
+    "LGS"
+  ],
+  "San Rafael": [
+    "AFA"
+  ],
+  "Catamarca": [
+    "CTC"
+  ],
+  "Santiago Del Estero": [
+    "SDE"
+  ],
+  "La Rioja": [
+    "IRJ"
+  ],
+  "Tucuman": [
+    "TUC"
+  ],
+  "San Juan": [
+    "UAQ",
+    "SIG",
+    "SJU"
+  ],
+  "Rio Cuarto": [
+    "RCU"
+  ],
+  "Villa Dolores": [
+    "VDR"
+  ],
+  "Villa Reynolds": [
+    "VME"
+  ],
+  "San Luis": [
+    "LUQ"
+  ],
+  "Corrientes": [
+    "CNQ"
+  ],
+  "Resistencia": [
+    "RES"
+  ],
+  "Formosa": [
+    "FMA"
+  ],
+  "Iguazu Falls": [
+    "IGR"
+  ],
+  "Paso De Los Libres": [
+    "AOL"
+  ],
+  "Monte Caseros": [
+    "MCS"
+  ],
+  "Posadas": [
+    "PSS"
+  ],
+  "Presidencia R.s.pena": [
+    "PRQ"
+  ],
+  "Salta": [
+    "SLA"
+  ],
+  "Jujuy": [
+    "JUJ"
+  ],
+  "El Dorado": [
+    "ELO",
+    "EOR",
+    "ELD"
+  ],
+  "Goya": [
+    "OYA"
+  ],
+  "Reconquista": [
+    "RCQ"
+  ],
+  "Curuzu Cuatia": [
+    "UZU"
+  ],
+  "El Bolson": [
+    "EHL"
+  ],
+  "Comodoro Rivadavia": [
+    "CRD"
+  ],
+  "Esquel": [
+    "EQS"
+  ],
+  "Trelew": [
+    "REL"
+  ],
+  "Viedma": [
+    "VDM"
+  ],
+  "Puerto Madryn": [
+    "PMY"
+  ],
+  "Puerto Deseado": [
+    "PUD"
+  ],
+  "Rio Grande": [
+    "RGA"
+  ],
+  "Rio Gallegos": [
+    "RGL"
+  ],
+  "Ushuaia": [
+    "USH"
+  ],
+  "San Julian": [
+    "ULA"
+  ],
+  "Perito Moreno": [
+    "PMQ"
+  ],
+  "Santa Cruz": [
+    "RZA",
+    "VVI",
+    "SRZ"
+  ],
+  "Bahia Blanca": [
+    "BHI"
+  ],
+  "Colonel Suarez": [
+    "CSZ"
+  ],
+  "Olavarria": [
+    "OVR"
+  ],
+  "General Pico": [
+    "GPO"
+  ],
+  "Tres Arroyos": [
+    "OYO"
+  ],
+  "Mar Del Plata": [
+    "MDQ"
+  ],
+  "Neuquen": [
+    "NQN"
+  ],
+  "Pehuajo": [
+    "PEH"
+  ],
+  "Santa Rosa": [
+    "RSA",
+    "ETR",
+    "SRA",
+    "STS"
+  ],
+  "San Carlos De Bariloche": [
+    "BRC"
+  ],
+  "Tandil": [
+    "TDL"
+  ],
+  "Villa Gesell": [
+    "VLG"
+  ],
+  "Cutralco": [
+    "CUT"
+  ],
+  "San Martin Des Andes": [
+    "CPC"
+  ],
+  "Conceicao Do Araguaia": [
+    "CDJ"
+  ],
+  "Araracuara": [
+    "AQA",
+    "ACR"
+  ],
+  "Aracaju": [
+    "AJU"
+  ],
+  "Alta Floresta": [
+    "AFL"
+  ],
+  "Aracatuba": [
+    "ARU"
+  ],
+  "Belem": [
+    "BEL"
+  ],
+  "Bage": [
+    "BGX"
+  ],
+  "Belo Horizonte": [
+    "PLU",
+    "CNF"
+  ],
+  "Curitiba": [
+    "BFH",
+    "CWB"
+  ],
+  "Brasilia": [
+    "BSB"
+  ],
+  "Bauru": [
+    "BAU",
+    "JTC"
+  ],
+  "Barra Do Garcas": [
+    "BPG"
+  ],
+  "Cascavel": [
+    "CAC"
+  ],
+  "Campo Grande": [
+    "CGR"
+  ],
+  "Chapeco": [
+    "XAP"
+  ],
+  "Carolina": [
+    "CLN"
+  ],
+  "Criciuma": [
+    "CCM"
+  ],
+  "Campos": [
+    "CAW"
+  ],
+  "Corumba": [
+    "CMG"
+  ],
+  "Caravelas": [
+    "CRQ"
+  ],
+  "Caxias Do Sul": [
+    "CXJ"
+  ],
+  "Cuiaba": [
+    "CGB"
+  ],
+  "Cruzeiro do Sul": [
+    "CZS"
+  ],
+  "President Prudente": [
+    "PPB"
+  ],
+  "Manaus": [
+    "MAO",
+    "PLL"
+  ],
+  "Jacare-acanga": [
+    "JCR"
+  ],
+  "Foz Do Iguacu": [
+    "IGU"
+  ],
+  "Florianopolis": [
+    "FLN"
+  ],
+  "Fernando Do Noronha": [
+    "FEN"
+  ],
+  "Fortaleza": [
+    "FOR"
+  ],
+  "Rio De Janeiro": [
+    "GIG",
+    "SDU",
+    "SNZ"
+  ],
+  "Guajara-mirim": [
+    "GJM"
+  ],
+  "Goiania": [
+    "GYN"
+  ],
+  "Sao Paulo": [
+    "GRU",
+    "CGH"
+  ],
+  "Guaratingueta": [
+    "GUJ"
+  ],
+  "Altamira": [
+    "ATM"
+  ],
+  "Itaituba": [
+    "ITA",
+    "ITB"
+  ],
+  "Ilheus": [
+    "IOS"
+  ],
+  "Ipatinga": [
+    "IPN"
+  ],
+  "Itumbiara": [
+    "ITR"
+  ],
+  "Imperatriz": [
+    "IMP"
+  ],
+  "Juiz De Fora": [
+    "JDF"
+  ],
+  "Joao Pessoa": [
+    "JPA"
+  ],
+  "Joinville": [
+    "JOI"
+  ],
+  "Campina Grande": [
+    "CPV"
+  ],
+  "Campinas": [
+    "VCP",
+    "CPQ"
+  ],
+  "Lajes": [
+    "LAJ"
+  ],
+  "Lins": [
+    "LIP"
+  ],
+  "Londrina": [
+    "LDB"
+  ],
+  "Bom Jesus Da Lapa": [
+    "LAZ"
+  ],
+  "Maraba": [
+    "MAB"
+  ],
+  "Almeirim": [
+    "MEU"
+  ],
+  "Maringa": [
+    "MGF"
+  ],
+  "Montes Claros": [
+    "MOC"
+  ],
+  "Maceio": [
+    "MCZ"
+  ],
+  "Macapa": [
+    "MCP"
+  ],
+  "Mocord": [
+    "MVF"
+  ],
+  "Manicore": [
+    "MNX"
+  ],
+  "Navegantes": [
+    "NVT"
+  ],
+  "Santo Angelo": [
+    "GEL"
+  ],
+  "Natal": [
+    "NAT"
+  ],
+  "Oioiapoque": [
+    "OYK"
+  ],
+  "Porto Alegre": [
+    "POA"
+  ],
+  "Parnaiba": [
+    "PHB"
+  ],
+  "Pocos De Caldas": [
+    "POO"
+  ],
+  "Passo Fundo": [
+    "PFB"
+  ],
+  "Pelotas": [
+    "PET"
+  ],
+  "Petrolina": [
+    "PNZ"
+  ],
+  "Porto Nacional": [
+    "PNB"
+  ],
+  "Ponta Pora": [
+    "PMG"
+  ],
+  "Porto Velho": [
+    "PVH"
+  ],
+  "Rio Branco": [
+    "RBR"
+  ],
+  "Recife": [
+    "REC"
+  ],
+  "Ribeirao Preto": [
+    "RAO"
+  ],
+  "Sao Jose Dos Campos": [
+    "SJK"
+  ],
+  "Sao Luis": [
+    "SLZ"
+  ],
+  "Sao Jose Do Rio Preto": [
+    "SJP"
+  ],
+  "Santos": [
+    "SSZ"
+  ],
+  "Salvador": [
+    "SSA"
+  ],
+  "Oriximina": [
+    "TMT",
+    "ORX"
+  ],
+  "Teresina": [
+    "THE"
+  ],
+  "Tefe": [
+    "TFF"
+  ],
+  "Tarauaca": [
+    "TRQ"
+  ],
+  "Telemaco Borba": [
+    "TEC"
+  ],
+  "Tabatinga": [
+    "TBT"
+  ],
+  "Tucurui": [
+    "TUR"
+  ],
+  "Sao Gabriel": [
+    "SJL"
+  ],
+  "Paulo Alfonso": [
+    "PAV"
+  ],
+  "Uruguaiana": [
+    "URG"
+  ],
+  "Uberlandia": [
+    "UDI"
+  ],
+  "Uberaba": [
+    "UBA"
+  ],
+  "Varginha": [
+    "VAG"
+  ],
+  "Vilhena": [
+    "BVH"
+  ],
+  "Piracununga": [
+    "QPS"
+  ],
+  "Arica": [
+    "ARI"
+  ],
+  "Balmaceda": [
+    "BBA"
+  ],
+  "Chile Chico": [
+    "CCH"
+  ],
+  "Calama": [
+    "CJC"
+  ],
+  "Chillan": [
+    "YAI"
+  ],
+  "Punta Arenas": [
+    "PUQ"
+  ],
+  "Coyhaique": [
+    "GXQ"
+  ],
+  "Iquique": [
+    "IQQ"
+  ],
+  "Antofagasta": [
+    "ANF"
+  ],
+  "Porvenir": [
+    "WPR"
+  ],
+  "Futaleufu": [
+    "FFU"
+  ],
+  "Los Angeles": [
+    "LSQ",
+    "LAX",
+    "WHP"
+  ],
+  "Puerto Williams": [
+    "WPU"
+  ],
+  "Concepcion": [
+    "CCP"
+  ],
+  "Easter Island": [
+    "IPC"
+  ],
+  "Osorno": [
+    "ZOS"
+  ],
+  "Vallenar": [
+    "VLR"
+  ],
+  "Rancagua": [
+    "QRC"
+  ],
+  "Isla Rey Jorge": [
+    "TNM"
+  ],
+  "La Serena": [
+    "LSC"
+  ],
+  "Temuco": [
+    "PZS",
+    "ZCO"
+  ],
+  "Puerto Montt": [
+    "PMC"
+  ],
+  "Chaiten": [
+    "WCH"
+  ],
+  "Valdivia": [
+    "ZAL"
+  ],
+  "Ambato": [
+    "ATF"
+  ],
+  "Coca": [
+    "OCC"
+  ],
+  "Cuenca": [
+    "CUE"
+  ],
+  "Galapagos": [
+    "GPS"
+  ],
+  "Guayaquil": [
+    "GYE"
+  ],
+  "Latacunga": [
+    "LTX"
+  ],
+  "Macara": [
+    "MRR"
+  ],
+  "Macas": [
+    "XMS"
+  ],
+  "Machala": [
+    "MCH"
+  ],
+  "Manta": [
+    "MEC"
+  ],
+  "Portoviejo": [
+    "PVO"
+  ],
+  "Quito": [
+    "UIO"
+  ],
+  "Salinas": [
+    "SNC",
+    "SNS"
+  ],
+  "Tarapoa": [
+    "TPC"
+  ],
+  "Tulcan": [
+    "TUA"
+  ],
+  "Asuncion": [
+    "ASU"
+  ],
+  "Ayolas": [
+    "AYO"
+  ],
+  "Conception": [
+    "CIO"
+  ],
+  "Mariscal Estigarribia": [
+    "ESG"
+  ],
+  "Pilar": [
+    "PIL"
+  ],
+  "Armenia": [
+    "AXM"
+  ],
+  "Puerto Asis": [
+    "PUU"
+  ],
+  "El Banco": [
+    "ELB"
+  ],
+  "Bucaramanga": [
+    "BGA"
+  ],
+  "Bogota": [
+    "BOG"
+  ],
+  "Barranquilla": [
+    "BAQ"
+  ],
+  "Bahia Solano": [
+    "BSC"
+  ],
+  "Buenaventura": [
+    "BUN"
+  ],
+  "Cucuta": [
+    "CUC"
+  ],
+  "Cartagena": [
+    "CTG"
+  ],
+  "Cali": [
+    "CLO"
+  ],
+  "Tumaco": [
+    "TCO"
+  ],
+  "Corozal": [
+    "CZU"
+  ],
+  "Barrancabermeja": [
+    "EJA"
+  ],
+  "Florencia": [
+    "FLA"
+  ],
+  "Girardot": [
+    "GIR"
+  ],
+  "Guapi": [
+    "GPI"
+  ],
+  "Ibague": [
+    "IBE"
+  ],
+  "Ipiales": [
+    "IPI"
+  ],
+  "Carepa": [
+    "APO"
+  ],
+  "La Mina": [
+    "MCJ"
+  ],
+  "Leticia": [
+    "LET"
+  ],
+  "Medellin": [
+    "EOH"
+  ],
+  "Magangue": [
+    "MGN"
+  ],
+  "Monteria": [
+    "MTR"
+  ],
+  "Mitu": [
+    "MVP"
+  ],
+  "Manizales": [
+    "MZL"
+  ],
+  "Neiva": [
+    "NVA"
+  ],
+  "Ocana": [
+    "OCV"
+  ],
+  "Otu": [
+    "OTU"
+  ],
+  "Puerto Carreno": [
+    "PCR"
+  ],
+  "Pereira": [
+    "PEI"
+  ],
+  "Pitalito": [
+    "PTX"
+  ],
+  "Popayan": [
+    "PPN"
+  ],
+  "Pasto": [
+    "PSO"
+  ],
+  "Providencia": [
+    "PVA"
+  ],
+  "Mariquita": [
+    "MQU"
+  ],
+  "Rio Negro": [
+    "MDE"
+  ],
+  "Rio Hacha": [
+    "RCH"
+  ],
+  "San Jose Del Guaviare": [
+    "SJE"
+  ],
+  "Santa Marta": [
+    "SMR"
+  ],
+  "San Andres Island": [
+    "ADZ"
+  ],
+  "San Vincente De Caguan": [
+    "SVI"
+  ],
+  "Tame": [
+    "TME"
+  ],
+  "Arauca": [
+    "AUC"
+  ],
+  "Quibdo": [
+    "UIB"
+  ],
+  "Tulua": [
+    "ULQ"
+  ],
+  "Valledupar": [
+    "VUP"
+  ],
+  "Villavicencio": [
+    "VVC"
+  ],
+  "Bermejo": [
+    "BJO"
+  ],
+  "Cochabamba": [
+    "CBB"
+  ],
+  "Chapacura": [
+    "CCA"
+  ],
+  "Cobija": [
+    "CIJ"
+  ],
+  "Oruro": [
+    "ORU"
+  ],
+  "Potosi": [
+    "POI"
+  ],
+  "Puerto Suarez": [
+    "PSZ"
+  ],
+  "Santa Ana": [
+    "SBL",
+    "SNA",
+    "NZJ",
+    "NNB"
+  ],
+  "Sucre": [
+    "SRE"
+  ],
+  "Tarija": [
+    "TJA"
+  ],
+  "Trinidad": [
+    "TDD",
+    "TND"
+  ],
+  "Villa Montes": [
+    "VLM"
+  ],
+  "Yacuiba": [
+    "BYC"
+  ],
+  "Zandery": [
+    "PBM"
+  ],
+  "Cayenne": [
+    "CAY"
+  ],
+  "St.-georges Oyapock": [
+    "OYP"
+  ],
+  "Andoas": [
+    "AOP"
+  ],
+  "Iberia": [
+    "IBP"
+  ],
+  "Pucallpa": [
+    "PCL"
+  ],
+  "Chimbote": [
+    "CHM"
+  ],
+  "Chiclayo": [
+    "CIX"
+  ],
+  "Ayacucho": [
+    "AYP"
+  ],
+  "Andahuaylas": [
+    "ANS"
+  ],
+  "Anta": [
+    "ATA"
+  ],
+  "Lima": [
+    "LIM",
+    "AOH"
+  ],
+  "Juanjui": [
+    "JJI"
+  ],
+  "Jauja": [
+    "JAU"
+  ],
+  "Juliaca": [
+    "JUL"
+  ],
+  "Ilo": [
+    "ILQ"
+  ],
+  "Tumbes": [
+    "TBP"
+  ],
+  "Yurimaguas": [
+    "YMS"
+  ],
+  "Chachapoyas": [
+    "CHH"
+  ],
+  "Iquitos": [
+    "IQT"
+  ],
+  "Arequipa": [
+    "AQP"
+  ],
+  "Pisco": [
+    "PIO"
+  ],
+  "Tarapoto": [
+    "TPP"
+  ],
+  "Tacna": [
+    "TCQ"
+  ],
+  "Puerto Maldonado": [
+    "PEM"
+  ],
+  "Piura": [
+    "PIU"
+  ],
+  "Talara": [
+    "TYL"
+  ],
+  "Cuzco": [
+    "CUZ"
+  ],
+  "Durazno": [
+    "DZO"
+  ],
+  "Montevideo": [
+    "MVD"
+  ],
+  "Salto": [
+    "STY"
+  ],
+  "Acarigua": [
+    "AGV"
+  ],
+  "Anaco": [
+    "AAO"
+  ],
+  "Barinas": [
+    "BNS"
+  ],
+  "Barquisimeto": [
+    "BRM"
+  ],
+  "Ciudad Bolivar": [
+    "CBL"
+  ],
+  "Caicara De Orinoco": [
+    "CXA"
+  ],
+  "Calabozo": [
+    "CLZ"
+  ],
+  "Canaima": [
+    "CAJ"
+  ],
+  "Carora": [
+    "VCR"
+  ],
+  "Carupano": [
+    "CUP"
+  ],
+  "Coro": [
+    "CZE"
+  ],
+  "Cumana": [
+    "CUM"
+  ],
+  "Elorza": [
+    "EOZ"
+  ],
+  "Guasdualito": [
+    "GDO"
+  ],
+  "Guiria": [
+    "GUI"
+  ],
+  "Guanare": [
+    "GUQ"
+  ],
+  "Higuerote": [
+    "HGE"
+  ],
+  "Isla De Coche": [
+    "ICC"
+  ],
+  "Paraguana": [
+    "LSP"
+  ],
+  "La Fria": [
+    "LFR"
+  ],
+  "Maracaibo": [
+    "MAR"
+  ],
+  "Porlamar": [
+    "PMV"
+  ],
+  "Caracas": [
+    "CCS"
+  ],
+  "Maturin": [
+    "MUN"
+  ],
+  "Puerto Ayacucho": [
+    "PYH"
+  ],
+  "Puerto Cabello": [
+    "PBL"
+  ],
+  "San Cristobal": [
+    "SCI"
+  ],
+  "Guayana": [
+    "PZO"
+  ],
+  "Palmarito": [
+    "PTM"
+  ],
+  "San Antonio": [
+    "SVZ",
+    "SAT",
+    "SKF",
+    "RND"
+  ],
+  "Santa Barbara": [
+    "SBB",
+    "STB",
+    "SBA"
+  ],
+  "Santa Ana De Uairen": [
+    "SNV"
+  ],
+  "San Felipe": [
+    "SNF"
+  ],
+  "San Fernando De Apure": [
+    "SFD"
+  ],
+  "San Tome": [
+    "SOM"
+  ],
+  "Tucupita": [
+    "TUV"
+  ],
+  "Tumeremo": [
+    "TMO"
+  ],
+  "Valera": [
+    "VLV"
+  ],
+  "Valle De La Pascua": [
+    "VDP"
+  ],
+  "Lethem": [
+    "LTM"
+  ],
+  "Antigua": [
+    "ANU"
+  ],
+  "Bridgetown": [
+    "BGI"
+  ],
+  "Canefield": [
+    "DCF"
+  ],
+  "Dominica": [
+    "DOM"
+  ],
+  "Fort-de-france": [
+    "FDF"
+  ],
+  "St. Martin": [
+    "SFG"
+  ],
+  "Pointe-a-pitre": [
+    "PTP"
+  ],
+  "Point Salines": [
+    "GND"
+  ],
+  "St. Thomas": [
+    "STT"
+  ],
+  "St. Croix Island": [
+    "STX"
+  ],
+  "Aguadilla": [
+    "BQN"
+  ],
+  "Fajardo": [
+    "FAJ"
+  ],
+  "Mayaguez": [
+    "MAZ"
+  ],
+  "Ponce": [
+    "PSE"
+  ],
+  "Basse Terre": [
+    "SKB",
+    "BBR"
+  ],
+  "Castries": [
+    "SLU"
+  ],
+  "Hewandorra": [
+    "UVF"
+  ],
+  "Oranjestad": [
+    "AUA",
+    "EUX"
+  ],
+  "Kralendijk": [
+    "BON"
+  ],
+  "Willemstad": [
+    "CUR"
+  ],
+  "Philipsburg": [
+    "SXM"
+  ],
+  "The Valley": [
+    "AXA"
+  ],
+  "Scarborough": [
+    "TAB"
+  ],
+  "Port-of-spain": [
+    "POS"
+  ],
+  "Tortola": [
+    "EIS"
+  ],
+  "Canouan Island": [
+    "CIW"
+  ],
+  "Mustique": [
+    "MQS"
+  ],
+  "Kingstown": [
+    "SVD"
+  ],
+  "Alma-ata": [
+    "ALA"
+  ],
+  "Balkhash": [
+    "BXH"
+  ],
+  "Tselinograd": [
+    "TSE"
+  ],
+  "Dzhambul": [
+    "DMB"
+  ],
+  "Bishkek": [
+    "FRU"
+  ],
+  "Osh": [
+    "OSS"
+  ],
+  "Chimkent": [
+    "CIT"
+  ],
+  "Uralsk": [
+    "URA"
+  ],
+  "Pavlodar": [
+    "PWQ"
+  ],
+  "Semiplatinsk": [
+    "PLX"
+  ],
+  "Aktyubinsk": [
+    "AKX"
+  ],
+  "Baku": [
+    "GYD",
+    "ZXT"
+  ],
+  "Yakutsk": [
+    "YKS",
+    "GYG"
+  ],
+  "Mirnyj": [
+    "MJZ"
+  ],
+  "Blagoveschensk": [
+    "BQS"
+  ],
+  "Khabarovsk": [
+    "KHV"
+  ],
+  "Provideniya Bay": [
+    "PVS"
+  ],
+  "Magadan": [
+    "GDX"
+  ],
+  "Pevek": [
+    "PWE"
+  ],
+  "Petropavlovsk": [
+    "PKC"
+  ],
+  "Yuzhno-sakhalinsk": [
+    "UUS"
+  ],
+  "Vladivostok": [
+    "VVO"
+  ],
+  "Chita": [
+    "HTA"
+  ],
+  "Bratsk": [
+    "BTK"
+  ],
+  "Irkutsk": [
+    "IKT"
+  ],
+  "Ulan-ude": [
+    "UUD"
+  ],
+  "Kiev": [
+    "KBP",
+    "IEV",
+    "GML"
+  ],
+  "Donetsk": [
+    "DOK"
+  ],
+  "Dnepropetrovsk": [
+    "DNK"
+  ],
+  "Simferopol": [
+    "SIP"
+  ],
+  "Lvov": [
+    "LWO"
+  ],
+  "Odessa": [
+    "ODS"
+  ],
+  "St. Petersburg": [
+    "LED",
+    "SPG",
+    "PIE"
+  ],
+  "Murmansk": [
+    "MMK"
+  ],
+  "Gomel": [
+    "GME"
+  ],
+  "Vitebsk": [
+    "VTB"
+  ],
+  "Kaliningrad": [
+    "KGD"
+  ],
+  "Minsk": [
+    "MHP"
+  ],
+  "Minsk 2": [
+    "MSQ"
+  ],
+  "Abakan": [
+    "ABA"
+  ],
+  "Barnaul": [
+    "BAX"
+  ],
+  "Kemorovo": [
+    "KEJ"
+  ],
+  "Omsk": [
+    "OMS"
+  ],
+  "Krasnodar": [
+    "KRR"
+  ],
+  "Makhachkala": [
+    "MCX"
+  ],
+  "Mineralnye Vody": [
+    "MRV"
+  ],
+  "Stavropol": [
+    "STW"
+  ],
+  "Rostov": [
+    "ROV"
+  ],
+  "Sochi": [
+    "AER"
+  ],
+  "Astrakhan": [
+    "ASF"
+  ],
+  "Volgograd": [
+    "VOG"
+  ],
+  "Chelyabinsk": [
+    "CEK"
+  ],
+  "Magnetiogorsk": [
+    "MQF"
+  ],
+  "Nizhnevartovsk": [
+    "NJC"
+  ],
+  "Perm": [
+    "PEE"
+  ],
+  "Surgut": [
+    "SGC"
+  ],
+  "Yekaterinburg": [
+    "SVX"
+  ],
+  "Ashkhabad": [
+    "ASB"
+  ],
+  "Krasnovodsk": [
+    "KRW"
+  ],
+  "Chardzhou": [
+    "CRZ"
+  ],
+  "Dushanbe": [
+    "DYU"
+  ],
+  "Bukhara": [
+    "BHK"
+  ],
+  "Samarkand": [
+    "SKD"
+  ],
+  "Tashkent": [
+    "TAS"
+  ],
+  "Bryansk": [
+    "BZK"
+  ],
+  "Moscow": [
+    "SVO",
+    "VKO",
+    "DME",
+    "BKA",
+    "OSF"
+  ],
+  "Tver": [
+    "KLD"
+  ],
+  "Voronezh": [
+    "VOZ"
+  ],
+  "Syktyvkar": [
+    "SCW"
+  ],
+  "Kazan": [
+    "KZN"
+  ],
+  "Orenburg": [
+    "REN"
+  ],
+  "Ufa": [
+    "UFA"
+  ],
+  "Samara": [
+    "KUF"
+  ],
+  "Ahmedabad": [
+    "AMD"
+  ],
+  "Akola": [
+    "AKD"
+  ],
+  "Aurangabad": [
+    "IXU"
+  ],
+  "Mumbai": [
+    "BOM"
+  ],
+  "Bilaspur": [
+    "PAB"
+  ],
+  "Bhuj": [
+    "BHJ"
+  ],
+  "Belgaum": [
+    "IXG"
+  ],
+  "Baroda": [
+    "BDQ"
+  ],
+  "Bhopal": [
+    "BHO"
+  ],
+  "Bhaunagar": [
+    "BHU"
+  ],
+  "Daman": [
+    "NMB"
+  ],
+  "Guna": [
+    "GUX"
+  ],
+  "Goa": [
+    "GOI"
+  ],
+  "Indore": [
+    "IDR"
+  ],
+  "Jabalpur": [
+    "JLR"
+  ],
+  "Jamnagar": [
+    "JGA"
+  ],
+  "Kandla": [
+    "IXY"
+  ],
+  "Khajuraho": [
+    "HJR"
+  ],
+  "Kolhapur": [
+    "KLH"
+  ],
+  "Keshod": [
+    "IXK"
+  ],
+  "Nagpur": [
+    "NAG"
+  ],
+  "Nasik Road": [
+    "ISK"
+  ],
+  "Pune": [
+    "PNQ"
+  ],
+  "Porbandar": [
+    "PBD"
+  ],
+  "Rajkot": [
+    "RAJ"
+  ],
+  "Raipur": [
+    "RPR"
+  ],
+  "Sholapur": [
+    "SSE"
+  ],
+  "Surat": [
+    "STV"
+  ],
+  "Udaipur": [
+    "UDR"
+  ],
+  "Colombo": [
+    "CMB",
+    "RML"
+  ],
+  "Anuradhapura": [
+    "ACJ"
+  ],
+  "Batticaloa": [
+    "BTC"
+  ],
+  "Galoya": [
+    "ADP"
+  ],
+  "Jaffna": [
+    "JAF"
+  ],
+  "Trinciomalee": [
+    "TRR"
+  ],
+  "Kompong Chnang": [
+    "KZC"
+  ],
+  "Phnom-penh": [
+    "PNH"
+  ],
+  "Siem-reap": [
+    "REP"
+  ],
+  "Stung Treng": [
+    "TNX"
+  ],
+  "Along": [
+    "IXV"
+  ],
+  "Agartala": [
+    "IXA"
+  ],
+  "Aizwal": [
+    "AJL"
+  ],
+  "Baghdogra": [
+    "IXB"
+  ],
+  "Bhubaneswar": [
+    "BBI"
+  ],
+  "Kolkata": [
+    "CCU"
+  ],
+  "Cooch-behar": [
+    "COH"
+  ],
+  "Dhanbad": [
+    "DBD"
+  ],
+  "Gaya": [
+    "GAY"
+  ],
+  "Imphal": [
+    "IMF"
+  ],
+  "Jamshedpur": [
+    "IXW"
+  ],
+  "Jorhat": [
+    "JRH"
+  ],
+  "Kailashahar": [
+    "IXH"
+  ],
+  "Silchar": [
+    "IXS"
+  ],
+  "Lilabari": [
+    "IXI"
+  ],
+  "Mohanbari": [
+    "DIB"
+  ],
+  "Mazuffarpur": [
+    "MZU"
+  ],
+  "Patina": [
+    "PAT"
+  ],
+  "Ranchi": [
+    "IXR"
+  ],
+  "Rourkela": [
+    "RRK"
+  ],
+  "Vishakhapatnam": [
+    "VTZ"
+  ],
+  "Zero": [
+    "ZER"
+  ],
+  "Cox's Bazar": [
+    "CXB"
+  ],
+  "Chittagong": [
+    "CGP"
+  ],
+  "Ishurdi": [
+    "IRD"
+  ],
+  "Jessore": [
+    "JSR"
+  ],
+  "Rajshahi": [
+    "RJH"
+  ],
+  "Saidpur": [
+    "SPD"
+  ],
+  "Sylhet Osmani": [
+    "ZYL"
+  ],
+  "Dhaka": [
+    "DAC"
+  ],
+  "Hong Kong": [
+    "HKG",
+    "HHP"
+  ],
+  "Agra": [
+    "AGR"
+  ],
+  "Allahabad": [
+    "IXD"
+  ],
+  "Amritsar": [
+    "ATQ"
+  ],
+  "Bikaner": [
+    "BKB"
+  ],
+  "Varanasi": [
+    "VNS"
+  ],
+  "Kulu": [
+    "KUU"
+  ],
+  "Bhatinda": [
+    "BUP"
+  ],
+  "Bareilly": [
+    "BEK"
+  ],
+  "Chandigarh": [
+    "IXC"
+  ],
+  "Kanpur": [
+    "KNU"
+  ],
+  "Dehra Dun": [
+    "DED"
+  ],
+  "Delhi": [
+    "DEL"
+  ],
+  "Gwalior": [
+    "GWL"
+  ],
+  "Hissar": [
+    "HSS"
+  ],
+  "Jodhpur": [
+    "JDH"
+  ],
+  "Jaipur": [
+    "JAI"
+  ],
+  "Jaisalmer": [
+    "JSA"
+  ],
+  "Jammu": [
+    "IXJ"
+  ],
+  "Kota": [
+    "KTU"
+  ],
+  "Ludhiaha": [
+    "LUH"
+  ],
+  "Leh": [
+    "IXL"
+  ],
+  "Lucknow": [
+    "LKO"
+  ],
+  "Pathankot": [
+    "IXP"
+  ],
+  "Nainital": [
+    "PGH"
+  ],
+  "Srinagar": [
+    "SXR"
+  ],
+  "Satna": [
+    "TNI"
+  ],
+  "Luang Prabang": [
+    "LPQ"
+  ],
+  "Pakse": [
+    "PKZ"
+  ],
+  "Savannakhet": [
+    "ZVK"
+  ],
+  "Sam Neua": [
+    "NEU"
+  ],
+  "Vientiane": [
+    "VTE"
+  ],
+  "Macau": [
+    "MFM"
+  ],
+  "Bhairawa": [
+    "BWA"
+  ],
+  "Janakpur": [
+    "JKR"
+  ],
+  "Kathmandu": [
+    "KTM"
+  ],
+  "Pokhara": [
+    "PKR"
+  ],
+  "Simara": [
+    "SIF"
+  ],
+  "Biratnagar": [
+    "BIR"
+  ],
+  "Agatti Island": [
+    "AGX"
+  ],
+  "Bangalore": [
+    "BLR"
+  ],
+  "Bellary": [
+    "BEP"
+  ],
+  "Vijayawada": [
+    "VGA"
+  ],
+  "Coimbatore": [
+    "CJB"
+  ],
+  "Calicut": [
+    "CCJ"
+  ],
+  "Cuddapah": [
+    "CDP"
+  ],
+  "Carnicobar": [
+    "CBD"
+  ],
+  "Hyderabad": [
+    "BPM",
+    "HDD",
+    "HYD"
+  ],
+  "Madurai": [
+    "IXM"
+  ],
+  "Mangalore": [
+    "IXE"
+  ],
+  "Madras": [
+    "MAA"
+  ],
+  "Port Blair": [
+    "IXZ"
+  ],
+  "Pendicherry": [
+    "PNY"
+  ],
+  "Rajahmundry": [
+    "RJA"
+  ],
+  "Salem": [
+    "SXV",
+    "SLE"
+  ],
+  "Tanjore": [
+    "TJV"
+  ],
+  "Tirupeti": [
+    "TIR"
+  ],
+  "Tiruchirappalli": [
+    "TRZ"
+  ],
+  "Trivandrum": [
+    "TRV"
+  ],
+  "Thimphu": [
+    "PBH"
+  ],
+  "Male": [
+    "MLE"
+  ],
+  "Bangkok": [
+    "DMK",
+    "BKK"
+  ],
+  "Nakhon Pathom": [
+    "KDT"
+  ],
+  "Pattaya": [
+    "UTP"
+  ],
+  "Lampang": [
+    "LPT"
+  ],
+  "Phrae": [
+    "PRH"
+  ],
+  "Prachuap Khiri Khan": [
+    "HHQ"
+  ],
+  "Nakhon Sawan": [
+    "TKH"
+  ],
+  "Phitsanulok": [
+    "PHS"
+  ],
+  "Narathiwat": [
+    "NAW"
+  ],
+  "Krabi": [
+    "KBV"
+  ],
+  "Songkhla": [
+    "SGZ"
+  ],
+  "Pattani": [
+    "PAN"
+  ],
+  "Ko Samui": [
+    "USM"
+  ],
+  "Phuket": [
+    "HKT"
+  ],
+  "Ranong": [
+    "UNN"
+  ],
+  "Hat Yai": [
+    "HDY"
+  ],
+  "Trang": [
+    "TST"
+  ],
+  "Udon Thani": [
+    "UTH"
+  ],
+  "Sakon Nakhon": [
+    "SNO"
+  ],
+  "Surin": [
+    "PXR"
+  ],
+  "Loei": [
+    "LOE"
+  ],
+  "Danang": [
+    "DAD"
+  ],
+  "Hanoi": [
+    "HAN"
+  ],
+  "Nhatrang": [
+    "NHA"
+  ],
+  "Hue": [
+    "HUI"
+  ],
+  "Phuquoc": [
+    "PQC"
+  ],
+  "Ho Chi Minh City": [
+    "SGN"
+  ],
+  "Ann": [
+    "VBA"
+  ],
+  "Bagan": [
+    "NYU",
+    "BPE"
+  ],
+  "Heho": [
+    "HEH"
+  ],
+  "Hommalin": [
+    "HOX"
+  ],
+  "Kengtung": [
+    "KET"
+  ],
+  "Kyaukpyu": [
+    "KYP"
+  ],
+  "Lashio": [
+    "LSH"
+  ],
+  "Mandalay": [
+    "MDL"
+  ],
+  "Myeik": [
+    "MGZ"
+  ],
+  "Myitkyina": [
+    "MYT"
+  ],
+  "Momeik": [
+    "MOE"
+  ],
+  "Mong Hsat": [
+    "MOG"
+  ],
+  "Namsang": [
+    "NMS"
+  ],
+  "Hpa-an": [
+    "PAA"
+  ],
+  "Putao": [
+    "PBU"
+  ],
+  "Pyay": [
+    "PRU"
+  ],
+  "Sittwe": [
+    "AKY"
+  ],
+  "Thandwe": [
+    "SNW"
+  ],
+  "Tachilek": [
+    "THL"
+  ],
+  "Yangon": [
+    "RGN"
+  ],
+  "Ujung Pandang": [
+    "UPG"
+  ],
+  "Biak": [
+    "BIK"
+  ],
+  "Nabire": [
+    "NBX"
+  ],
+  "Timika": [
+    "TIM"
+  ],
+  "Jayapura": [
+    "DJJ"
+  ],
+  "Wamena": [
+    "WMX"
+  ],
+  "Merauke": [
+    "MKQ"
+  ],
+  "Gorontalo": [
+    "GTO"
+  ],
+  "Palu": [
+    "PLW"
+  ],
+  "Manado": [
+    "MDC"
+  ],
+  "Poso": [
+    "PSJ"
+  ],
+  "Morotai Island": [
+    "OTI"
+  ],
+  "Ternate": [
+    "TTE"
+  ],
+  "Luwuk": [
+    "LUW"
+  ],
+  "Ambon": [
+    "AMQ"
+  ],
+  "Fak Fak": [
+    "FKQ"
+  ],
+  "Kaimana": [
+    "KNG"
+  ],
+  "Babo": [
+    "BXB"
+  ],
+  "Manokwari": [
+    "MKW"
+  ],
+  "Sorong": [
+    "SOQ"
+  ],
+  "Bintulu": [
+    "BTU"
+  ],
+  "Kuching": [
+    "KCH"
+  ],
+  "Limbang": [
+    "LMN"
+  ],
+  "Marudi": [
+    "MUR"
+  ],
+  "Miri": [
+    "MYY"
+  ],
+  "Sibu": [
+    "SBW"
+  ],
+  "Lahad Datu": [
+    "LDU"
+  ],
+  "Kota Kinabalu": [
+    "BKI"
+  ],
+  "Labuan": [
+    "LBU"
+  ],
+  "Tawau": [
+    "TWU"
+  ],
+  "Bandar Seri Begawan": [
+    "BWN"
+  ],
+  "Pekanbaru": [
+    "PKU"
+  ],
+  "Dumai": [
+    "DUM"
+  ],
+  "Jakarta": [
+    "CGK",
+    "PCB",
+    "HLP"
+  ],
+  "Gunung Sitoli": [
+    "GNS"
+  ],
+  "Padang Sidempuan": [
+    "AEG"
+  ],
+  "Padang": [
+    "PDG"
+  ],
+  "Medan": [
+    "MES",
+    "KNO"
+  ],
+  "Sibolga": [
+    "FLZ"
+  ],
+  "Nangapinoh": [
+    "NPO"
+  ],
+  "Ketapang": [
+    "KTG"
+  ],
+  "Pontianak": [
+    "PNK"
+  ],
+  "Jambi": [
+    "DJB"
+  ],
+  "Bengkulu": [
+    "BKS"
+  ],
+  "Palembang": [
+    "PLM"
+  ],
+  "Rengat": [
+    "RGT"
+  ],
+  "Lhok Sukon": [
+    "LSX"
+  ],
+  "Banda Aceh": [
+    "BTJ"
+  ],
+  "Alor Setar": [
+    "AOR"
+  ],
+  "Butterworth": [
+    "BWH"
+  ],
+  "Kota Bahru": [
+    "KBR"
+  ],
+  "Kuantan": [
+    "KUA"
+  ],
+  "Kerteh": [
+    "KTE"
+  ],
+  "Ipoh": [
+    "IPH"
+  ],
+  "Johor Bahru": [
+    "JHB"
+  ],
+  "Kuala Lumpur": [
+    "KUL",
+    "SZB"
+  ],
+  "Langkawi": [
+    "LGK"
+  ],
+  "Malacca": [
+    "MKZ"
+  ],
+  "Kuala Terengganu": [
+    "TGG"
+  ],
+  "Penang": [
+    "PEN"
+  ],
+  "Suai": [
+    "UAI"
+  ],
+  "Dili": [
+    "DIL"
+  ],
+  "Baucau": [
+    "BCH"
+  ],
+  "Paya Lebar": [
+    "QPG"
+  ],
+  "Tengah": [
+    "TGA"
+  ],
+  "Singapore": [
+    "XSP",
+    "SIN"
+  ],
+  "Brisbane": [
+    "ACF",
+    "BNE"
+  ],
+  "Amberley": [
+    "ABM"
+  ],
+  "Alice Springs": [
+    "ASP"
+  ],
+  "Coolangatta": [
+    "OOL"
+  ],
+  "Cairns": [
+    "CNS"
+  ],
+  "Charlieville": [
+    "CTL"
+  ],
+  "Mount Isa": [
+    "ISA"
+  ],
+  "Maroochydore": [
+    "MCY"
+  ],
+  "Mackay": [
+    "MKY"
+  ],
+  "Prosserpine": [
+    "PPP"
+  ],
+  "Rockhampton": [
+    "ROK"
+  ],
+  "Townsville": [
+    "TSV"
+  ],
+  "Weipa": [
+    "WEI"
+  ],
+  "Avalon": [
+    "AVV"
+  ],
+  "Albury": [
+    "ABX"
+  ],
+  "Melbourne": [
+    "MEB",
+    "MBW",
+    "MEL",
+    "MLB"
+  ],
+  "Hobart": [
+    "HBA",
+    "HBR"
+  ],
+  "Launceston": [
+    "LST"
+  ],
+  "Adelaide": [
+    "ADL"
+  ],
+  "Perth": [
+    "JAD",
+    "PER",
+    "PSL"
+  ],
+  "Karratha": [
+    "KTA"
+  ],
+  "Kalgoorlie": [
+    "KGI"
+  ],
+  "Kununurra": [
+    "KNX"
+  ],
+  "Learmonth": [
+    "LEA"
+  ],
+  "Port Hedland": [
+    "PHE"
+  ],
+  "Woomera": [
+    "UMR"
+  ],
+  "Christmas Island": [
+    "XCH"
+  ],
+  "Canberra": [
+    "CBR"
+  ],
+  "Coff's Harbour": [
+    "CFS"
+  ],
+  "Camden": [
+    "CDU",
+    "CDN"
+  ],
+  "Dubbo": [
+    "DBO"
+  ],
+  "Norfolk Island": [
+    "NLK"
+  ],
+  "Richmond": [
+    "XRH",
+    "RIC",
+    "RCM"
+  ],
+  "Tamworth": [
+    "TMW"
+  ],
+  "Wagga Wagga": [
+    "WGA"
+  ],
+  "Beijing": [
+    "PEK",
+    "NAY",
+    "PKX"
+  ],
+  "Hailar": [
+    "HLD"
+  ],
+  "Tianjin": [
+    "TSN"
+  ],
+  "Taiyuan": [
+    "TYN"
+  ],
+  "Guangzhou": [
+    "CAN"
+  ],
+  "Changcha": [
+    "CSX"
+  ],
+  "Guilin": [
+    "KWL"
+  ],
+  "Nanning": [
+    "NNG"
+  ],
+  "Shenzhen": [
+    "SZX"
+  ],
+  "Zhengzhou": [
+    "CGO"
+  ],
+  "Wuhan": [
+    "WUH"
+  ],
+  "Pyongyang": [
+    "FNJ"
+  ],
+  "Lanzhou": [
+    "LHW"
+  ],
+  "Xi'an": [
+    "XIY"
+  ],
+  "Ulan Bator": [
+    "ULN"
+  ],
+  "Jinghonggasa": [
+    "JHG"
+  ],
+  "Kunming": [
+    "KMG"
+  ],
+  "Xiamen": [
+    "XMN"
+  ],
+  "Nanchang": [
+    "KHN"
+  ],
+  "Fuzhou": [
+    "FOC"
+  ],
+  "Hangzhou": [
+    "HGH"
+  ],
+  "Ninbo": [
+    "NGB"
+  ],
+  "Nanjing": [
+    "NKG"
+  ],
+  "Hefei": [
+    "HFE"
+  ],
+  "Qingdao": [
+    "TAO"
+  ],
+  "Shanghai": [
+    "SHA",
+    "PVG"
+  ],
+  "Yantai": [
+    "YNT"
+  ],
+  "Chongqing": [
+    "CKG"
+  ],
+  "Guiyang": [
+    "KWE"
+  ],
+  "Chengdu": [
+    "CTU"
+  ],
+  "Xichang": [
+    "XIC"
+  ],
+  "Kashi": [
+    "KHG"
+  ],
+  "Hotan": [
+    "HTN"
+  ],
+  "Urumqi": [
+    "URC"
+  ],
+  "Harbin": [
+    "HRB"
+  ],
+  "Mudanjiang": [
+    "MDG"
+  ],
+  "Dalian": [
+    "DLC"
+  ],
+  "Tioman": [
+    "TOD"
+  ],
+  "Wajima": [
+    "NTQ"
+  ],
+  "Barter Island": [
+    "BTI"
+  ],
+  "Cape Lisburne": [
+    "LUR"
+  ],
+  "Point Lay": [
+    "PIZ"
+  ],
+  "Hilo": [
+    "ITO"
+  ],
+  "Orlando": [
+    "ORL",
+    "MCO"
+  ],
+  "Bettles": [
+    "BTT"
+  ],
+  "Indian Mountains": [
+    "UTO"
+  ],
+  "Fort Yukon": [
+    "FYU"
+  ],
+  "Sparrevohn": [
+    "SVW"
+  ],
+  "Fort Richardson": [
+    "FRN"
+  ],
+  "Tatalina": [
+    "TLJ"
+  ],
+  "Cape Romanzof": [
+    "CZF"
+  ],
+  "Bedford": [
+    "BED"
+  ],
+  "St. Paul Island": [
+    "SNP"
+  ],
+  "Cape Newenham": [
+    "EHM"
+  ],
+  "Point Barrow": [
+    "STG"
+  ],
+  "Iliamna": [
+    "ILI"
+  ],
+  "Port Moller": [
+    "PTU"
+  ],
+  "Big Mountain": [
+    "BMX"
+  ],
+  "Oscoda": [
+    "OSC"
+  ],
+  "Fort Ord": [
+    "OAR"
+  ],
+  "Sacramento": [
+    "MHR",
+    "SAC",
+    "MCC",
+    "SMF"
+  ],
+  "Fort Irwin": [
+    "BYS"
+  ],
+  "Anchorage": [
+    "MRI",
+    "EDF",
+    "ANC"
+  ],
+  "Grants": [
+    "GNT"
+  ],
+  "Ponca City": [
+    "PNC"
+  ],
+  "Hunter Aaf": [
+    "SVN"
+  ],
+  "Grand Forks": [
+    "GFK",
+    "ZGF"
+  ],
+  "Pine Bluff": [
+    "PBF"
+  ],
+  "Milton": [
+    "NSE"
+  ],
+  "Hana": [
+    "HNM"
+  ],
+  "Prescott": [
+    "PRC"
+  ],
+  "Boston": [
+    "BOS"
+  ],
+  "Fairfield": [
+    "SUU"
+  ],
+  "Wendover": [
+    "ENV"
+  ],
+  "Mobile": [
+    "BFM",
+    "MOB"
+  ],
+  "Oakland": [
+    "OAK"
+  ],
+  "Omaha": [
+    "OMA",
+    "OFF"
+  ],
+  "Kahului": [
+    "OGG"
+  ],
+  "Wichita": [
+    "ICT",
+    "IAB",
+    "BEC"
+  ],
+  "Kansas City": [
+    "MCI",
+    "MKC"
+  ],
+  "Madison": [
+    "MSN"
+  ],
+  "Dillingham": [
+    "DLG",
+    "HDH"
+  ],
+  "Harrison": [
+    "HRO"
+  ],
+  "Phoenix": [
+    "PHX",
+    "LUF"
+  ],
+  "Bangor": [
+    "BGR"
+  ],
+  "Fort Lauderdale": [
+    "FXE",
+    "FLL"
+  ],
+  "Longview": [
+    "GGG"
+  ],
+  "Spokane": [
+    "GEG",
+    "SKA",
+    "SFF"
+  ],
+  "Hollywood": [
+    "HWO"
+  ],
+  "San Francisco": [
+    "SFO"
+  ],
+  "Cutbank": [
+    "CTB"
+  ],
+  "Louisiana": [
+    "ARA"
+  ],
+  "Gainesville": [
+    "GNV",
+    "GVL"
+  ],
+  "Memphis": [
+    "MEM"
+  ],
+  "Douglas": [
+    "DUG",
+    "DGL"
+  ],
+  "Delta Junction": [
+    "BIG"
+  ],
+  "Waco": [
+    "CNW",
+    "ACT"
+  ],
+  "Annette Island": [
+    "ANN"
+  ],
+  "Caribou": [
+    "CAR"
+  ],
+  "Jacksonville": [
+    "LRF",
+    "NIP",
+    "JAX",
+    "VQQ",
+    "CRG"
+  ],
+  "Redstone": [
+    "HUA"
+  ],
+  "Fort Bragg": [
+    "POB"
+  ],
+  "Dalhart": [
+    "DHT"
+  ],
+  "Del Rio": [
+    "DLF",
+    "DRT"
+  ],
+  "Anniston": [
+    "ANB"
+  ],
+  "Cleveland": [
+    "CLE",
+    "BKL",
+    "HDI"
+  ],
+  "Dover": [
+    "DOV"
+  ],
+  "Cincinnati": [
+    "CVG",
+    "LUK"
+  ],
+  "Fort Meade": [
+    "FME"
+  ],
+  "Huron": [
+    "HON"
+  ],
+  "Juneau": [
+    "JNU"
+  ],
+  "Lafayette": [
+    "LFT",
+    "LAF"
+  ],
+  "Newark": [
+    "EWR"
+  ],
+  "Boise": [
+    "BOI"
+  ],
+  "Indian Springs": [
+    "INS"
+  ],
+  "Garden City": [
+    "GCK"
+  ],
+  "Minot": [
+    "MOT",
+    "MIB"
+  ],
+  "Wahiawa": [
+    "HHI"
+  ],
+  "Montgomery": [
+    "MXF",
+    "MGJ"
+  ],
+  "Dallas": [
+    "DAL",
+    "FWH",
+    "RBD"
+  ],
+  "Fort Carson": [
+    "FCS"
+  ],
+  "Helena": [
+    "HLN"
+  ],
+  "Miramar": [
+    "NKX"
+  ],
+  "Hawthorne": [
+    "HHR"
+  ],
+  "Houlton": [
+    "HUL"
+  ],
+  "Enid": [
+    "END"
+  ],
+  "Point Mugu": [
+    "NTD"
+  ],
+  "Edwards Afb": [
+    "EDW"
+  ],
+  "Lake Charles": [
+    "LCH"
+  ],
+  "Kona": [
+    "KOA"
+  ],
+  "Myrtle Beach": [
+    "MYR"
+  ],
+  "Lemoore": [
+    "NLC"
+  ],
+  "Nantucket": [
+    "ACK"
+  ],
+  "Fort Eustis": [
+    "FAF"
+  ],
+  "Hopkinsville": [
+    "HOP"
+  ],
+  "Washington": [
+    "DCA",
+    "IAD",
+    "OCW"
+  ],
+  "Patuxent River": [
+    "NHK"
+  ],
+  "Palacios": [
+    "PSX"
+  ],
+  "Blytheville": [
+    "BYH"
+  ],
+  "Atlantic City": [
+    "ACY"
+  ],
+  "Oklahoma City": [
+    "TIK",
+    "OKC",
+    "PWA"
+  ],
+  "Elizabeth City": [
+    "ECG"
+  ],
+  "Pueblo": [
+    "PUB"
+  ],
+  "Presque Isle": [
+    "PQI"
+  ],
+  "Fort Lewis": [
+    "GRF"
+  ],
+  "Kodiak": [
+    "ADQ"
+  ],
+  "Opolu": [
+    "UPP"
+  ],
+  "International Falls": [
+    "INL"
+  ],
+  "Salt Lake City": [
+    "SLC"
+  ],
+  "Childress": [
+    "CDS"
+  ],
+  "Biloxi": [
+    "BIX"
+  ],
+  "Fort Benning": [
+    "LSF"
+  ],
+  "Kingsville": [
+    "NQI"
+  ],
+  "Fort Riley": [
+    "FRI"
+  ],
+  "Harrisburg": [
+    "MDT",
+    "HAR"
+  ],
+  "Lincoln": [
+    "LNK"
+  ],
+  "Lansing": [
+    "LAN"
+  ],
+  "Kamuela": [
+    "MUE"
+  ],
+  "Massena": [
+    "MSS"
+  ],
+  "Hickory": [
+    "HKY"
+  ],
+  "Fort Myers": [
+    "FMY",
+    "RSW"
+  ],
+  "Houston": [
+    "IAH",
+    "HOU",
+    "EFD",
+    "DWH",
+    "IWS",
+    "AAP"
+  ],
+  "Camp Springs": [
+    "ADW"
+  ],
+  "Winston-salem": [
+    "INT"
+  ],
+  "Victorville": [
+    "VCV"
+  ],
+  "Crestview": [
+    "CEW",
+    "EGI"
+  ],
+  "Port Huron": [
+    "PHN"
+  ],
+  "Bakersfield": [
+    "BFL"
+  ],
+  "El Paso": [
+    "ELP",
+    "BIF"
+  ],
+  "Harlingen": [
+    "HRL"
+  ],
+  "Columbia": [
+    "CAE",
+    "COU",
+    "CUB"
+  ],
+  "Tucson": [
+    "DMA",
+    "TUS",
+    "AVW"
+  ],
+  "Pensacola": [
+    "NPA",
+    "PNS"
+  ],
+  "Red River": [
+    "RDR"
+  ],
+  "Buckley": [
+    "BFK"
+  ],
+  "Northway": [
+    "ORT"
+  ],
+  "Palmer": [
+    "PAQ"
+  ],
+  "Pittsburgh": [
+    "PIT",
+    "AGC"
+  ],
+  "Barrow": [
+    "BRW"
+  ],
+  "Whidbey Island": [
+    "NUW"
+  ],
+  "Alice": [
+    "ALI"
+  ],
+  "Valdosta": [
+    "VAD",
+    "VLD"
+  ],
+  "Miami": [
+    "MIA",
+    "TNT",
+    "OPF"
+  ],
+  "Seattle": [
+    "SEA",
+    "BFI"
+  ],
+  "Chattanooga": [
+    "CHA"
+  ],
+  "Stratford": [
+    "BDR"
+  ],
+  "Jackson": [
+    "JAN",
+    "MKL",
+    "JXN"
+  ],
+  "Galveston": [
+    "GLS"
+  ],
+  "Long Beach": [
+    "LGB"
+  ],
+  "Williamsport": [
+    "IPT"
+  ],
+  "Indianapolis": [
+    "IND"
+  ],
+  "Knobnoster": [
+    "SZL"
+  ],
+  "Akron": [
+    "AKC",
+    "CAK",
+    "AKO"
+  ],
+  "White Plains": [
+    "HPN"
+  ],
+  "West Hampton Beach": [
+    "FOK"
+  ],
+  "Jonesboro": [
+    "JBR"
+  ],
+  "Tonopah": [
+    "XSD",
+    "TPH"
+  ],
+  "West Palm Beach": [
+    "LNA",
+    "PBI"
+  ],
+  "San Diego": [
+    "NZY",
+    "SAN",
+    "SDM"
+  ],
+  "Yuma": [
+    "YUM"
+  ],
+  "Carlsbad": [
+    "CNM",
+    "CLD"
+  ],
+  "Duluth": [
+    "DLH"
+  ],
+  "Bethel": [
+    "BET"
+  ],
+  "Louisville": [
+    "LOU",
+    "SDF"
+  ],
+  "Fort Huachuca": [
+    "FHU"
+  ],
+  "Lihue": [
+    "LIH"
+  ],
+  "Terre Haute": [
+    "HUF"
+  ],
+  "Havre": [
+    "HVR"
+  ],
+  "Grant County Airport": [
+    "MWH"
+  ],
+  "Montpelier": [
+    "MPV"
+  ],
+  "Shreveport": [
+    "SHV",
+    "BAD",
+    "DTN"
+  ],
+  "Cordova": [
+    "CDV"
+  ],
+  "Norfolk": [
+    "ORF",
+    "NGU"
+  ],
+  "Beaumont": [
+    "BPT",
+    "BMT"
+  ],
+  "Savannah": [
+    "SAV"
+  ],
+  "Ogden": [
+    "HIF",
+    "OGD"
+  ],
+  "Nome": [
+    "OME"
+  ],
+  "Macon": [
+    "MNM",
+    "MCN",
+    "WRB"
+  ],
+  "Conroe": [
+    "CXO"
+  ],
+  "Deadhorse": [
+    "SCC"
+  ],
+  "Rochester": [
+    "ROC",
+    "RST",
+    "RCS"
+  ],
+  "Coco Beach": [
+    "COF"
+  ],
+  "Teterboro": [
+    "TEB"
+  ],
+  "Rapid City": [
+    "RCA",
+    "RAP"
+  ],
+  "Raleigh-durham": [
+    "RDU"
+  ],
+  "Dayton": [
+    "DAY",
+    "FFO",
+    "MGY"
+  ],
+  "Kenai": [
+    "ENA"
+  ],
+  "Mcalester": [
+    "MLC"
+  ],
+  "Niagara Falls": [
+    "IAG"
+  ],
+  "Bryan": [
+    "CFD"
+  ],
+  "Wright": [
+    "LIY"
+  ],
+  "Newport News": [
+    "PHF"
+  ],
+  "Altus": [
+    "LTS"
+  ],
+  "Marysville": [
+    "BAB"
+  ],
+  "Kankakee": [
+    "IKK"
+  ],
+  "Goldsboro": [
+    "GSB"
+  ],
+  "Providence": [
+    "PVD"
+  ],
+  "Salisbury": [
+    "SBY"
+  ],
+  "Burbank": [
+    "BUR"
+  ],
+  "Detroit": [
+    "DTW",
+    "DET",
+    "YIP"
+  ],
+  "Tampa": [
+    "TPA",
+    "MCF",
+    "TPF"
+  ],
+  "Pembina": [
+    "PMB"
+  ],
+  "Fort Polk": [
+    "POE"
+  ],
+  "Fairbanks": [
+    "EIL",
+    "FAI"
+  ],
+  "Hibbing": [
+    "HIB"
+  ],
+  "Lufkin": [
+    "LFK"
+  ],
+  "Midland": [
+    "MAF"
+  ],
+  "Green Bay": [
+    "GRB"
+  ],
+  "Wrightstown": [
+    "WRI"
+  ],
+  "Bush Field": [
+    "AGS"
+  ],
+  "Williston": [
+    "ISN"
+  ],
+  "Little Rock": [
+    "LIT"
+  ],
+  "Newburgh": [
+    "SWF"
+  ],
+  "Baudette": [
+    "BDE"
+  ],
+  "Homer": [
+    "HOM"
+  ],
+  "Fort Leonardwood": [
+    "TBN"
+  ],
+  "Marietta": [
+    "MGE"
+  ],
+  "Houghton Lake": [
+    "HTL"
+  ],
+  "Dallas-Fort Worth": [
+    "DFW"
+  ],
+  "Tacoma": [
+    "TCM",
+    "TIW"
+  ],
+  "Austin": [
+    "AUS"
+  ],
+  "Columbus": [
+    "LCK",
+    "CMH",
+    "CSG",
+    "OSU",
+    "TZR",
+    "CLU"
+  ],
+  "Gwinn": [
+    "MQT"
+  ],
+  "Knoxville": [
+    "TYS"
+  ],
+  "Fort Hood": [
+    "HLR"
+  ],
+  "Millville": [
+    "MIV"
+  ],
+  "Wichita Falls": [
+    "SPS"
+  ],
+  "Atlanta": [
+    "ATL",
+    "FTY",
+    "PDK"
+  ],
+  "Merced": [
+    "MER",
+    "MCE"
+  ],
+  "Grand Rapids": [
+    "GRR"
+  ],
+  "Wink": [
+    "INK"
+  ],
+  "Fresno": [
+    "FAT"
+  ],
+  "Vero Beach": [
+    "VRB"
+  ],
+  "Imperial": [
+    "IPL"
+  ],
+  "Nashville": [
+    "BNA"
+  ],
+  "Laredo": [
+    "LRD"
+  ],
+  "Kotzebue": [
+    "OTZ"
+  ],
+  "Altoona": [
+    "AOO"
+  ],
+  "Abilene": [
+    "DYS",
+    "ABI"
+  ],
+  "New York": [
+    "LGA",
+    "JFK",
+    "JRB",
+    "JRA"
+  ],
+  "Tallahassee": [
+    "TLH"
+  ],
+  "West Chicago": [
+    "DPA"
+  ],
+  "Augusta": [
+    "AUG",
+    "DNL"
+  ],
+  "Molokai": [
+    "MKK",
+    "LUP"
+  ],
+  "Fort Knox": [
+    "FTK"
+  ],
+  "San Angelo": [
+    "SJT"
+  ],
+  "Calexico": [
+    "CXL"
+  ],
+  "Chico": [
+    "CIC"
+  ],
+  "Burlington": [
+    "BTV",
+    "BRL"
+  ],
+  "College Station": [
+    "CLL"
+  ],
+  "Milwaukee": [
+    "MKE",
+    "MWC"
+  ],
+  "Portland": [
+    "PDX",
+    "PWM",
+    "PTJ"
+  ],
+  "Fort Worth": [
+    "FTW",
+    "AFW"
+  ],
+  "Ogdensburg": [
+    "OGS"
+  ],
+  "Falmouth": [
+    "FMH"
+  ],
+  "Honolulu": [
+    "HNL"
+  ],
+  "Des Moines": [
+    "DSM"
+  ],
+  "New Bern": [
+    "EWN"
+  ],
+  "Monroe": [
+    "MLU"
+  ],
+  "Sumter": [
+    "SSC"
+  ],
+  "Ontario": [
+    "ONT",
+    "ONO"
+  ],
+  "Greenvile": [
+    "GVT"
+  ],
+  "Roswell": [
+    "ROW"
+  ],
+  "Brownsville": [
+    "BRO"
+  ],
+  "Dothan": [
+    "DHN"
+  ],
+  "Wildwood": [
+    "WWD"
+  ],
+  "Fallon": [
+    "NFL"
+  ],
+  "Mount Clemens": [
+    "MTC"
+  ],
+  "Farmington": [
+    "FMN"
+  ],
+  "Corpus Christi": [
+    "CRP"
+  ],
+  "Syracuse": [
+    "SYR"
+  ],
+  "Key West": [
+    "NQX",
+    "EYW"
+  ],
+  "Chicago": [
+    "MDW",
+    "UGN",
+    "ORD",
+    "CGX"
+  ],
+  "Hobbs": [
+    "HOB"
+  ],
+  "Philadelphia": [
+    "PNE",
+    "PHL",
+    "BBX"
+  ],
+  "Denver": [
+    "DEN",
+    "APA"
+  ],
+  "Sioux City": [
+    "SUX"
+  ],
+  "Truth Or Consequences": [
+    "TCS"
+  ],
+  "Palmdale": [
+    "PMD"
+  ],
+  "El Centro": [
+    "NJK"
+  ],
+  "Fayetteville": [
+    "FYV",
+    "FAY"
+  ],
+  "Fort Sill": [
+    "FSI"
+  ],
+  "Galena": [
+    "GAL"
+  ],
+  "Mineral Wells": [
+    "MWL"
+  ],
+  "New Orleans": [
+    "NBG",
+    "MSY",
+    "NEW"
+  ],
+  "Beaufort": [
+    "BFT"
+  ],
+  "Texarkana": [
+    "TXK"
+  ],
+  "Plattsburgh": [
+    "PBG"
+  ],
+  "Tucumcari": [
+    "TCC"
+  ],
+  "Killeen": [
+    "GRK"
+  ],
+  "Bellingham": [
+    "BLI"
+  ],
+  "Millington": [
+    "NQA"
+  ],
+  "Elkins": [
+    "EKN"
+  ],
+  "Hartford": [
+    "HFD"
+  ],
+  "Smithfield": [
+    "SFZ"
+  ],
+  "Mountain View": [
+    "NUQ"
+  ],
+  "Barking Sands": [
+    "BKH"
+  ],
+  "Deridder": [
+    "DRI"
+  ],
+  "Bradshaw Field": [
+    "BSF"
+  ],
+  "Belleville": [
+    "BLV"
+  ],
+  "King Salmon": [
+    "AKN"
+  ],
+  "Muir": [
+    "MUI"
+  ],
+  "Lahania-kapalua": [
+    "JHM"
+  ],
+  "Homestead": [
+    "HST"
+  ],
+  "Riverside": [
+    "RAL",
+    "RIV"
+  ],
+  "Fort Leavenworth": [
+    "FLV"
+  ],
+  "Wallops Island": [
+    "WAL"
+  ],
+  "Alamogordo": [
+    "HMN",
+    "ALM"
+  ],
+  "Willow Grove": [
+    "NXX"
+  ],
+  "Cheyenne": [
+    "CYS"
+  ],
+  "Stockton": [
+    "SCK"
+  ],
+  "Charleston": [
+    "CHS",
+    "CRW"
+  ],
+  "Reno": [
+    "RNO"
+  ],
+  "Ketchikan": [
+    "KTN"
+  ],
+  "Lompoc": [
+    "VBG",
+    "LPC"
+  ],
+  "Lakehurst": [
+    "NEL"
+  ],
+  "Shemya": [
+    "SYA"
+  ],
+  "Las Vegas": [
+    "LSV",
+    "LAS",
+    "LVS",
+    "VGT"
+  ],
+  "Modesto": [
+    "MOD"
+  ],
+  "Colorado Springs": [
+    "COS"
+  ],
+  "Buffalo": [
+    "BUF"
+  ],
+  "Sandusky": [
+    "SKY"
+  ],
+  "Everett": [
+    "PAE"
+  ],
+  "Mountain Home": [
+    "MUO",
+    "WMH"
+  ],
+  "Cedar City": [
+    "CDC"
+  ],
+  "Windsor Locks": [
+    "BDL"
+  ],
+  "Mcallen": [
+    "MFE"
+  ],
+  "Chicopee Falls": [
+    "CEF"
+  ],
+  "Lubbock": [
+    "LBB"
+  ],
+  "Boca Raton": [
+    "BCT"
+  ],
+  "Clovis": [
+    "CVS",
+    "CVN"
+  ],
+  "Kaneohe Bay": [
+    "NGF"
+  ],
+  "Gulkana": [
+    "GKN"
+  ],
+  "Watertown": [
+    "ART",
+    "ATY"
+  ],
+  "Palm Springs": [
+    "PSP",
+    "TRM",
+    "UDD"
+  ],
+  "Amarillo": [
+    "AMA"
+  ],
+  "Fort Dodge": [
+    "FOD"
+  ],
+  "Topeka": [
+    "FOE",
+    "TOP"
+  ],
+  "Cotulla": [
+    "COT"
+  ],
+  "Wilmington": [
+    "ILM",
+    "ILG",
+    "ILN"
+  ],
+  "Baton Rouge": [
+    "BTR"
+  ],
+  "Tyler": [
+    "TYR"
+  ],
+  "Baltimore": [
+    "BWI",
+    "MTN"
+  ],
+  "Lanai": [
+    "LNY"
+  ],
+  "White Sands": [
+    "WSD"
+  ],
+  "Cold Bay": [
+    "CDB",
+    "PML"
+  ],
+  "Tulsa": [
+    "TUL",
+    "RVS"
+  ],
+  "Sitka": [
+    "SIT"
+  ],
+  "Islip": [
+    "ISP"
+  ],
+  "Minneapolis": [
+    "MSP"
+  ],
+  "Unalaska": [
+    "DUT"
+  ],
+  "Albany": [
+    "ALB",
+    "ABY",
+    "ALH"
+  ],
+  "Valdez": [
+    "VDZ"
+  ],
+  "Hampton": [
+    "LFI"
+  ],
+  "Colombus": [
+    "CBM"
+  ],
+  "Kendall-tamiami": [
+    "TMB"
+  ],
+  "Oceana": [
+    "NTU"
+  ],
+  "Peru": [
+    "GUS",
+    "VYS"
+  ],
+  "Casper": [
+    "CPR"
+  ],
+  "Valparaiso": [
+    "VPS"
+  ],
+  "Selma": [
+    "SEM"
+  ],
+  "Charlotte": [
+    "CLT"
+  ],
+  "Great Falls": [
+    "GTF"
+  ],
+  "Youngstown": [
+    "YNG"
+  ],
+  "Fort Wainwright": [
+    "FBK"
+  ],
+  "Naha": [
+    "NAH"
+  ],
+  "Masamba": [
+    "MXB"
+  ],
+  "Soroako": [
+    "SQR"
+  ],
+  "Kendari": [
+    "KDI"
+  ],
+  "Sabang": [
+    "SBG"
+  ],
+  "Tasikmalaya": [
+    "TSY"
+  ],
+  "Malang": [
+    "MLG"
+  ],
+  "Bandung": [
+    "BDO"
+  ],
+  "Cirebon": [
+    "CBN"
+  ],
+  "Yogyakarta": [
+    "JOG"
+  ],
+  "Cilacap": [
+    "CXP"
+  ],
+  "Semarang": [
+    "SRG"
+  ],
+  "Batam": [
+    "BTH"
+  ],
+  "Tanjung Pandan": [
+    "TJQ"
+  ],
+  "Pangkal Pinang": [
+    "PGK"
+  ],
+  "Tanjung Pinang": [
+    "TNJ"
+  ],
+  "Singkep": [
+    "SIQ"
+  ],
+  "Banjarmasin": [
+    "BDJ"
+  ],
+  "Batu Licin": [
+    "BTW"
+  ],
+  "Pangkalan Bun": [
+    "PKN"
+  ],
+  "Palangkaraya": [
+    "PKY"
+  ],
+  "Maumere": [
+    "MOF"
+  ],
+  "Ende": [
+    "ENE"
+  ],
+  "Ruteng": [
+    "RTG"
+  ],
+  "Kupang": [
+    "KOE"
+  ],
+  "Labuhan Bajo": [
+    "LBJ"
+  ],
+  "Balikpapan": [
+    "BPN"
+  ],
+  "Taraken": [
+    "TRK"
+  ],
+  "Samarinda": [
+    "SRI"
+  ],
+  "Tanjung Santan": [
+    "TSX"
+  ],
+  "Mataram": [
+    "AMI"
+  ],
+  "Bima": [
+    "BMU"
+  ],
+  "Waingapu": [
+    "WGP"
+  ],
+  "Surabaya": [
+    "SUB"
+  ],
+  "Solo City": [
+    "SOC"
+  ],
+  "Chiang Mai": [
+    "CNX"
+  ],
+  "Chiang Rai": [
+    "CEI"
+  ],
+  "Nakhon Si Thammarat": [
+    "NST"
+  ],
+  "Nakhon Ratchasima": [
+    "NAK"
+  ],
+  "Nakhon Phanom": [
+    "KOP"
+  ],
+  "Ubon Ratchathani": [
+    "UBP"
+  ],
+  "Khon Kaen": [
+    "KKC"
+  ],
+  "Sukhothai": [
+    "THS"
+  ],
+  "Denpasar": [
+    "DPS"
+  ],
+  "Athens": [
+    "ATH",
+    "HEW",
+    "AHN",
+    "ATO",
+    "MMI"
+  ],
+  "Nagoya": [
+    "NGO",
+    "NKM"
+  ],
+  "Kobe": [
+    "UKB"
+  ],
+  "Pullman": [
+    "PUW"
+  ],
+  "Lewiston": [
+    "LWS",
+    "LEW"
+  ],
+  "Elmira": [
+    "ELM"
+  ],
+  "Ithaca": [
+    "ITH"
+  ],
+  "Monterey": [
+    "MRY"
+  ],
+  "Daytona Beach": [
+    "DAB"
+  ],
+  "Liepaja": [
+    "LPX"
+  ],
+  "Riga": [
+    "RIX"
+  ],
+  "Siauliai": [
+    "SQQ"
+  ],
+  "Barysiai": [
+    "HLJ"
+  ],
+  "Kaunas": [
+    "KUN"
+  ],
+  "Palanga": [
+    "PLQ"
+  ],
+  "Vilnius": [
+    "VNO"
+  ],
+  "Panevezys": [
+    "PNV"
+  ],
+  "Yerevan": [
+    "EVN"
+  ],
+  "Gyumri": [
+    "LWN"
+  ],
+  "Assab": [
+    "ASA"
+  ],
+  "Asmara": [
+    "ASM"
+  ],
+  "Massawa": [
+    "MSW"
+  ],
+  "Gaza": [
+    "GZA"
+  ],
+  "Batumi": [
+    "BUS"
+  ],
+  "Kutaisi": [
+    "KUT"
+  ],
+  "Tbilisi": [
+    "TBS"
+  ],
+  "Mukalla": [
+    "RIY"
+  ],
+  "Taiz": [
+    "TAI"
+  ],
+  "Hodeidah": [
+    "HOD"
+  ],
+  "Aden": [
+    "ADE"
+  ],
+  "Ataq": [
+    "AXK"
+  ],
+  "Al Ghaidah Intl": [
+    "AAY"
+  ],
+  "Sanaa": [
+    "SAH"
+  ],
+  "Beihan": [
+    "BHN"
+  ],
+  "Socotra": [
+    "SCT"
+  ],
+  "Memmingen": [
+    "FMM"
+  ],
+  "Nevsehir": [
+    "NAV"
+  ],
+  "Erbil": [
+    "EBL"
+  ],
+  "Emerald": [
+    "EMD"
+  ],
+  "Tagbilaran": [
+    "TAG"
+  ],
+  "Ilulissat": [
+    "JAV"
+  ],
+  "Qasigiannguit": [
+    "JCH"
+  ],
+  "Aasiaat": [
+    "JEG"
+  ],
+  "Palma de Mallorca": [
+    "PMI"
+  ],
+  "Darwin": [
+    "DRW"
+  ],
+  "Surat Thani": [
+    "URT"
+  ],
+  "Talkeetna": [
+    "TKA"
+  ],
+  "Gozo": [
+    "GZM"
+  ],
+  "New Haven": [
+    "HVN"
+  ],
+  "Asheville": [
+    "AVL"
+  ],
+  "Greensboro": [
+    "GSO"
+  ],
+  "Sioux Falls": [
+    "FSD"
+  ],
+  "Uluru": [
+    "AYQ"
+  ],
+  "Manchester NH": [
+    "MHT"
+  ],
+  "Redang": [
+    "RDN"
+  ],
+  "Charlottesville VA": [
+    "CHO"
+  ],
+  "Roanoke VA": [
+    "ROA"
+  ],
+  "Lexington KY": [
+    "LEX"
+  ],
+  "Evansville": [
+    "EVV"
+  ],
+  "Albuquerque": [
+    "ABQ"
+  ],
+  "Bozeman": [
+    "BZN"
+  ],
+  "Billings": [
+    "BIL"
+  ],
+  "Butte": [
+    "BTM"
+  ],
+  "Traverse City": [
+    "TVC"
+  ],
+  "Bar Harbor": [
+    "BHB"
+  ],
+  "Rockland": [
+    "RKD"
+  ],
+  "Jacksn Hole": [
+    "JAC"
+  ],
+  "Rockford": [
+    "RFD"
+  ],
+  "Sanya": [
+    "SYX"
+  ],
+  "Milford Sound": [
+    "MFN"
+  ],
+  "Lijiang": [
+    "LJG"
+  ],
+  "Greenville": [
+    "GSP",
+    "GLH",
+    "PGV",
+    "CPA",
+    "GDC",
+    "GMU"
+  ],
+  "Bloomington": [
+    "BMI",
+    "BMG"
+  ],
+  "Gulfport": [
+    "GPT"
+  ],
+  "Kalamazoo": [
+    "AZO"
+  ],
+  "Toledo": [
+    "TOL",
+    "TOW"
+  ],
+  "Fort Wayne": [
+    "FWA"
+  ],
+  "Decatur": [
+    "DEC",
+    "DCU"
+  ],
+  "Cedar Rapids": [
+    "CID"
+  ],
+  "La Crosse": [
+    "LSE"
+  ],
+  "Wassau": [
+    "CWA"
+  ],
+  "Peoria": [
+    "PIA"
+  ],
+  "Appleton": [
+    "ATW"
+  ],
+  "Champaign": [
+    "CMI"
+  ],
+  "Manhattan": [
+    "MHK"
+  ],
+  "Kingscote": [
+    "KGC"
+  ],
+  "Hervey Bay": [
+    "HVB"
+  ],
+  "Dali": [
+    "DLU"
+  ],
+  "Mulu": [
+    "MZV"
+  ],
+  "Sharm El Sheikh": [
+    "SSH"
+  ],
+  "Franklin": [
+    "FKL"
+  ],
+  "Seronera": [
+    "SEU"
+  ],
+  "El Calafate": [
+    "FTE",
+    "ING"
+  ],
+  "Armidale": [
+    "ARM"
+  ],
+  "Grand Junction": [
+    "GJT"
+  ],
+  "Saint George": [
+    "SGU"
+  ],
+  "Sarasota": [
+    "SRQ"
+  ],
+  "Bermuda": [
+    "BDA"
+  ],
+  "Van Nuys": [
+    "VNY"
+  ],
+  "Moline": [
+    "MLI"
+  ],
+  "Honiara": [
+    "HIR"
+  ],
+  "Papeete": [
+    "PPT"
+  ],
+  "Nauru": [
+    "INU"
+  ],
+  "Funafuti": [
+    "FUN"
+  ],
+  "Novosibirsk": [
+    "OVB"
+  ],
+  "Phon Savan": [
+    "XKH"
+  ],
+  "Bismarck": [
+    "BIS"
+  ],
+  "Telluride": [
+    "TEX"
+  ],
+  "Mae Hong Son": [
+    "HGN"
+  ],
+  "Flint": [
+    "FNT"
+  ],
+  "Davao": [
+    "DVO"
+  ],
+  "Funchal": [
+    "FNC"
+  ],
+  "Santarem": [
+    "STM"
+  ],
+  "Sihanoukville": [
+    "KOS"
+  ],
+  "Ekati": [
+    "YOA"
+  ],
+  "NAPIER": [
+    "NPE"
+  ],
+  "Levuka": [
+    "LEV"
+  ],
+  "Lhasa": [
+    "LXA"
+  ],
+  "Redding": [
+    "RDD"
+  ],
+  "Eugene": [
+    "EUG"
+  ],
+  "Idaho Falls": [
+    "IDA"
+  ],
+  "Medford": [
+    "MFR"
+  ],
+  "Kaikoura": [
+    "KBZ"
+  ],
+  "Redmond-Bend": [
+    "RDM"
+  ],
+  "Picton": [
+    "PCN"
+  ],
+  "Windhoek": [
+    "WDH",
+    "ERS"
+  ],
+  "Jinan": [
+    "TNA"
+  ],
+  "Changzhou": [
+    "CZX"
+  ],
+  "Yibin": [
+    "YBP"
+  ],
+  "Tyumen": [
+    "TJM"
+  ],
+  "Huntsville": [
+    "HSV",
+    "HTV"
+  ],
+  "PARKERSBURG": [
+    "PKB"
+  ],
+  "MONTGOMERY": [
+    "MGM"
+  ],
+  "BRISTOL": [
+    "TRI"
+  ],
+  "PADUCAH": [
+    "PAH"
+  ],
+  "Djibouti": [
+    "JIB"
+  ],
+  "Haikou": [
+    "HAK"
+  ],
+  "Mafia Island": [
+    "MFA"
+  ],
+  "Page": [
+    "PGA"
+  ],
+  "Utila": [
+    "UII"
+  ],
+  "Kalispell": [
+    "FCA"
+  ],
+  "Saginaw": [
+    "MBS"
+  ],
+  "Binghamton": [
+    "BGM"
+  ],
+  "Baghdad": [
+    "BGW"
+  ],
+  "Nan": [
+    "NNT"
+  ],
+  "Roi Et": [
+    "ROI"
+  ],
+  "Buri Ram": [
+    "BFV"
+  ],
+  "Trat": [
+    "TDX"
+  ],
+  "Blythe": [
+    "BLH"
+  ],
+  "Al Asad": [
+    "IQA"
+  ],
+  "Al Taqaddum": [
+    "TQD"
+  ],
+  "Al Bakr": [
+    "XQC"
+  ],
+  "Angeles City": [
+    "CRK"
+  ],
+  "Sandakan": [
+    "SDK"
+  ],
+  "Luang Namtha": [
+    "LXG"
+  ],
+  "Muang Xay": [
+    "ODY"
+  ],
+  "Shenyang": [
+    "SHE"
+  ],
+  "Dongying": [
+    "DOY"
+  ],
+  "Geralds": [
+    "MNI"
+  ],
+  "Petersburg": [
+    "PSG",
+    "PTB"
+  ],
+  "Luoyang": [
+    "LYA"
+  ],
+  "Xuzhou": [
+    "XUZ"
+  ],
+  "Magwe": [
+    "MWQ"
+  ],
+  "Khamti": [
+    "KHM"
+  ],
+  "Dalat": [
+    "DLI"
+  ],
+  "Dong Hoi": [
+    "VDH"
+  ],
+  "Rach Gia": [
+    "VKG"
+  ],
+  "Ca Mau": [
+    "CAH"
+  ],
+  "Chu Lai": [
+    "VCL"
+  ],
+  "Tuy Hoa": [
+    "TBB"
+  ],
+  "Pai": [
+    "PYY"
+  ],
+  "Brac": [
+    "BWK"
+  ],
+  "Conakry": [
+    "CKY"
+  ],
+  "Aachen": [
+    "AAH"
+  ],
+  "Karlsruhe/Baden-Baden": [
+    "FKB"
+  ],
+  "Sanford": [
+    "SFB"
+  ],
+  "Johnstown": [
+    "JST"
+  ],
+  "Lukla": [
+    "LUA"
+  ],
+  "Bhojpur": [
+    "BHP"
+  ],
+  "Lamidanda": [
+    "LDN"
+  ],
+  "Jomsom": [
+    "JMO"
+  ],
+  "Manang": [
+    "NGX"
+  ],
+  "Phaplu": [
+    "PPL"
+  ],
+  "Rumjatar": [
+    "RUM"
+  ],
+  "Dang": [
+    "DNP"
+  ],
+  "Rukumkot": [
+    "RUK"
+  ],
+  "Jumla": [
+    "JUM"
+  ],
+  "Taplejung": [
+    "TPJ"
+  ],
+  "Tumling Tar": [
+    "TMI"
+  ],
+  "Surkhet": [
+    "SKH"
+  ],
+  "Simikot": [
+    "IMK"
+  ],
+  "Dolpa": [
+    "DOP"
+  ],
+  "Bajhang": [
+    "BJH"
+  ],
+  "Dhangarhi": [
+    "DHI"
+  ],
+  "Muan": [
+    "MWX"
+  ],
+  "Astypalaia": [
+    "JTY"
+  ],
+  "Ikaria": [
+    "JIK"
+  ],
+  "Kalymnos": [
+    "JKL"
+  ],
+  "Milos": [
+    "MLO"
+  ],
+  "Cyclades Islands": [
+    "JNX"
+  ],
+  "Paros": [
+    "PAS"
+  ],
+  "Kastelorizo": [
+    "KZS"
+  ],
+  "Marsa Alam": [
+    "RMF"
+  ],
+  "Weeze": [
+    "NRN"
+  ],
+  "Busuanga": [
+    "USU"
+  ],
+  "Butuan": [
+    "BXU"
+  ],
+  "Dipolog": [
+    "DPL"
+  ],
+  "Laoag": [
+    "LAO"
+  ],
+  "Legazpi": [
+    "LGP"
+  ],
+  "Ozamis": [
+    "OZC"
+  ],
+  "Cebu": [
+    "CEB"
+  ],
+  "Norden": [
+    "NOD"
+  ],
+  "Juist": [
+    "JUI"
+  ],
+  "Porto Seguro": [
+    "BPS"
+  ],
+  "Iguatu": [
+    "QIG"
+  ],
+  "Palmas": [
+    "PMW"
+  ],
+  "Caldas Novas": [
+    "CLV"
+  ],
+  "Missoula": [
+    "MSO"
+  ],
+  "Blackall": [
+    "BKQ"
+  ],
+  "Bundaberg": [
+    "BDB"
+  ],
+  "Grand Canyon": [
+    "GCN"
+  ],
+  "Sugar Land": [
+    "SGR"
+  ],
+  "Fort Stockton": [
+    "FST"
+  ],
+  "Las Cruces": [
+    "LRU"
+  ],
+  "Breckenridge": [
+    "BKD"
+  ],
+  "Temple": [
+    "TPL"
+  ],
+  "Ozona": [
+    "OZA"
+  ],
+  "Kaadedhdhoo": [
+    "KDM"
+  ],
+  "Aklavik": [
+    "LAK"
+  ],
+  "Deline": [
+    "YWJ"
+  ],
+  "Tulita": [
+    "ZFN"
+  ],
+  "Fort Good Hope": [
+    "YGH"
+  ],
+  "Tanna": [
+    "TAH"
+  ],
+  "Paulatuk": [
+    "YPC"
+  ],
+  "Saba": [
+    "SAB"
+  ],
+  "Vail": [
+    "EGE"
+  ],
+  "Stokmarknes": [
+    "SKN"
+  ],
+  "Richmond Heights": [
+    "CGF"
+  ],
+  "Mansfield": [
+    "MFD"
+  ],
+  "Lawton": [
+    "LAW"
+  ],
+  "Fort Collins": [
+    "FNL"
+  ],
+  "Flagstaff": [
+    "FLG"
+  ],
+  "South Lake Tahoe": [
+    "TVL"
+  ],
+  "Twin Falls": [
+    "TWF"
+  ],
+  "Vineyard Haven MA": [
+    "MVY"
+  ],
+  "Concord NH": [
+    "CON"
+  ],
+  "Groton CT": [
+    "GON"
+  ],
+  "Saint Cloud": [
+    "STC"
+  ],
+  "Columbus Mississippi": [
+    "GTR"
+  ],
+  "Nizhniy Novgorod": [
+    "GOJ"
+  ],
+  "Hoquiam": [
+    "HQM"
+  ],
+  "Erie": [
+    "ERI"
+  ],
+  "Barnstable": [
+    "HYA"
+  ],
+  "Sedona": [
+    "SDX"
+  ],
+  "Morgantown": [
+    "MGW"
+  ],
+  "Scranton": [
+    "AVP"
+  ],
+  "Bemidji": [
+    "BJI"
+  ],
+  "Biloela": [
+    "THG"
+  ],
+  "Apia": [
+    "FGI"
+  ],
+  "Ballina Byron Bay": [
+    "BNK"
+  ],
+  "Fargo": [
+    "FAR"
+  ],
+  "Ratanakiri": [
+    "RBE"
+  ],
+  "Gillette": [
+    "GCC"
+  ],
+  "Tomsk": [
+    "TOF"
+  ],
+  "Phetchabun": [
+    "PHY"
+  ],
+  "Chumphon": [
+    "CJM"
+  ],
+  "Jiuzhaigou": [
+    "JZH"
+  ],
+  "Shantou": [
+    "SWA"
+  ],
+  "Ciudad del Este": [
+    "AGT"
+  ],
+  "Kaieteur": [
+    "KAI"
+  ],
+  "Dunhuang": [
+    "DNH"
+  ],
+  "Ancona": [
+    "AOI"
+  ],
+  "Taba": [
+    "TCP"
+  ],
+  "Little Cayman": [
+    "LYB"
+  ],
+  "Tabarka": [
+    "TBJ"
+  ],
+  "State College Pennsylvania": [
+    "SCE"
+  ],
+  "Broome": [
+    "BME"
+  ],
+  "Klagenfurt": [
+    "KLU"
+  ],
+  "Hammerfest": [
+    "HFT"
+  ],
+  "Honningsvag": [
+    "HVG"
+  ],
+  "Mehamn": [
+    "MEH"
+  ],
+  "Vads\u00f8": [
+    "VDS"
+  ],
+  "Tehran": [
+    "IKA"
+  ],
+  "Mashhad": [
+    "MHD"
+  ],
+  "Ust Ilimsk": [
+    "UIK"
+  ],
+  "Meridian": [
+    "MEI"
+  ],
+  "Springfield": [
+    "SPI",
+    "SGF",
+    "SGH"
+  ],
+  "Cortez": [
+    "CEZ"
+  ],
+  "Hayden": [
+    "HDN"
+  ],
+  "Gallup": [
+    "GUP"
+  ],
+  "Liberal": [
+    "LBL"
+  ],
+  "Lamar": [
+    "LAA"
+  ],
+  "Goodland": [
+    "GLD"
+  ],
+  "Cody": [
+    "COD"
+  ],
+  "Orsta-Volda": [
+    "HOV"
+  ],
+  "ST MARY\\'S": [
+    "ISC"
+  ],
+  "Narvik": [
+    "NVK"
+  ],
+  "Berlevag": [
+    "BVG"
+  ],
+  "Norilsk": [
+    "NSK"
+  ],
+  "Anapa": [
+    "AAQ"
+  ],
+  "Joplin": [
+    "JLN"
+  ],
+  "Allentown": [
+    "ABE"
+  ],
+  "Bentonville": [
+    "XNA"
+  ],
+  "Atyrau": [
+    "GUW"
+  ],
+  "Kzyl-Orda": [
+    "KZO"
+  ],
+  "South Bend": [
+    "SBN"
+  ],
+  "Arkhangelsk": [
+    "ARH",
+    "LDG"
+  ],
+  "Saratov": [
+    "RTW"
+  ],
+  "Novy Urengoy": [
+    "NUX"
+  ],
+  "Noyabrsk": [
+    "NOJ"
+  ],
+  "Aktau": [
+    "SCO"
+  ],
+  "Ukhta": [
+    "UCT"
+  ],
+  "Usinsk": [
+    "USK"
+  ],
+  "Pechora": [
+    "PEX"
+  ],
+  "Naryan-Mar": [
+    "NNM"
+  ],
+  "Pskov": [
+    "PKV"
+  ],
+  "Kogalym": [
+    "KGP"
+  ],
+  "Krasnoyarsk": [
+    "KJA"
+  ],
+  "Karaganda": [
+    "KGF"
+  ],
+  "Uraj": [
+    "URJ"
+  ],
+  "Ivanovo": [
+    "IWA"
+  ],
+  "Changchun": [
+    "CGQ"
+  ],
+  "Niigata": [
+    "KIJ"
+  ],
+  "Johnston Island": [
+    "JON"
+  ],
+  "Fort Wayne IN": [
+    "SMD"
+  ],
+  "Arcata CA": [
+    "ACV"
+  ],
+  "Jacksonville NC": [
+    "OAJ"
+  ],
+  "Tuscaloosa AL": [
+    "TCL"
+  ],
+  "Dubuque IA": [
+    "DBQ"
+  ],
+  "Atoifi": [
+    "ATD"
+  ],
+  "Auki": [
+    "AKS"
+  ],
+  "Ballalae": [
+    "BAS"
+  ],
+  "Fera Island": [
+    "FRE"
+  ],
+  "Mbambanakira": [
+    "MBU"
+  ],
+  "Kirakira": [
+    "IRA"
+  ],
+  "Santa Cruz/Graciosa Bay/Luova": [
+    "SCZ"
+  ],
+  "Munda": [
+    "MUA"
+  ],
+  "Gizo": [
+    "GZO"
+  ],
+  "Stirling Island": [
+    "MNY"
+  ],
+  "Rennell Island": [
+    "RNL"
+  ],
+  "Marau": [
+    "RUS"
+  ],
+  "Suavanao": [
+    "VAO"
+  ],
+  "Kagau Island": [
+    "KGE"
+  ],
+  "Ramata": [
+    "RBV"
+  ],
+  "Buka Island": [
+    "BUA"
+  ],
+  "Kundiawa": [
+    "CMU"
+  ],
+  "Daru": [
+    "DAU"
+  ],
+  "Gurney": [
+    "GUR"
+  ],
+  "Girua": [
+    "PNP"
+  ],
+  "Hoskins": [
+    "HKN"
+  ],
+  "Kiunga": [
+    "UNG"
+  ],
+  "Kikori": [
+    "KRI"
+  ],
+  "Kerema": [
+    "KMA"
+  ],
+  "Kavieng": [
+    "KVG"
+  ],
+  "Mendi": [
+    "MDU"
+  ],
+  "Momote": [
+    "MAS"
+  ],
+  "Moro": [
+    "MXH"
+  ],
+  "Misima Island": [
+    "MIS"
+  ],
+  "Tari": [
+    "TIZ"
+  ],
+  "Tabubil": [
+    "TBG"
+  ],
+  "Tokua": [
+    "RAB"
+  ],
+  "Vanimo": [
+    "VAI"
+  ],
+  "Wapenamanda": [
+    "WBM"
+  ],
+  "Alluitsup Paa": [
+    "LLU"
+  ],
+  "Neerlerit Inaat": [
+    "CNP"
+  ],
+  "Paamiut": [
+    "JFR"
+  ],
+  "Qeqertarsuaq Airport": [
+    "JGO"
+  ],
+  "Qaqortoq": [
+    "JJU"
+  ],
+  "Maniitsoq": [
+    "JSU"
+  ],
+  "Nanortalik": [
+    "JNN"
+  ],
+  "Narsaq": [
+    "JNS"
+  ],
+  "Qaanaaq": [
+    "NAQ"
+  ],
+  "Sisimiut": [
+    "JHS"
+  ],
+  "Upernavik": [
+    "JUV"
+  ],
+  "Uummannaq": [
+    "JQA",
+    "UMD"
+  ],
+  "Gr\u00edmsey": [
+    "GRY"
+  ],
+  "Thorshofn": [
+    "THO"
+  ],
+  "Vopnafj\u00f6r\u00f0ur": [
+    "VPN"
+  ],
+  "Whistler": [
+    "YWS"
+  ],
+  "Anahim Lake": [
+    "YAA"
+  ],
+  "Williams Harbour": [
+    "YWM"
+  ],
+  "St. Lewis": [
+    "YFX"
+  ],
+  "Port Hope Simpson": [
+    "YHA"
+  ],
+  "Rigolet": [
+    "YRG"
+  ],
+  "Colville Lake": [
+    "YCK"
+  ],
+  "What\u00ec": [
+    "YLE"
+  ],
+  "Summer Beaver": [
+    "SUR"
+  ],
+  "Angling Lake": [
+    "YAX"
+  ],
+  "Wunnumin Lake": [
+    "WNN"
+  ],
+  "North Spirit Lake": [
+    "YNO"
+  ],
+  "Bearskin Lake": [
+    "XBE"
+  ],
+  "Kingfisher Lake": [
+    "KIF"
+  ],
+  "Ogoki Post": [
+    "YOG"
+  ],
+  "Poplar Hill": [
+    "YHP"
+  ],
+  "Chisasibi": [
+    "YKU"
+  ],
+  "T\u00eate-\u00e0-la-Baleine": [
+    "ZTB"
+  ],
+  "La Tabati\u00e8re": [
+    "ZLT"
+  ],
+  "Cat Lake": [
+    "YAC"
+  ],
+  "Fort Frances": [
+    "YAG"
+  ],
+  "Kasabonika": [
+    "XKS"
+  ],
+  "Kangirsuk": [
+    "YKG"
+  ],
+  "Attawapiskat": [
+    "YAT"
+  ],
+  "Uranium City": [
+    "YBE"
+  ],
+  "Lourdes-De-Blanc-Sablon": [
+    "YBX"
+  ],
+  "Cartwright": [
+    "YRF"
+  ],
+  "Chesterfield Inlet": [
+    "YCS"
+  ],
+  "Nain": [
+    "YDP"
+  ],
+  "Fort Severn": [
+    "YER"
+  ],
+  "Fort Albany": [
+    "YFA"
+  ],
+  "Fort Hope": [
+    "YFH"
+  ],
+  "Makkovik": [
+    "YMN"
+  ],
+  "Texada": [
+    "YGB"
+  ],
+  "Gods Lake Narrows": [
+    "YGO"
+  ],
+  "Igloolik": [
+    "YGT"
+  ],
+  "Kuujjuarapik": [
+    "YGW"
+  ],
+  "Gillam": [
+    "YGX"
+  ],
+  "Grise Fiord": [
+    "YGZ"
+  ],
+  "Quaqtaq": [
+    "YQC"
+  ],
+  "Nemiscau": [
+    "YNS"
+  ],
+  "Hopedale": [
+    "YHO"
+  ],
+  "Chevery": [
+    "YHR"
+  ],
+  "Ivujivik": [
+    "YIK"
+  ],
+  "Island Lake": [
+    "YIV"
+  ],
+  "Akulivik": [
+    "AKV"
+  ],
+  "Waskaganish": [
+    "YKQ"
+  ],
+  "Aupaluk": [
+    "YPJ"
+  ],
+  "Kimmirut": [
+    "YLC"
+  ],
+  "Lansdowne House": [
+    "YLH"
+  ],
+  "Kangiqsualujjuaq": [
+    "XGR"
+  ],
+  "Mary's Harbour": [
+    "YMH"
+  ],
+  "Chibougamau": [
+    "YMT"
+  ],
+  "Umiujaq": [
+    "YUD"
+  ],
+  "Wemindji": [
+    "YNC"
+  ],
+  "Norway House": [
+    "YNE"
+  ],
+  "Points North Landing": [
+    "YNL"
+  ],
+  "Oxford House": [
+    "YOH"
+  ],
+  "Inukjuak": [
+    "YPH"
+  ],
+  "Pikangikum": [
+    "YPM"
+  ],
+  "Peawanuck": [
+    "YPO"
+  ],
+  "Powell River": [
+    "YPW"
+  ],
+  "The Pas": [
+    "YQD"
+  ],
+  "Nakina": [
+    "YQN"
+  ],
+  "Gam\u00e8t\u00ec": [
+    "YRA"
+  ],
+  "Red Lake": [
+    "YRL"
+  ],
+  "Stony Rapids": [
+    "YSF"
+  ],
+  "Sanikiluaq": [
+    "YSK"
+  ],
+  "St. Theresa Point": [
+    "YST"
+  ],
+  "Big Trout Lake": [
+    "YTL"
+  ],
+  "Webequie": [
+    "YWP"
+  ],
+  "Whale Cove": [
+    "YXN"
+  ],
+  "Salluit": [
+    "YZG"
+  ],
+  "York Landing": [
+    "ZAC"
+  ],
+  "Ilford": [
+    "ILF"
+  ],
+  "Bathurst": [
+    "ZBF",
+    "BHS"
+  ],
+  "Eastmain River": [
+    "ZEM"
+  ],
+  "Fond-Du-Lac": [
+    "ZFD"
+  ],
+  "Gods River": [
+    "ZGI"
+  ],
+  "Swan River": [
+    "ZJN"
+  ],
+  "Kashechewan": [
+    "ZKE"
+  ],
+  "Muskrat Dam": [
+    "MSA"
+  ],
+  "Masset": [
+    "ZMT"
+  ],
+  "Sachigo Lake": [
+    "ZPB"
+  ],
+  "Round Lake": [
+    "ZRJ"
+  ],
+  "Sandy Lake": [
+    "ZSJ"
+  ],
+  "Shamattawa": [
+    "ZTM"
+  ],
+  "Churchill Falls": [
+    "ZUM"
+  ],
+  "Wollaston Lake": [
+    "ZWL"
+  ],
+  "Batna": [
+    "BLJ"
+  ],
+  "B\u00e9char": [
+    "CBH"
+  ],
+  "Bordj Badji Mokhtar": [
+    "BMW"
+  ],
+  "Guemar": [
+    "ELU"
+  ],
+  "Kumasi": [
+    "KMS"
+  ],
+  "Heringsdorf": [
+    "HDF"
+  ],
+  "B\u00fcsum": [
+    "HEI"
+  ],
+  "Helgoland": [
+    "HGL"
+  ],
+  "Sein\u00e4joki / Ilmajoki": [
+    "SJY"
+  ],
+  "Nottingham": [
+    "NQT"
+  ],
+  "Doncaster, Sheffield": [
+    "DSA"
+  ],
+  "Campbeltown": [
+    "CAL"
+  ],
+  "Eday": [
+    "EOI"
+  ],
+  "Fair Isle": [
+    "FIE"
+  ],
+  "North Ronaldsay": [
+    "NRL"
+  ],
+  "Papa Westray": [
+    "PPW"
+  ],
+  "Stronsay": [
+    "SOY"
+  ],
+  "Sanday": [
+    "NDY"
+  ],
+  "Lerwick": [
+    "LWK"
+  ],
+  "Westray": [
+    "WRY"
+  ],
+  "Land's End": [
+    "LEQ"
+  ],
+  "Penzance": [
+    "PZE"
+  ],
+  "Angelsey": [
+    "VLY"
+  ],
+  "Barra": [
+    "BRR"
+  ],
+  "Dongloe": [
+    "CFN"
+  ],
+  "Sindal": [
+    "CNL"
+  ],
+  "Leknes": [
+    "LKN"
+  ],
+  "Namsos": [
+    "OSY"
+  ],
+  "Mo i Rana": [
+    "MQN"
+  ],
+  "R\u00f8rvik": [
+    "RVK"
+  ],
+  "R\u00f8st": [
+    "RET"
+  ],
+  "Sandane": [
+    "SDN"
+  ],
+  "Sogndal": [
+    "SOG"
+  ],
+  "Svolv\u00e6r": [
+    "SVJ"
+  ],
+  "Sorkjosen": [
+    "SOJ"
+  ],
+  "Vard\u00f8": [
+    "VAW"
+  ],
+  "V\u00e6r\u00f8y": [
+    "VRY"
+  ],
+  "Bydgoszcz": [
+    "BZG"
+  ],
+  "Lodz": [
+    "LCJ"
+  ],
+  "\u00d6stersund": [
+    "OSD"
+  ],
+  "Hagfors": [
+    "HFS"
+  ],
+  "Karlstad": [
+    "KSD"
+  ],
+  "Torsby": [
+    "TYF"
+  ],
+  "\u00c4ngelholm": [
+    "AGH"
+  ],
+  "Mohed": [
+    "SQO"
+  ],
+  "Hemavan": [
+    "HMV"
+  ],
+  "Ventspils": [
+    "VNT"
+  ],
+  "Mpumalanga": [
+    "MQP"
+  ],
+  "Malamala": [
+    "AAM"
+  ],
+  "Mafeking": [
+    "MBD"
+  ],
+  "Ghanzi": [
+    "GNZ"
+  ],
+  "Orapa": [
+    "ORP"
+  ],
+  "Shakawe": [
+    "SWX"
+  ],
+  "Tuli Lodge": [
+    "TLD"
+  ],
+  "Loubomo": [
+    "DIS"
+  ],
+  "Chipata": [
+    "CIP"
+  ],
+  "Antsalova": [
+    "WAQ"
+  ],
+  "Ankavandra": [
+    "JVA"
+  ],
+  "Belo sur Tsiribihina": [
+    "BMD"
+  ],
+  "Maintirano": [
+    "MXT"
+  ],
+  "Morafenobe": [
+    "TVA"
+  ],
+  "Tambohorano": [
+    "WTA"
+  ],
+  "Tsiroanomandidy": [
+    "WTS"
+  ],
+  "Ambatondrazaka": [
+    "WAM"
+  ],
+  "Port Berg\u00e9": [
+    "WPB"
+  ],
+  "Soalala": [
+    "DWB"
+  ],
+  "Mampikony": [
+    "WMP"
+  ],
+  "Mandritsara": [
+    "WMA"
+  ],
+  "Manja": [
+    "MJA"
+  ],
+  "Catumbela": [
+    "CBT"
+  ],
+  "Dundo": [
+    "DUE"
+  ],
+  "Ondjiva": [
+    "VPE"
+  ],
+  "Mocamedes": [
+    "MSZ"
+  ],
+  "Koulamoutou": [
+    "KOU"
+  ],
+  "Mouila": [
+    "MJL"
+  ],
+  "Tchibanga": [
+    "TCH"
+  ],
+  "Chimoio": [
+    "VPY"
+  ],
+  "Sarh": [
+    "SRH"
+  ],
+  "Club Makokola": [
+    "CMK"
+  ],
+  "Luderitz": [
+    "LUD"
+  ],
+  "Ondangwa": [
+    "OND"
+  ],
+  "Oranjemund": [
+    "OMD"
+  ],
+  "Swakopmund": [
+    "SWP"
+  ],
+  "Boma": [
+    "BOA"
+  ],
+  "Matadi": [
+    "MAT"
+  ],
+  "Inongo": [
+    "INO"
+  ],
+  "Nioki": [
+    "NIO"
+  ],
+  "Kiri": [
+    "KRZ"
+  ],
+  "Basankusu": [
+    "BSU"
+  ],
+  "Tshikapa": [
+    "TSH"
+  ],
+  "Lodja": [
+    "LJA"
+  ],
+  "Ilebo": [
+    "PFR"
+  ],
+  "Outer Skerries": [
+    "OUK"
+  ],
+  "La Gomera": [
+    "GMZ"
+  ],
+  "Bonthe": [
+    "BTE"
+  ],
+  "Bo": [
+    "KBS"
+  ],
+  "Kenema": [
+    "KEN"
+  ],
+  "Bissau": [
+    "OXB"
+  ],
+  "Smara": [
+    "SMW"
+  ],
+  "Dakhla": [
+    "VIL"
+  ],
+  "Essadouira": [
+    "ESU"
+  ],
+  "El Aai\u00fan": [
+    "EUN"
+  ],
+  "El Aroui": [
+    "NDR"
+  ],
+  "Praia, Santiago Island": [
+    "RAI"
+  ],
+  "Sao Filipe, Fogo Island": [
+    "SFL"
+  ],
+  "Baco": [
+    "BCO"
+  ],
+  "Beica": [
+    "BEI"
+  ],
+  "Dessie": [
+    "DSE"
+  ],
+  "Dembidollo": [
+    "DEM"
+  ],
+  "Gode": [
+    "GDE"
+  ],
+  "Gore": [
+    "GOR"
+  ],
+  "Kabri Dehar": [
+    "ABK"
+  ],
+  "Mizan Teferi": [
+    "MTF"
+  ],
+  "Tippi": [
+    "TIE"
+  ],
+  "Alula": [
+    "ALU"
+  ],
+  "Bosaso": [
+    "BSA"
+  ],
+  "Mogadishu": [
+    "MGQ"
+  ],
+  "Galcaio": [
+    "GLK"
+  ],
+  "Burao": [
+    "BUO"
+  ],
+  "El Arish": [
+    "AAC"
+  ],
+  "Asyut": [
+    "ATZ"
+  ],
+  "Amboseli National Park": [
+    "ASV"
+  ],
+  "Lokichoggio": [
+    "LKG"
+  ],
+  "Malindi": [
+    "MYD"
+  ],
+  "Nanyuki": [
+    "NYK"
+  ],
+  "Sirt": [
+    "SRX"
+  ],
+  "Tobruk": [
+    "TOB"
+  ],
+  "Al Bayda'": [
+    "LAQ"
+  ],
+  "Atbara": [
+    "ATB"
+  ],
+  "Nyala": [
+    "UYL"
+  ],
+  "Port Sudan": [
+    "PZU"
+  ],
+  "Bukoba": [
+    "BKZ"
+  ],
+  "Kigoma": [
+    "TKQ"
+  ],
+  "Lindi": [
+    "LDI"
+  ],
+  "Musoma": [
+    "MUZ"
+  ],
+  "Shinyanga": [
+    "SHY"
+  ],
+  "Tabora": [
+    "TBO"
+  ],
+  "Arua": [
+    "RUA"
+  ],
+  "Gulu": [
+    "ULU"
+  ],
+  "Diu": [
+    "DIU"
+  ],
+  "Walla Walla": [
+    "ALW"
+  ],
+  "Alpena": [
+    "APN"
+  ],
+  "Bradford": [
+    "BFD"
+  ],
+  "Scottsbluff": [
+    "BFF"
+  ],
+  "Beckley": [
+    "BKW"
+  ],
+  "Brunswick": [
+    "BQK",
+    "SSI",
+    "NHZ"
+  ],
+  "Crescent City": [
+    "CEC"
+  ],
+  "Cape Girardeau": [
+    "CGI"
+  ],
+  "Sault Ste Marie": [
+    "CIU"
+  ],
+  "Clarksburg": [
+    "CKB"
+  ],
+  "Port Angeles": [
+    "CLM"
+  ],
+  "Hancock": [
+    "CMX"
+  ],
+  "Dodge City": [
+    "DDC"
+  ],
+  "Du Bois": [
+    "DUJ"
+  ],
+  "Eau Claire": [
+    "EAU"
+  ],
+  "Elko": [
+    "EKO"
+  ],
+  "New Bedford": [
+    "EWB"
+  ],
+  "Grand Island": [
+    "GRI"
+  ],
+  "Hot Springs": [
+    "HOT"
+  ],
+  "Huntington": [
+    "HTS"
+  ],
+  "Kili Island": [
+    "KIO"
+  ],
+  "Kirksville": [
+    "IRK"
+  ],
+  "Jamestown": [
+    "JMS",
+    "JHW"
+  ],
+  "Laramie": [
+    "LAR"
+  ],
+  "Latrobe": [
+    "LBE"
+  ],
+  "North Platte": [
+    "LBF"
+  ],
+  "Lebanon": [
+    "LEB"
+  ],
+  "Klamath Falls": [
+    "LMT"
+  ],
+  "Lancaster": [
+    "LNS",
+    "WJF"
+  ],
+  "Lewistown": [
+    "LWT"
+  ],
+  "Lynchburg": [
+    "LYH"
+  ],
+  "Muskegon": [
+    "MKG"
+  ],
+  "Miles City": [
+    "MLS"
+  ],
+  "Muscle Shoals": [
+    "MSL"
+  ],
+  "North Bend": [
+    "OTH"
+  ],
+  "Owensboro": [
+    "OWB"
+  ],
+  "Hattiesburg/Laurel": [
+    "PIB"
+  ],
+  "Pocatello": [
+    "PIH"
+  ],
+  "Pierre": [
+    "PIR"
+  ],
+  "Pellston": [
+    "PLN"
+  ],
+  "Portsmouth": [
+    "PSM",
+    "PMH"
+  ],
+  "Reading": [
+    "RDG"
+  ],
+  "Rhinelander": [
+    "RHI"
+  ],
+  "Rock Springs": [
+    "RKS"
+  ],
+  "Rutland": [
+    "RUT"
+  ],
+  "San Luis Obispo": [
+    "SBP"
+  ],
+  "Sheridan": [
+    "SHR"
+  ],
+  "Saranac Lake": [
+    "SLK"
+  ],
+  "Salina": [
+    "SLN"
+  ],
+  "Santa Maria": [
+    "SMX",
+    "RIA"
+  ],
+  "Tupelo": [
+    "TUP"
+  ],
+  "Quincy": [
+    "UIN"
+  ],
+  "Worland": [
+    "WRL"
+  ],
+  "Yakima": [
+    "YKM"
+  ],
+  "Nicosia": [
+    "ECN"
+  ],
+  "Logro\u00f1o-Agoncillo": [
+    "RJL"
+  ],
+  "\u00cele d'Yeu": [
+    "IDY"
+  ],
+  "Angers/Marc\u00e9": [
+    "ANE"
+  ],
+  "La M\u00f4le": [
+    "LTT"
+  ],
+  "Syros Island": [
+    "JSY"
+  ],
+  "P\u00e9cs-Pog\u00e1ny": [
+    "PEV"
+  ],
+  "S\u00e1rmell\u00e9k": [
+    "SOB"
+  ],
+  "Aosta": [
+    "AOT"
+  ],
+  "Salerno": [
+    "QSR"
+  ],
+  "Corvo": [
+    "CVU"
+  ],
+  "Banja Luka": [
+    "BNX"
+  ],
+  "Usak": [
+    "USQ"
+  ],
+  "Kars": [
+    "KSY"
+  ],
+  "Sanliurfa": [
+    "SFQ",
+    "GNY"
+  ],
+  "Kahramanmaras": [
+    "KCM"
+  ],
+  "Agri": [
+    "AJI"
+  ],
+  "Adiyaman": [
+    "ADF"
+  ],
+  "Isparta": [
+    "ISE"
+  ],
+  "Balikesir Korfez": [
+    "EDO"
+  ],
+  "Samsun": [
+    "SZF"
+  ],
+  "\u017dilina": [
+    "ILZ"
+  ],
+  "Middle Caicos": [
+    "MDS"
+  ],
+  "Salt Cay": [
+    "SLX"
+  ],
+  "Samana": [
+    "AZS"
+  ],
+  "La Isabela": [
+    "JBQ"
+  ],
+  "Puerto Barrios": [
+    "PBR"
+  ],
+  "Quezaltenango": [
+    "AAZ"
+  ],
+  "Utirik Island": [
+    "UTK"
+  ],
+  "Ahuas": [
+    "AHS"
+  ],
+  "Puerto Lempira": [
+    "PEU"
+  ],
+  "Mili Island": [
+    "MIJ"
+  ],
+  "Celaya": [
+    "CYW"
+  ],
+  "Ciudad Constituci\u00f3n": [
+    "CUA"
+  ],
+  "Guerrero Negro": [
+    "GUB"
+  ],
+  "Jalapa": [
+    "JAL"
+  ],
+  "Chitr\u00e9": [
+    "CTD"
+  ],
+  "Col\u00f3n": [
+    "ONX"
+  ],
+  "Jaqu\u00e9": [
+    "JQE"
+  ],
+  "La Palma": [
+    "PLP"
+  ],
+  "Roxana": [
+    "TTQ"
+  ],
+  "Pococi": [
+    "BCL"
+  ],
+  "Nandayure": [
+    "PBP"
+  ],
+  "Puerto Jimenez": [
+    "PJM"
+  ],
+  "Jeremie": [
+    "JEE"
+  ],
+  "Port-de-Paix": [
+    "PAX"
+  ],
+  "Andros": [
+    "COX"
+  ],
+  "Arthur's Town": [
+    "ATC"
+  ],
+  "Cat Island": [
+    "TBI"
+  ],
+  "Colonel Hill": [
+    "CRI"
+  ],
+  "Atiu Island": [
+    "AIU"
+  ],
+  "Mangaia Island": [
+    "MGS"
+  ],
+  "Manihiki Island": [
+    "MHX"
+  ],
+  "Mauke Island": [
+    "MUK"
+  ],
+  "Mitiaro Island": [
+    "MOI"
+  ],
+  "Penrhyn Island": [
+    "PYE"
+  ],
+  "Cicia": [
+    "ICI"
+  ],
+  "Malolo Lailai Island": [
+    "PTF"
+  ],
+  "Vunisea": [
+    "KDV"
+  ],
+  "Mana Island": [
+    "MNF"
+  ],
+  "Moala": [
+    "MFJ"
+  ],
+  "Ngau": [
+    "NGI"
+  ],
+  "Lakeba Island": [
+    "LKB"
+  ],
+  "Lambasa": [
+    "LBS"
+  ],
+  "Matei": [
+    "TVU"
+  ],
+  "Koro Island": [
+    "KXF"
+  ],
+  "Rotuma": [
+    "RTA"
+  ],
+  "Savusavu": [
+    "SVU"
+  ],
+  "Eua Island": [
+    "EUA"
+  ],
+  "Lifuka": [
+    "HPA"
+  ],
+  "Angaha, Niuafo'ou Island": [
+    "NFO"
+  ],
+  "Niuatoputapu": [
+    "NTT"
+  ],
+  "Vanua Balavu": [
+    "VBV"
+  ],
+  "Alofi": [
+    "IUE"
+  ],
+  "Futuna Island": [
+    "FUT",
+    "FTA"
+  ],
+  "Savaii Island": [
+    "MXS"
+  ],
+  "Apataki": [
+    "APK"
+  ],
+  "Ahe": [
+    "AHE"
+  ],
+  "Hiva-oa": [
+    "AUQ"
+  ],
+  "Ua Pou": [
+    "UAP"
+  ],
+  "Ua Huka": [
+    "UAH"
+  ],
+  "Ablow": [
+    "MTV"
+  ],
+  "Sola": [
+    "SLH"
+  ],
+  "Loh/Linua": [
+    "TOH"
+  ],
+  "Sangafa": [
+    "EAE"
+  ],
+  "Craig Cove": [
+    "CCV"
+  ],
+  "Longana": [
+    "LOD"
+  ],
+  "Pentecost Island": [
+    "SSR"
+  ],
+  "Paama Island": [
+    "PBJ"
+  ],
+  "Lamap": [
+    "LPM"
+  ],
+  "Lamen Bay": [
+    "LNB"
+  ],
+  "Maewo Island": [
+    "MWF"
+  ],
+  "Lonorore": [
+    "LNE"
+  ],
+  "Norsup": [
+    "NUS"
+  ],
+  "Gaua Island": [
+    "ZGU"
+  ],
+  "Redcliffe": [
+    "RCL"
+  ],
+  "Santo": [
+    "SON"
+  ],
+  "Tongoa Island": [
+    "TGH"
+  ],
+  "Ambryn Island": [
+    "ULB"
+  ],
+  "Valesdir": [
+    "VLS"
+  ],
+  "Malekula Island": [
+    "SWJ"
+  ],
+  "Olpoi": [
+    "OLJ"
+  ],
+  "Anelghowhat": [
+    "AUY"
+  ],
+  "Aniwa": [
+    "AWD"
+  ],
+  "Dillon's Bay": [
+    "DLY"
+  ],
+  "Ipota": [
+    "IPA"
+  ],
+  "Tiga": [
+    "TGJ"
+  ],
+  "Waala": [
+    "BMY"
+  ],
+  "\u00cele des Pins": [
+    "ILP"
+  ],
+  "Faizabad": [
+    "FBD"
+  ],
+  "Al-Jawf": [
+    "AJF"
+  ],
+  "Wadi-al-dawasir": [
+    "WAE"
+  ],
+  "Khorram Abad": [
+    "KHD"
+  ],
+  "Bam": [
+    "BXR"
+  ],
+  "Rafsanjan": [
+    "RJN"
+  ],
+  "Bojnourd": [
+    "BJB"
+  ],
+  "Sabzevar": [
+    "AFZ"
+  ],
+  "Noshahr": [
+    "NSH"
+  ],
+  "Dasht-e-naz": [
+    "SRY"
+  ],
+  "Lar": [
+    "LRR"
+  ],
+  "Ardabil": [
+    "ADU"
+  ],
+  "Uromiyeh": [
+    "OMH"
+  ],
+  "Al Ain": [
+    "AAN"
+  ],
+  "Bannu": [
+    "BNP"
+  ],
+  "Bahawalpur": [
+    "BHV"
+  ],
+  "Chitral": [
+    "CJL"
+  ],
+  "Dalbandin": [
+    "DBA"
+  ],
+  "Dera Ghazi Khan": [
+    "DEA"
+  ],
+  "Dera Ismael Khan": [
+    "DSK"
+  ],
+  "Jiwani": [
+    "JIW"
+  ],
+  "Khuzdar": [
+    "KDD"
+  ],
+  "Ormara Raik": [
+    "ORW"
+  ],
+  "Parachinar": [
+    "PAJ"
+  ],
+  "Skardu": [
+    "KDU"
+  ],
+  "Sehwan Sharif": [
+    "SYW"
+  ],
+  "Turbat": [
+    "TUK"
+  ],
+  "Sulaymaniyah": [
+    "ISU"
+  ],
+  "Kamishly": [
+    "KAC"
+  ],
+  "Sayun Intl": [
+    "GXF"
+  ],
+  "Adak Island": [
+    "ADK"
+  ],
+  "Gustavus": [
+    "GST"
+  ],
+  "Skagway": [
+    "SGY"
+  ],
+  "Holy Cross": [
+    "HCR"
+  ],
+  "Haines": [
+    "HNS"
+  ],
+  "Kalskag": [
+    "KLG"
+  ],
+  "Mcgrath": [
+    "MCG"
+  ],
+  "Mountain Village": [
+    "MOU"
+  ],
+  "Aniak": [
+    "ANI"
+  ],
+  "Chevak": [
+    "VAK"
+  ],
+  "Wrangell": [
+    "WRG"
+  ],
+  "Balimo": [
+    "OPU"
+  ],
+  "Baimuru": [
+    "VMU"
+  ],
+  "Eniwetok Atoll": [
+    "ENT"
+  ],
+  "Matsu Islands": [
+    "LZN",
+    "MFK"
+  ],
+  "Hengchun": [
+    "HCN"
+  ],
+  "Kushiro": [
+    "KUH"
+  ],
+  "Saga": [
+    "HSG"
+  ],
+  "Iwami": [
+    "IWJ"
+  ],
+  "Fukushima": [
+    "FKS"
+  ],
+  "Odate Noshiro": [
+    "ONJ"
+  ],
+  "Shonai": [
+    "SYO"
+  ],
+  "Miyakejima": [
+    "MYE"
+  ],
+  "Kunsan": [
+    "KUV"
+  ],
+  "Mokpo": [
+    "MPK"
+  ],
+  "Wonju": [
+    "WJU"
+  ],
+  "Sokcho / Gangneung": [
+    "YNY"
+  ],
+  "Sacheon": [
+    "HIN"
+  ],
+  "Chongju": [
+    "CJJ"
+  ],
+  "Olongapo City": [
+    "SFS"
+  ],
+  "Cuyo": [
+    "CYU"
+  ],
+  "Camiguin": [
+    "CGM"
+  ],
+  "Jolo": [
+    "JOL"
+  ],
+  "Sanga Sanga": [
+    "TWT"
+  ],
+  "Sangley Point": [
+    "SUG"
+  ],
+  "Tandag": [
+    "TDG"
+  ],
+  "Naga": [
+    "WNP"
+  ],
+  "Basco": [
+    "BSO"
+  ],
+  "Tuguegarao": [
+    "TUG"
+  ],
+  "Virac": [
+    "VRC"
+  ],
+  "Calbayog City": [
+    "CYP"
+  ],
+  "Catarman": [
+    "CRM"
+  ],
+  "Masbate": [
+    "MBT"
+  ],
+  "Roxas City": [
+    "RXS"
+  ],
+  "Tartagal": [
+    "TTG"
+  ],
+  "Las Heras": [
+    "LHS"
+  ],
+  "San Antonio Oeste": [
+    "OES"
+  ],
+  "Gobernador Gregores": [
+    "GGS"
+  ],
+  "Santa Teresita": [
+    "SST"
+  ],
+  "Necochea": [
+    "NEC"
+  ],
+  "Juazeiro Do Norte": [
+    "JDO"
+  ],
+  "Len\u00e7\u00f3is": [
+    "LEC"
+  ],
+  "Maca\u00e9": [
+    "MEA"
+  ],
+  "Mar\u00edlia": [
+    "MII"
+  ],
+  "Vit\u00f3ria Da Conquista": [
+    "VDC"
+  ],
+  "El Salvador": [
+    "ESR"
+  ],
+  "Pucon": [
+    "ZPC"
+  ],
+  "Sorocaba": [
+    "SOD"
+  ],
+  "San Crist\u00f3bal": [
+    "SCY"
+  ],
+  "La Toma (Catamayo)": [
+    "LOH"
+  ],
+  "Esmeraldas": [
+    "ESM"
+  ],
+  "Stanley": [
+    "PSY"
+  ],
+  "Cartago": [
+    "CRC"
+  ],
+  "Puerto Legu\u00edzamo": [
+    "LQM"
+  ],
+  "La Pedrera": [
+    "LPD"
+  ],
+  "Nuqu\u00ed": [
+    "NQU"
+  ],
+  "Puerto In\u00edrida": [
+    "PDA"
+  ],
+  "Yopal": [
+    "EYP"
+  ],
+  "Guayaramer\u00edn": [
+    "GYA"
+  ],
+  "Puerto Rico/Manuripi": [
+    "PUR"
+  ],
+  "Riberalta": [
+    "RIB"
+  ],
+  "Reyes": [
+    "REY"
+  ],
+  "San Borja": [
+    "SRJ"
+  ],
+  "Paramaribo": [
+    "ORG"
+  ],
+  "Mucuri": [
+    "MVS"
+  ],
+  "Cajamarca": [
+    "CJA"
+  ],
+  "Hu\u00e1nuco": [
+    "HUU"
+  ],
+  "Nazca": [
+    "NZC"
+  ],
+  "Maracay": [
+    "MYC"
+  ],
+  "El Vig\u00eda": [
+    "VIG"
+  ],
+  "Ji-Paran\u00e1": [
+    "JPR"
+  ],
+  "Codrington": [
+    "BBQ"
+  ],
+  "Grande Anse": [
+    "DSD"
+  ],
+  "St-Fran\u00e7ois": [
+    "SFC"
+  ],
+  "Grand Bourg": [
+    "GBJ"
+  ],
+  "Charlestown": [
+    "NEV"
+  ],
+  "Spanish Town": [
+    "VIJ"
+  ],
+  "Bequia": [
+    "BQU"
+  ],
+  "Union Island": [
+    "UNI"
+  ],
+  "Kokshetau": [
+    "KOV"
+  ],
+  "Petropavlosk": [
+    "PPK"
+  ],
+  "Zhezkazgan": [
+    "DZN"
+  ],
+  "Ust Kamenogorsk": [
+    "UKK"
+  ],
+  "Kostanay": [
+    "KSN"
+  ],
+  "Ganja": [
+    "KVD"
+  ],
+  "Nakhchivan": [
+    "NAJ"
+  ],
+  "Neryungri": [
+    "NER"
+  ],
+  "Yakutia": [
+    "PYJ"
+  ],
+  "Chokurdah": [
+    "CKH"
+  ],
+  "Cherskiy": [
+    "CYX"
+  ],
+  "Tiksi": [
+    "IKS"
+  ],
+  "Komsomolsk-on-Amur": [
+    "KXK"
+  ],
+  "Anadyr": [
+    "DYR"
+  ],
+  "Okhotsk": [
+    "OHO"
+  ],
+  "Ujae Atoll": [
+    "UJE"
+  ],
+  "Mariupol International": [
+    "MPW"
+  ],
+  "Lugansk": [
+    "VSG"
+  ],
+  "Zaporozhye": [
+    "OZH"
+  ],
+  "Krivoy Rog": [
+    "KWG"
+  ],
+  "Kharkov": [
+    "HRK"
+  ],
+  "Ivano-Frankivsk": [
+    "IFO"
+  ],
+  "Chernovtsk": [
+    "CWC"
+  ],
+  "Rivne": [
+    "RWN"
+  ],
+  "Uzhgorod": [
+    "UDJ"
+  ],
+  "Solovetsky Islands": [
+    "CSH"
+  ],
+  "Cherepovets": [
+    "CEE"
+  ],
+  "Amderma": [
+    "AMV"
+  ],
+  "Kotlas": [
+    "KSZ"
+  ],
+  "Petrozavodsk": [
+    "PES"
+  ],
+  "Hrodna": [
+    "GNA"
+  ],
+  "Mogilev": [
+    "MVQ"
+  ],
+  "Yeniseysk": [
+    "EIE"
+  ],
+  "Kyzyl": [
+    "KYZ"
+  ],
+  "Novokuznetsk": [
+    "NOZ"
+  ],
+  "Khatanga": [
+    "HTG"
+  ],
+  "Igarka": [
+    "IAA"
+  ],
+  "Nalchik": [
+    "NAL"
+  ],
+  "Beslan": [
+    "OGZ"
+  ],
+  "Elista": [
+    "ESL"
+  ],
+  "Aleknagik": [
+    "WKK"
+  ],
+  "Bluefield": [
+    "BLF"
+  ],
+  "Pasco": [
+    "PSC"
+  ],
+  "Akutan": [
+    "KQA"
+  ],
+  "Lopez": [
+    "LPS"
+  ],
+  "Salekhard": [
+    "SLY"
+  ],
+  "Khanty-Mansiysk": [
+    "HMA"
+  ],
+  "Nyagan": [
+    "NYA"
+  ],
+  "Sovetskiy": [
+    "OVS"
+  ],
+  "Izhevsk": [
+    "IJK"
+  ],
+  "Kirov": [
+    "KVX"
+  ],
+  "Nadym": [
+    "NYM"
+  ],
+  "Raduzhnyi": [
+    "RAT"
+  ],
+  "Nefteyugansk": [
+    "NFG"
+  ],
+  "Kurgan": [
+    "KRO"
+  ],
+  "Khudzhand": [
+    "LBD"
+  ],
+  "Andizhan": [
+    "AZN"
+  ],
+  "Fergana": [
+    "FEG"
+  ],
+  "Namangan": [
+    "NMA"
+  ],
+  "Nukus": [
+    "NCU"
+  ],
+  "Urgench": [
+    "UGC"
+  ],
+  "Khanabad": [
+    "KSQ"
+  ],
+  "Termez": [
+    "TMJ"
+  ],
+  "Rybinsk": [
+    "RYB"
+  ],
+  "Belgorod": [
+    "EGO"
+  ],
+  "Kursk": [
+    "URS"
+  ],
+  "Lipetsk": [
+    "LPK"
+  ],
+  "Vorkuta": [
+    "VKT"
+  ],
+  "Bugulma": [
+    "UUA"
+  ],
+  "Yoshkar-Ola": [
+    "JOK"
+  ],
+  "Cheboksary": [
+    "CSY"
+  ],
+  "Ulyanovsk": [
+    "ULY",
+    "ULV"
+  ],
+  "Orsk": [
+    "OSW"
+  ],
+  "Penza": [
+    "PEZ"
+  ],
+  "Saransk": [
+    "SKX"
+  ],
+  "Balakovo": [
+    "BWO"
+  ],
+  "Hubli": [
+    "HBX"
+  ],
+  "Koggala": [
+    "KCT"
+  ],
+  "Wirawila": [
+    "WRZ"
+  ],
+  "Battambang": [
+    "BBM"
+  ],
+  "Shillong": [
+    "SHL"
+  ],
+  "Guwahati": [
+    "GAU"
+  ],
+  "Dimapur": [
+    "DMU"
+  ],
+  "Tezpur": [
+    "TEZ"
+  ],
+  "Barisal": [
+    "BZL"
+  ],
+  "Huay Xai": [
+    "HOE"
+  ],
+  "Bharatpur": [
+    "BHR"
+  ],
+  "Chandragarhi": [
+    "BDP"
+  ],
+  "Meghauli": [
+    "MEY"
+  ],
+  "Nepalgunj": [
+    "KEP"
+  ],
+  "Gan Island": [
+    "GAN"
+  ],
+  "Haa Dhaalu Atoll": [
+    "HAQ"
+  ],
+  "Laamu Atoll": [
+    "KDO"
+  ],
+  "Tak": [
+    "MAQ",
+    "TKT"
+  ],
+  "Buonmethuot": [
+    "BMV"
+  ],
+  "Haiphong": [
+    "HPH"
+  ],
+  "Nha Trang": [
+    "CXR"
+  ],
+  "Conson": [
+    "VCS"
+  ],
+  "Can Tho": [
+    "VCA"
+  ],
+  "Dienbienphu": [
+    "DIN"
+  ],
+  "Phucat": [
+    "UIH"
+  ],
+  "Pleiku": [
+    "PXU"
+  ],
+  "Vinh": [
+    "VII"
+  ],
+  "Banmaw": [
+    "BMO"
+  ],
+  "Dawei": [
+    "TVY"
+  ],
+  "Kawthoung": [
+    "KAW"
+  ],
+  "Loikaw": [
+    "LIW"
+  ],
+  "Mawlamyine": [
+    "MNU"
+  ],
+  "Pathein": [
+    "BSX"
+  ],
+  "Pakhokku": [
+    "PKK"
+  ],
+  "Sumbawa Island": [
+    "SWQ"
+  ],
+  "Waikabubak-Sumba Island": [
+    "TMC"
+  ],
+  "Bokondini-Papua Island": [
+    "BUI"
+  ],
+  "Senggeh-Papua Island": [
+    "SEH"
+  ],
+  "Tanjung Selor-Borneo Island": [
+    "TJS"
+  ],
+  "Datadawai-Borneo Island": [
+    "DTD"
+  ],
+  "Tanjung Redep-Borneo Island": [
+    "BEJ"
+  ],
+  "Tanjung-Borneo Island": [
+    "TJG"
+  ],
+  "Sampit-Borneo Island": [
+    "SMQ"
+  ],
+  "Langgur-Kei Islands": [
+    "LUV"
+  ],
+  "Alor Island": [
+    "ARD"
+  ],
+  "Belaga": [
+    "BLG"
+  ],
+  "Long Datih": [
+    "LGL"
+  ],
+  "Long Seridan": [
+    "ODN"
+  ],
+  "Mukah": [
+    "MKM"
+  ],
+  "Bakalalan": [
+    "BKM"
+  ],
+  "Lawas": [
+    "LWY"
+  ],
+  "Bario": [
+    "BBN"
+  ],
+  "Tomanggong": [
+    "TMG"
+  ],
+  "Kudat": [
+    "KUD"
+  ],
+  "Bandar Lampung-Sumatra Island": [
+    "TKG"
+  ],
+  "Ranai-Natuna Besar Island": [
+    "NTX"
+  ],
+  "Putussibau-Borneo Island": [
+    "PSU"
+  ],
+  "Sintang-Borneo Island": [
+    "SQG"
+  ],
+  "Talang Gudang-Sumatra Island": [
+    "PDO"
+  ],
+  "Lhok Seumawe-Sumatra Island": [
+    "LSW"
+  ],
+  "Pangkor Island": [
+    "PKG"
+  ],
+  "Long Bawan-Borneo Island": [
+    "LBW"
+  ],
+  "Nunukan-Nunukan Island": [
+    "NNX"
+  ],
+  "Long Apung-Borneo Island": [
+    "LPU"
+  ],
+  "Argyle": [
+    "GYL",
+    "PUG"
+  ],
+  "Aurukun": [
+    "AUU"
+  ],
+  "Barcaldine": [
+    "BCI"
+  ],
+  "Badu Island": [
+    "BDD"
+  ],
+  "Birdsville": [
+    "BVI"
+  ],
+  "Broken Hill": [
+    "BHQ"
+  ],
+  "Hamilton Island": [
+    "HTI"
+  ],
+  "Bedourie": [
+    "BEU"
+  ],
+  "Bourke": [
+    "BRK"
+  ],
+  "Burketown": [
+    "BUC"
+  ],
+  "Boigu": [
+    "GIC"
+  ],
+  "Oakey": [
+    "OKY"
+  ],
+  "Boulia": [
+    "BQL"
+  ],
+  "Blackwater": [
+    "BLT"
+  ],
+  "Carnarvon": [
+    "CVQ"
+  ],
+  "Cobar": [
+    "CAZ"
+  ],
+  "Coober Pedy": [
+    "CPD"
+  ],
+  "Coconut Island": [
+    "CNC"
+  ],
+  "Cloncurry": [
+    "CNJ"
+  ],
+  "Ceduna": [
+    "CED"
+  ],
+  "Cooktown": [
+    "CTN"
+  ],
+  "Cunnamulla": [
+    "CMA"
+  ],
+  "Coonamble": [
+    "CNB"
+  ],
+  "Coen": [
+    "CUQ"
+  ],
+  "Cooma": [
+    "OOM"
+  ],
+  "Doomadgee": [
+    "DMD"
+  ],
+  "Darnley Island": [
+    "NLF"
+  ],
+  "Devonport": [
+    "DPO"
+  ],
+  "Elcho Island": [
+    "ELC"
+  ],
+  "Esperance": [
+    "EPR"
+  ],
+  "Flinders Island": [
+    "FLS"
+  ],
+  "Gladstone": [
+    "GLT"
+  ],
+  "Groote Eylandt": [
+    "GTE"
+  ],
+  "Griffith": [
+    "GFF"
+  ],
+  "Horn Island": [
+    "HID"
+  ],
+  "Hooker Creek": [
+    "HOK"
+  ],
+  "Mount Hotham": [
+    "MHU"
+  ],
+  "Hughenden": [
+    "HGD"
+  ],
+  "Julia Creek": [
+    "JCK"
+  ],
+  "Kalbarri": [
+    "KAX"
+  ],
+  "King Island": [
+    "KNS"
+  ],
+  "Kalkgurung": [
+    "KFG"
+  ],
+  "Karumba": [
+    "KRB"
+  ],
+  "Kowanyama": [
+    "KWM"
+  ],
+  "Kubin": [
+    "KUG"
+  ],
+  "Leonora": [
+    "LNO"
+  ],
+  "Lake Evella": [
+    "LEL"
+  ],
+  "Lord Howe Island": [
+    "LDH"
+  ],
+  "Lockhart River": [
+    "IRG"
+  ],
+  "Lismore": [
+    "LSY"
+  ],
+  "Lightning Ridge": [
+    "LHG"
+  ],
+  "Longreach": [
+    "LRE"
+  ],
+  "Leinster": [
+    "LER"
+  ],
+  "Laverton": [
+    "LVO"
+  ],
+  "Mabuiag Island": [
+    "UBB"
+  ],
+  "Meekatharra": [
+    "MKR"
+  ],
+  "Merimbula": [
+    "MIM"
+  ],
+  "Milingimbi": [
+    "MGT"
+  ],
+  "Maningrida": [
+    "MNG"
+  ],
+  "McArthur River Mine": [
+    "MCV"
+  ],
+  "Mildura": [
+    "MQL"
+  ],
+  "Mount Magnet": [
+    "MMG"
+  ],
+  "Moree": [
+    "MRZ"
+  ],
+  "Moranbah": [
+    "MOV"
+  ],
+  "Moruya": [
+    "MYA"
+  ],
+  "Mount Gambier": [
+    "MGB"
+  ],
+  "Mornington Island": [
+    "ONG"
+  ],
+  "Murray Island": [
+    "MYI"
+  ],
+  "Maryborough": [
+    "MBH"
+  ],
+  "Narrandera": [
+    "NRA"
+  ],
+  "Narrabri": [
+    "NAA"
+  ],
+  "Normanton": [
+    "NTN"
+  ],
+  "Newman": [
+    "ZNE"
+  ],
+  "Olympic Dam": [
+    "OLP"
+  ],
+  "Palm Island": [
+    "PMK"
+  ],
+  "Paraburdoo": [
+    "PBO"
+  ],
+  "Cocos Keeling Island": [
+    "CCK"
+  ],
+  "Gove": [
+    "GOV"
+  ],
+  "Parkes": [
+    "PKE"
+  ],
+  "Port Lincoln": [
+    "PLO"
+  ],
+  "Pormpuraaw": [
+    "EDR"
+  ],
+  "Port Macquarie": [
+    "PQQ"
+  ],
+  "Quilpie": [
+    "ULP"
+  ],
+  "Ramingining": [
+    "RAM"
+  ],
+  "Roma": [
+    "RMA"
+  ],
+  "St George": [
+    "SGO"
+  ],
+  "Shark Bay": [
+    "MJK"
+  ],
+  "Saibai Island": [
+    "SBR"
+  ],
+  "Strahan": [
+    "SRN"
+  ],
+  "Thargomindah": [
+    "XTG"
+  ],
+  "Tennant Creek": [
+    "TCA"
+  ],
+  "Victoria River Downs": [
+    "VCD"
+  ],
+  "Sue Islet": [
+    "SYU"
+  ],
+  "Windorah": [
+    "WNR"
+  ],
+  "Whyalla": [
+    "WYA"
+  ],
+  "Wiluna": [
+    "WUN"
+  ],
+  "Wollongong": [
+    "WOL"
+  ],
+  "Winton": [
+    "WIN"
+  ],
+  "Burnie": [
+    "BWT"
+  ],
+  "Yorke Island": [
+    "OKR"
+  ],
+  "Yam Island": [
+    "XMY"
+  ],
+  "Chifeng": [
+    "CIF"
+  ],
+  "Changzhi": [
+    "CIH"
+  ],
+  "Datong": [
+    "DAT"
+  ],
+  "Hohhot": [
+    "HET"
+  ],
+  "Baotou": [
+    "BAV"
+  ],
+  "Shijiazhuang": [
+    "SJW"
+  ],
+  "Tongliao": [
+    "TGO"
+  ],
+  "Ulanhot": [
+    "HLH"
+  ],
+  "Xilinhot": [
+    "XIL"
+  ],
+  "Beihai": [
+    "BHY"
+  ],
+  "Changde": [
+    "CGD"
+  ],
+  "Dayong": [
+    "DYG"
+  ],
+  "Meixian": [
+    "MXZ"
+  ],
+  "Zhuhai": [
+    "ZUH"
+  ],
+  "Liuzhou": [
+    "LZH"
+  ],
+  "Zhanjiang": [
+    "ZHA"
+  ],
+  "Enshi": [
+    "ENH"
+  ],
+  "Nanyang": [
+    "NNY"
+  ],
+  "Xiangfan": [
+    "XFN"
+  ],
+  "Yichang": [
+    "YIH"
+  ],
+  "Ankang": [
+    "AKA"
+  ],
+  "Golmud": [
+    "GOQ"
+  ],
+  "Hanzhong": [
+    "HZG"
+  ],
+  "Qingyang": [
+    "IQN"
+  ],
+  "Xining": [
+    "XNN"
+  ],
+  "Yan'an": [
+    "ENY"
+  ],
+  "Yulin": [
+    "UYN"
+  ],
+  "Arvaikheer": [
+    "AVK"
+  ],
+  "Altai": [
+    "LTI"
+  ],
+  "Bayankhongor": [
+    "BYN"
+  ],
+  "Dalanzadgad": [
+    "DLZ"
+  ],
+  "Khovd": [
+    "HVD"
+  ],
+  "Muren": [
+    "MXV"
+  ],
+  "Shangri-La": [
+    "DIG"
+  ],
+  "Luxi": [
+    "LUM"
+  ],
+  "Simao": [
+    "SYM"
+  ],
+  "Zhaotong": [
+    "ZAT"
+  ],
+  "Ganzhou": [
+    "KOW"
+  ],
+  "Jingdezhen": [
+    "JDZ"
+  ],
+  "Jiujiang": [
+    "JIU"
+  ],
+  "Quzhou": [
+    "JUZ"
+  ],
+  "Lianyungang": [
+    "LYG"
+  ],
+  "Huangyan": [
+    "HYN"
+  ],
+  "Linyi": [
+    "LYI"
+  ],
+  "Quanzhou": [
+    "JJN"
+  ],
+  "Huangshan": [
+    "TXN"
+  ],
+  "Weifang": [
+    "WEF"
+  ],
+  "Weihai": [
+    "WEH"
+  ],
+  "Wuxi": [
+    "WUX"
+  ],
+  "Wuyishan": [
+    "WUS"
+  ],
+  "Wenzhou": [
+    "WNZ"
+  ],
+  "Yancheng": [
+    "YNZ"
+  ],
+  "Yiwu": [
+    "YIW"
+  ],
+  "Zhoushan": [
+    "HSN"
+  ],
+  "Bangda": [
+    "BPX"
+  ],
+  "Dazhou": [
+    "DAX"
+  ],
+  "Guangyuan": [
+    "GYS"
+  ],
+  "Luzhou": [
+    "LZO"
+  ],
+  "Mianyang": [
+    "MIG"
+  ],
+  "Nanchong": [
+    "NAO"
+  ],
+  "Nyingchi": [
+    "LZY"
+  ],
+  "Wanxian": [
+    "WXN"
+  ],
+  "Aksu": [
+    "AKU"
+  ],
+  "Qiemo": [
+    "IQM"
+  ],
+  "Kuqa": [
+    "KCA"
+  ],
+  "Korla": [
+    "KRL"
+  ],
+  "Karamay": [
+    "KRY"
+  ],
+  "Yining": [
+    "YIN"
+  ],
+  "Heihe": [
+    "HEK"
+  ],
+  "Jiamusi": [
+    "JMU"
+  ],
+  "Jinzhou": [
+    "JNZ"
+  ],
+  "Qiqihar": [
+    "NDG"
+  ],
+  "Yanji": [
+    "YNJ"
+  ],
+  "Waikoloa Village": [
+    "WKL"
+  ],
+  "Mount Keith": [
+    "WME"
+  ],
+  "Los Roques": [
+    "LRV"
+  ],
+  "Inis Mor": [
+    "IOR"
+  ],
+  "Indreabhan": [
+    "NNR"
+  ],
+  "Ruegen": [
+    "GTI"
+  ],
+  "Berezovo": [
+    "EZV"
+  ],
+  "Worcester": [
+    "ORH"
+  ],
+  "Anqing": [
+    "AQG"
+  ],
+  "Qinhuangdao": [
+    "SHP"
+  ],
+  "Yuncheng": [
+    "YCU"
+  ],
+  "Jiayuguan": [
+    "JGN"
+  ],
+  "Dandong": [
+    "DDG"
+  ],
+  "Dongsheng": [
+    "DSN"
+  ],
+  "Panzhihua": [
+    "PZI"
+  ],
+  "Bremerton": [
+    "PWT"
+  ],
+  "Spencer": [
+    "SPW"
+  ],
+  "Jefferson City": [
+    "JEF"
+  ],
+  "Unst": [
+    "UNT"
+  ],
+  "Provincetown": [
+    "PVC"
+  ],
+  "Gustavia": [
+    "SBH"
+  ],
+  "Kostroma": [
+    "KMW"
+  ],
+  "Sukhumi": [
+    "SUI"
+  ],
+  "Tambow": [
+    "TBW"
+  ],
+  "North Connel": [
+    "OBN"
+  ],
+  "Erechim": [
+    "ERM"
+  ],
+  "Courcheval": [
+    "CVF"
+  ],
+  "Fullerton": [
+    "FUL"
+  ],
+  "Concord": [
+    "USA",
+    "CCR"
+  ],
+  "Navoi": [
+    "NVI"
+  ],
+  "Setif": [
+    "QSF"
+  ],
+  "La Rochelle": [
+    "LRH"
+  ],
+  "Hailey": [
+    "SUN"
+  ],
+  "Mason City": [
+    "MCW"
+  ],
+  "Mesa": [
+    "AZA",
+    "MSC"
+  ],
+  "Saul": [
+    "XAU"
+  ],
+  "Anaktuvuk Pass": [
+    "AKP"
+  ],
+  "Anvik": [
+    "ANV"
+  ],
+  "Atqasuk": [
+    "ATK"
+  ],
+  "Gambell": [
+    "GAM"
+  ],
+  "Hooper Bay": [
+    "HPB"
+  ],
+  "Kaltag": [
+    "KAL"
+  ],
+  "St Mary's": [
+    "KSM"
+  ],
+  "Kivalina": [
+    "KVL"
+  ],
+  "Mekoryuk": [
+    "MYU"
+  ],
+  "Ruby": [
+    "RBY"
+  ],
+  "Shishmaref": [
+    "SHH"
+  ],
+  "Savoonga": [
+    "SVA"
+  ],
+  "Noatak": [
+    "WTK"
+  ],
+  "Ormoc City": [
+    "OMC"
+  ],
+  "Puvirnituq": [
+    "YPX"
+  ],
+  "Tasiujaq": [
+    "YTQ"
+  ],
+  "Arctic Village": [
+    "ARC"
+  ],
+  "Imo": [
+    "QOW"
+  ],
+  "La Fortuna/San Carlos": [
+    "FON"
+  ],
+  "Nicoya": [
+    "TMU"
+  ],
+  "Cauayan": [
+    "CYZ"
+  ],
+  "Apatity": [
+    "KVK"
+  ],
+  "Governador Valadares": [
+    "GVR"
+  ],
+  "Port Clarence": [
+    "KPC"
+  ],
+  "Pajala": [
+    "PJA"
+  ],
+  "Bella Coola": [
+    "QBC"
+  ],
+  "Hagerstown": [
+    "HGR"
+  ],
+  "Gorakhpur": [
+    "GOP"
+  ],
+  "Sand Point": [
+    "SDP"
+  ],
+  "Hami": [
+    "HMI"
+  ],
+  "Wuzhou": [
+    "WUZ"
+  ],
+  "Maragheh": [
+    "ACP"
+  ],
+  "Gorgan": [
+    "GBT"
+  ],
+  "Ilam": [
+    "IIL"
+  ],
+  "Parsabad": [
+    "PFQ"
+  ],
+  "Tacheng": [
+    "TCG"
+  ],
+  "Mardin": [
+    "MQM"
+  ],
+  "Zarafshan": [
+    "AFS"
+  ],
+  "Deering": [
+    "DRG"
+  ],
+  "Leon": [
+    "LEN"
+  ],
+  "Burgos": [
+    "RGS"
+  ],
+  "Sege": [
+    "EGM"
+  ],
+  "Shahre Kord": [
+    "CQD"
+  ],
+  "Kangra": [
+    "DHM"
+  ],
+  "Nanded": [
+    "NDC"
+  ],
+  "Shimla": [
+    "SLV"
+  ],
+  "Igiugig": [
+    "IGG"
+  ],
+  "New Stuyahok": [
+    "KNW"
+  ],
+  "King Cove": [
+    "KVC"
+  ],
+  "Port Heiden": [
+    "PTH"
+  ],
+  "Togiak Village": [
+    "TOG"
+  ],
+  "Geneina": [
+    "EGN"
+  ],
+  "Long Akah": [
+    "LKH"
+  ],
+  "Walaha": [
+    "WLH"
+  ],
+  "Chaoyang": [
+    "CHG"
+  ],
+  "Samburu South": [
+    "UAS"
+  ],
+  "Brus Laguna": [
+    "BHG"
+  ],
+  "Bonaventure": [
+    "YVB"
+  ],
+  "Sialkot": [
+    "SKT"
+  ],
+  "Punta del Este": [
+    "PDP"
+  ],
+  "Walvis Bay": [
+    "WVB"
+  ],
+  "Mpacha": [
+    "MPA"
+  ],
+  "Eskissehir": [
+    "AOE"
+  ],
+  "Canakkale": [
+    "CKZ"
+  ],
+  "Mus": [
+    "MSR"
+  ],
+  "Sinop": [
+    "NOP",
+    "OPS"
+  ],
+  "\u00c7orlu": [
+    "TEQ"
+  ],
+  "Yenisehir": [
+    "YEI"
+  ],
+  "Les Saintes": [
+    "LSS"
+  ],
+  "Kalemyo": [
+    "KMV"
+  ],
+  "Vieques Island": [
+    "VQS"
+  ],
+  "St-Augustin": [
+    "YIF"
+  ],
+  "Hamadan": [
+    "HDM"
+  ],
+  "Gasan": [
+    "MRQ"
+  ],
+  "Grafton": [
+    "GFN"
+  ],
+  "Taree": [
+    "TRO"
+  ],
+  "Choibalsan": [
+    "COQ"
+  ],
+  "Hohenems": [
+    "HOH"
+  ],
+  "Escanaba": [
+    "ESC"
+  ],
+  "Yakutat": [
+    "YAK"
+  ],
+  "Goulburn": [
+    "GUL"
+  ],
+  "Cessnock": [
+    "CES"
+  ],
+  "Scone": [
+    "NSO"
+  ],
+  "Mudgee": [
+    "DGE"
+  ],
+  "Maitland": [
+    "MTL"
+  ],
+  "Culebra Island": [
+    "CPX"
+  ],
+  "Marion": [
+    "MWA"
+  ],
+  "Fraser Island": [
+    "OCN"
+  ],
+  "Kirkuk": [
+    "KIK"
+  ],
+  "Claris": [
+    "GBZ"
+  ],
+  "Iron Mountain": [
+    "IMT"
+  ],
+  "Allakaket": [
+    "AET"
+  ],
+  "Michigan City": [
+    "MGC"
+  ],
+  "Seward": [
+    "SWD"
+  ],
+  "Grand Marais": [
+    "GRM"
+  ],
+  "Wausau": [
+    "AUW"
+  ],
+  "Mary": [
+    "MYP"
+  ],
+  "Myvatn": [
+    "MVA"
+  ],
+  "Sabadell": [
+    "QSA"
+  ],
+  "Airlie Beach": [
+    "WSY"
+  ],
+  "Muncie": [
+    "MIE"
+  ],
+  "Kenosha": [
+    "ENW"
+  ],
+  "Montrose CO": [
+    "MTJ"
+  ],
+  "Riverton WY": [
+    "RIW"
+  ],
+  "Pendleton": [
+    "PDT"
+  ],
+  "Lympne": [
+    "LYM"
+  ],
+  "Porto Heli": [
+    "PKH"
+  ],
+  "Katherine": [
+    "KTR"
+  ],
+  "Nowra": [
+    "NOA"
+  ],
+  "Lutsk": [
+    "UCK"
+  ],
+  "Chernigov": [
+    "CEJ"
+  ],
+  "Oshkosh": [
+    "OSH"
+  ],
+  "Wangerooge": [
+    "AGE"
+  ],
+  "Bendigo": [
+    "BXG"
+  ],
+  "Wenatchee": [
+    "EAT"
+  ],
+  "Arecibo": [
+    "ARE"
+  ],
+  "Ringi Cove": [
+    "RIN"
+  ],
+  "Kirensk": [
+    "KCK"
+  ],
+  "Ust-Kut": [
+    "UKX"
+  ],
+  "Rimatara": [
+    "RMT"
+  ],
+  "Lausanne": [
+    "QLS"
+  ],
+  "Locarno": [
+    "ZJI"
+  ],
+  "Neuchatel": [
+    "QNC"
+  ],
+  "Taganrog": [
+    "TGK"
+  ],
+  "Gelendzhik": [
+    "GDZ"
+  ],
+  "Ramenskoe": [
+    "ZIA"
+  ],
+  "Yaroslavl": [
+    "IAR"
+  ],
+  "Mohe County": [
+    "OHE"
+  ],
+  "Jining": [
+    "JNG"
+  ],
+  "Puntarenas": [
+    "DRK"
+  ],
+  "Altay": [
+    "AAT"
+  ],
+  "Null": [
+    "TZL",
+    "SUS"
+  ],
+  "Naypyidaw": [
+    "NYT",
+    "NMT"
+  ],
+  "Bokepyin": [
+    "VBP"
+  ],
+  "Manzhouli": [
+    "NZH"
+  ],
+  "Wuhai": [
+    "WUA"
+  ],
+  "Gary": [
+    "GYY"
+  ],
+  "Brainerd": [
+    "BRD"
+  ],
+  "Lewisburg": [
+    "LWB"
+  ],
+  "Chefornak": [
+    "CYF"
+  ],
+  "Oxnard": [
+    "OXR"
+  ],
+  "Branson": [
+    "BKG"
+  ],
+  "Tongren": [
+    "TEN"
+  ],
+  "Jian": [
+    "JGS"
+  ],
+  "Niau": [
+    "NIU"
+  ],
+  "Scotia NY": [
+    "SCH"
+  ],
+  "Nizhnekamsk": [
+    "NBC"
+  ],
+  "Osubi": [
+    "QRW"
+  ],
+  "Siargao": [
+    "IAO"
+  ],
+  "Langeoog": [
+    "LGO"
+  ],
+  "Nelspruit": [
+    "NLP"
+  ],
+  "Cherkassy": [
+    "CKC"
+  ],
+  "St. Augustine Airport": [
+    "UST"
+  ],
+  "Nikolayev": [
+    "NLV"
+  ],
+  "Ramechhap": [
+    "RHP"
+  ],
+  "Kissimmee": [
+    "ISM"
+  ],
+  "Lake City": [
+    "LCQ"
+  ],
+  "Logan": [
+    "LGU"
+  ],
+  "Brigham City": [
+    "BMC"
+  ],
+  "Aspen": [
+    "ASE"
+  ],
+  "Kerrville": [
+    "ERV"
+  ],
+  "Prince Rupert": [
+    "ZSW"
+  ],
+  "Great Bend": [
+    "GBD"
+  ],
+  "Hays": [
+    "HYS"
+  ],
+  "Ely": [
+    "LYU",
+    "ELY"
+  ],
+  "Grand Rapids MN": [
+    "GPZ"
+  ],
+  "Thief River Falls": [
+    "TVF"
+  ],
+  "Eagle River": [
+    "EGV"
+  ],
+  "Minocqua - Woodruff": [
+    "ARV"
+  ],
+  "Berens River": [
+    "YBV"
+  ],
+  "Catalina Island": [
+    "AVX"
+  ],
+  "Mojave": [
+    "MHV"
+  ],
+  "Interlaken": [
+    "ZIN"
+  ],
+  "Inisheer": [
+    "INQ"
+  ],
+  "Strezhevoy": [
+    "SWT"
+  ],
+  "Hutchinson": [
+    "HUT"
+  ],
+  "Al Kharj": [
+    "AKH"
+  ],
+  "Rosecrans": [
+    "STJ"
+  ],
+  "Camp Douglas": [
+    "VOK"
+  ],
+  "Gunnison": [
+    "GUC"
+  ],
+  "Xi\\'AN": [
+    "SIA"
+  ],
+  "Torrance": [
+    "TOA"
+  ],
+  "Manistee": [
+    "MBL"
+  ],
+  "Punta Gorda": [
+    "PGD"
+  ],
+  "Frenchville": [
+    "WFK"
+  ],
+  "Mont-Tremblant": [
+    "YTM"
+  ],
+  "Somerset": [
+    "SME"
+  ],
+  "Weyers Cave": [
+    "SHD"
+  ],
+  "Devils Lake": [
+    "DVL"
+  ],
+  "Dickinson": [
+    "DIK"
+  ],
+  "Sidney": [
+    "SDY",
+    "SNY"
+  ],
+  "Chadron": [
+    "CDR"
+  ],
+  "Alliance": [
+    "AIA"
+  ],
+  "McCook": [
+    "MCK"
+  ],
+  "Marathon": [
+    "MTH",
+    "YSP"
+  ],
+  "Glendive": [
+    "GDV"
+  ],
+  "Wolf Point": [
+    "OLF"
+  ],
+  "West Yellowstone": [
+    "WYS"
+  ],
+  "Alamosa": [
+    "ALS"
+  ],
+  "Moab": [
+    "CNY"
+  ],
+  "Vernal": [
+    "VEL"
+  ],
+  "Ruidoso": [
+    "RUI"
+  ],
+  "Show Low": [
+    "SOW"
+  ],
+  "McCall": [
+    "MYL"
+  ],
+  "Salmon": [
+    "SMN"
+  ],
+  "Mammoth Lakes": [
+    "MMH"
+  ],
+  "Friday Harbor": [
+    "FRD"
+  ],
+  "Eastsound": [
+    "ESD"
+  ],
+  "Astoria": [
+    "AST"
+  ],
+  "Newport": [
+    "ONP"
+  ],
+  "Emmonak": [
+    "EMK"
+  ],
+  "Unalakleet": [
+    "UNK"
+  ],
+  "Kuparuk": [
+    "UUK"
+  ],
+  "Shageluk": [
+    "SHX"
+  ],
+  "Chuathbaluk": [
+    "CHU"
+  ],
+  "Nuiqsut": [
+    "NUI"
+  ],
+  "Eek": [
+    "EEK"
+  ],
+  "Kasigluk": [
+    "KUK"
+  ],
+  "Kwethluk": [
+    "KWT"
+  ],
+  "Kwigillingok": [
+    "KWK"
+  ],
+  "Marshall": [
+    "MLL"
+  ],
+  "Russian Mission": [
+    "RSH"
+  ],
+  "Koliganek": [
+    "KGK"
+  ],
+  "Manokotak": [
+    "KMO"
+  ],
+  "Chalkyitsik": [
+    "CIK"
+  ],
+  "Eagle": [
+    "EAA"
+  ],
+  "Hughes": [
+    "HUS"
+  ],
+  "Huslia": [
+    "HSL"
+  ],
+  "Nulato": [
+    "NUL"
+  ],
+  "Venetie": [
+    "VEE"
+  ],
+  "Beaver": [
+    "WBQ"
+  ],
+  "Central": [
+    "CEM"
+  ],
+  "Shungnak": [
+    "SHG"
+  ],
+  "Inyokern": [
+    "IYK"
+  ],
+  "Visalia": [
+    "VIS"
+  ],
+  "Colonia": [
+    "CYR"
+  ],
+  "Goodyear": [
+    "GYR"
+  ],
+  "Toowoomba": [
+    "TWB",
+    "WTB"
+  ],
+  "Ballera": [
+    "BBL"
+  ],
+  "Arkalyk": [
+    "AYK"
+  ],
+  "Angoon": [
+    "AGN"
+  ],
+  "Elfin Cove": [
+    "ELV"
+  ],
+  "Funter Bay": [
+    "FNR"
+  ],
+  "Hoonah": [
+    "HNH"
+  ],
+  "Metakatla": [
+    "MTM"
+  ],
+  "Hydaburg": [
+    "HYG"
+  ],
+  "Egegik": [
+    "EGX"
+  ],
+  "Perryville": [
+    "KPV"
+  ],
+  "Pilot Point": [
+    "PIP"
+  ],
+  "South Naknek": [
+    "WSN"
+  ],
+  "Akhiok": [
+    "AKK"
+  ],
+  "Karluk": [
+    "KYK"
+  ],
+  "Larsen Bay": [
+    "KLN"
+  ],
+  "Ambler": [
+    "ABL"
+  ],
+  "Buckland": [
+    "BKC"
+  ],
+  "Kiana": [
+    "IAN"
+  ],
+  "Kobuk": [
+    "OBU"
+  ],
+  "Noorvik": [
+    "ORV"
+  ],
+  "Selawik": [
+    "WLK"
+  ],
+  "Brevig Mission": [
+    "KTS"
+  ],
+  "Elim": [
+    "ELI"
+  ],
+  "Golovin": [
+    "GLV"
+  ],
+  "Teller": [
+    "TLA"
+  ],
+  "Wales": [
+    "WAA"
+  ],
+  "White Mountain": [
+    "WMO"
+  ],
+  "Koyuk": [
+    "KKA"
+  ],
+  "St. Michael": [
+    "SMK"
+  ],
+  "Shaktoolik": [
+    "SKK"
+  ],
+  "Tin City": [
+    "TNC"
+  ],
+  "Atka": [
+    "AKB"
+  ],
+  "Nikolski": [
+    "IKO"
+  ],
+  "Yakataga": [
+    "CYT"
+  ],
+  "Alakanuk": [
+    "AUK"
+  ],
+  "Kipnuk": [
+    "KPN"
+  ],
+  "False Pass": [
+    "KFP"
+  ],
+  "Nelson Lagoon": [
+    "NLG"
+  ],
+  "Klawock": [
+    "KLW"
+  ],
+  "Quinhagak": [
+    "KWN"
+  ],
+  "Kotlik": [
+    "KOT"
+  ],
+  "Koyukuk": [
+    "KYU"
+  ],
+  "Scammon Bay": [
+    "SCM"
+  ],
+  "Nondalton": [
+    "NNL"
+  ],
+  "Kongiganak": [
+    "KKH"
+  ],
+  "Nikolai": [
+    "NIB"
+  ],
+  "Akiak": [
+    "AKI"
+  ],
+  "Wainwright": [
+    "AIN"
+  ],
+  "ZAPALA": [
+    "APZ"
+  ],
+  "Rincon de los Sauces": [
+    "RDS"
+  ],
+  "Puerto Natales": [
+    "PNT"
+  ],
+  "Sierra Grande": [
+    "SGV"
+  ],
+  "Ingeniero Jacobacci": [
+    "IGB"
+  ],
+  "Chenega": [
+    "NCN"
+  ],
+  "Tok": [
+    "TKJ"
+  ],
+  "Circle": [
+    "IRC"
+  ],
+  "Sleetmute": [
+    "SLQ"
+  ],
+  "Lake Minchumina": [
+    "LMA"
+  ],
+  "Manley Hot Springs": [
+    "MLY"
+  ],
+  "Natuashish": [
+    "YNP"
+  ],
+  "Postville": [
+    "YSO"
+  ],
+  "Kangiqsujuaq": [
+    "YWB"
+  ],
+  "Alma": [
+    "YTF"
+  ],
+  "Havre-Saint-Pierre": [
+    "YGV"
+  ],
+  "Rimouski": [
+    "YXK"
+  ],
+  "Tadoule Lake": [
+    "XTL"
+  ],
+  "Lac Brochet": [
+    "XLB"
+  ],
+  "South Indian Lake": [
+    "XSI"
+  ],
+  "Brochet": [
+    "YBT"
+  ],
+  "Little Grand Rapids": [
+    "ZGR"
+  ],
+  "Cross Lake": [
+    "YCR"
+  ],
+  "Red Sucker Lake": [
+    "YRS"
+  ],
+  "Rainbow Lake": [
+    "YOP"
+  ],
+  "Bonnyville": [
+    "YBY"
+  ],
+  "Ganges": [
+    "YGG"
+  ],
+  "Boundary Bay": [
+    "YDT"
+  ],
+  "Langley Township": [
+    "YLY"
+  ],
+  "Wekweeti": [
+    "YFJ"
+  ],
+  "Corn Island": [
+    "RNI"
+  ],
+  "Bonanza": [
+    "BZA"
+  ],
+  "Rosita": [
+    "RFS"
+  ],
+  "Siuna": [
+    "SIU"
+  ],
+  "Waspam": [
+    "WSP"
+  ],
+  "San Carlos": [
+    "NCR",
+    "SQL"
+  ],
+  "Carrillo": [
+    "PLD"
+  ],
+  "Constanza": [
+    "COZ"
+  ],
+  "Negril": [
+    "NEG"
+  ],
+  "Ceiba": [
+    "NRR"
+  ],
+  "Charlotte Amalie": [
+    "SPB"
+  ],
+  "Alto Rio Senguer": [
+    "ARR"
+  ],
+  "Jose de San Martin": [
+    "JSM"
+  ],
+  "Uyuni": [
+    "UYU"
+  ],
+  "Rerrenabaque": [
+    "RBQ"
+  ],
+  "Abaiang Atoll": [
+    "ABF"
+  ],
+  "Albina": [
+    "ABN"
+  ],
+  "Drietabbetje": [
+    "DRJ"
+  ],
+  "Moengo": [
+    "MOJ"
+  ],
+  "Nieuw Nickerie": [
+    "ICK"
+  ],
+  "Paloemeu": [
+    "OEM"
+  ],
+  "Stoelmans Eiland": [
+    "SMZ"
+  ],
+  "Totness": [
+    "TOT"
+  ],
+  "Wageningen": [
+    "AGI"
+  ],
+  "Orinduik": [
+    "ORJ"
+  ],
+  "Annai": [
+    "NAI"
+  ],
+  "Imbaimadai": [
+    "IMB"
+  ],
+  "Kamarang": [
+    "KAR"
+  ],
+  "Mabaruma": [
+    "USI"
+  ],
+  "Mahdia": [
+    "MHA"
+  ],
+  "Pedro Juan Caballero": [
+    "PJC"
+  ],
+  "Acandi": [
+    "ACD"
+  ],
+  "Saravena": [
+    "RVE"
+  ],
+  "Batagay": [
+    "BQJ"
+  ],
+  "Villa Garzon": [
+    "VGZ"
+  ],
+  "El Bagre": [
+    "EBG"
+  ],
+  "Caucasia": [
+    "CAQ"
+  ],
+  "Condoto": [
+    "COG"
+  ],
+  "Tolu": [
+    "TLU"
+  ],
+  "Cabo Frio": [
+    "CFB"
+  ],
+  "Gurupi": [
+    "GRP"
+  ],
+  "Santana do Araguaia": [
+    "CMP"
+  ],
+  "Breves": [
+    "BVS"
+  ],
+  "Soure": [
+    "SFK"
+  ],
+  "Parintins": [
+    "PIN"
+  ],
+  "Barreiras": [
+    "BRA"
+  ],
+  "Santa Terezinha": [
+    "STZ"
+  ],
+  "Minacu": [
+    "MQH"
+  ],
+  "Araguaina": [
+    "AUX"
+  ],
+  "Novo Aripuana": [
+    "NVP"
+  ],
+  "Franca": [
+    "FRC"
+  ],
+  "Dourados": [
+    "DOU"
+  ],
+  "Labrea": [
+    "LBR"
+  ],
+  "Rondonopolis": [
+    "ROO"
+  ],
+  "Guarapuava": [
+    "GPB"
+  ],
+  "Joacaba": [
+    "JCB"
+  ],
+  "Rio Verde": [
+    "RVD"
+  ],
+  "Araxa": [
+    "AAX"
+  ],
+  "Maues": [
+    "MBZ"
+  ],
+  "Borba": [
+    "RBB"
+  ],
+  "Coari": [
+    "CIZ"
+  ],
+  "Barcelos": [
+    "BAZ"
+  ],
+  "Diamantino": [
+    "DMT"
+  ],
+  "Guanambi": [
+    "GNM"
+  ],
+  "Djelfa": [
+    "QDJ"
+  ],
+  "Nzagi": [
+    "NZA"
+  ],
+  "Lucapa": [
+    "LBZ"
+  ],
+  "Kapanda": [
+    "KNP"
+  ],
+  "Am Timan": [
+    "AMC"
+  ],
+  "Sharq Al-Owainat": [
+    "GSQ"
+  ],
+  "Martinsburg": [
+    "MRB"
+  ],
+  "Awasa": [
+    "AWA"
+  ],
+  "Jijiga": [
+    "JIJ"
+  ],
+  "Mekane Selam": [
+    "MKS"
+  ],
+  "Debre Marqos": [
+    "DBM"
+  ],
+  "Debre Tabor": [
+    "DBT"
+  ],
+  "Debre Zeyit": [
+    "QHR"
+  ],
+  "Goba": [
+    "GOB"
+  ],
+  "Mayumba": [
+    "MYB"
+  ],
+  "Masai Mara": [
+    "MRE"
+  ],
+  "Meru National Park": [
+    "JJM"
+  ],
+  "Rumbek": [
+    "RBX"
+  ],
+  "Inhaca": [
+    "IHC"
+  ],
+  "Matam": [
+    "MAX"
+  ],
+  "Bird Island": [
+    "BDI"
+  ],
+  "Wadi Halfa": [
+    "WHF"
+  ],
+  "Enfidha": [
+    "NBE"
+  ],
+  "Hatay": [
+    "HTY"
+  ],
+  "Raivavae": [
+    "RVV"
+  ],
+  "Foshan": [
+    "FUO"
+  ],
+  "Huizhou": [
+    "HUZ"
+  ],
+  "Lleida": [
+    "ILD"
+  ],
+  "Bildudalur": [
+    "BIU"
+  ],
+  "Gjogur": [
+    "GJR"
+  ],
+  "Saudarkrokur": [
+    "SAK"
+  ],
+  "Inishmaan": [
+    "IIA"
+  ],
+  "Olgii": [
+    "ULG"
+  ],
+  "Kurgan Tyube": [
+    "KQT"
+  ],
+  "Vologda": [
+    "VGD"
+  ],
+  "Olenyok": [
+    "ONK"
+  ],
+  "Saskylakh": [
+    "SYS"
+  ],
+  "Huesca": [
+    "HSK"
+  ],
+  "Ciudad Real": [
+    "CQM"
+  ],
+  "Najaf": [
+    "NJF"
+  ],
+  "Colonsay": [
+    "CSA"
+  ],
+  "Rock Hill": [
+    "RKH"
+  ],
+  "Tarin Kowt": [
+    "TII"
+  ],
+  "Zaranj": [
+    "ZAJ"
+  ],
+  "Chaghcharan": [
+    "CCN"
+  ],
+  "Fuyang": [
+    "FUG"
+  ],
+  "Longyan": [
+    "LCX"
+  ],
+  "Baoshan": [
+    "BSD"
+  ],
+  "Xingyi": [
+    "ACX"
+  ],
+  "Liping": [
+    "HZH"
+  ],
+  "Addison": [
+    "ADS"
+  ],
+  "Destin": [
+    "DSI"
+  ],
+  "Kherson": [
+    "KHE"
+  ],
+  "Stewart Island": [
+    "SZS"
+  ],
+  "Zhijiang": [
+    "HJJ"
+  ],
+  "Yarmouth": [
+    "YQI"
+  ],
+  "Kinston": [
+    "ISO"
+  ],
+  "Kill Devil Hills": [
+    "FFA"
+  ],
+  "Lincang": [
+    "LNJ"
+  ],
+  "Parauapebas": [
+    "CKS"
+  ],
+  "Anambas Islands": [
+    "MWK"
+  ],
+  "Khalije Fars": [
+    "PGU"
+  ],
+  "Yasuj": [
+    "YES"
+  ],
+  "Mosul": [
+    "OSM"
+  ],
+  "Toyooka": [
+    "TJH"
+  ],
+  "Amakusa": [
+    "AXJ"
+  ],
+  "Kikai": [
+    "KKX"
+  ],
+  "Aguni": [
+    "AGJ"
+  ],
+  "Uliastai": [
+    "ULZ"
+  ],
+  "Bulgan": [
+    "UGA"
+  ],
+  "Ulaangom": [
+    "ULO"
+  ],
+  "Lubang": [
+    "LBX"
+  ],
+  "Kulyab": [
+    "TJU"
+  ],
+  "Cimei": [
+    "CMJ"
+  ],
+  "Dasoguz": [
+    "TAZ"
+  ],
+  "Derby": [
+    "DRB",
+    "DCN"
+  ],
+  "Walgett": [
+    "WGE"
+  ],
+  "Bathurst Island": [
+    "BRT"
+  ],
+  "Dunk Island": [
+    "DKI"
+  ],
+  "Lizard Island": [
+    "LZR"
+  ],
+  "Halls Creek": [
+    "HCQ"
+  ],
+  "Fitzroy Crossing": [
+    "FIZ"
+  ],
+  "Ravensthorpe": [
+    "RVT"
+  ],
+  "Provo": [
+    "PVU"
+  ],
+  "Steamboat Springs": [
+    "SBS"
+  ],
+  "Delta": [
+    "DTA"
+  ],
+  "Price": [
+    "PUC"
+  ],
+  "Los Alamos": [
+    "LAM"
+  ],
+  "Lake Havasu City": [
+    "HII"
+  ],
+  "Winslow": [
+    "INW"
+  ],
+  "Marakei": [
+    "MZK"
+  ],
+  "Abemama": [
+    "AEA"
+  ],
+  "Buariki": [
+    "AAK"
+  ],
+  "Kuria": [
+    "KUC"
+  ],
+  "Arorae": [
+    "AIS"
+  ],
+  "Tamana": [
+    "TMN"
+  ],
+  "Beru Island": [
+    "BEZ"
+  ],
+  "Nikunau": [
+    "NIG"
+  ],
+  "Butaritari": [
+    "BBG"
+  ],
+  "Makin": [
+    "MTK"
+  ],
+  "Maiana": [
+    "MNK"
+  ],
+  "Nonouti": [
+    "NON"
+  ],
+  "Tabiteuea": [
+    "TSU"
+  ],
+  "Whitianga": [
+    "WTZ"
+  ],
+  "Takaka": [
+    "KTF"
+  ],
+  "Afutara": [
+    "AFT"
+  ],
+  "Ulawa": [
+    "RNA"
+  ],
+  "Choiseul Bay": [
+    "CHY"
+  ],
+  "Yandina": [
+    "XYA"
+  ],
+  "Batuna": [
+    "BPF"
+  ],
+  "Bartow": [
+    "BOW"
+  ],
+  "Fiti\\'uta": [
+    "FTI"
+  ],
+  "Livermore": [
+    "LVK"
+  ],
+  "Mariposa": [
+    "RMY"
+  ],
+  "Grootfontein": [
+    "GFY"
+  ],
+  "Rundu": [
+    "NDU"
+  ],
+  "Santa Monica": [
+    "SMO"
+  ],
+  "Scottsdale": [
+    "SCF"
+  ],
+  "Olympia": [
+    "OLM"
+  ],
+  "Rifle": [
+    "RIL"
+  ],
+  "SARATOGA": [
+    "SAA"
+  ],
+  "Stuart": [
+    "SUA"
+  ],
+  "Morristown": [
+    "MMU"
+  ],
+  "Napa": [
+    "APC"
+  ],
+  "Pahokee": [
+    "PHK"
+  ],
+  "San Bernardino": [
+    "SBD"
+  ],
+  "Valenca": [
+    "VAL"
+  ],
+  "Caruaru": [
+    "CAU"
+  ],
+  "Wake island": [
+    "AWK"
+  ],
+  "Nova Iguacu": [
+    "QNV"
+  ],
+  "Rocky Mount": [
+    "RWI"
+  ],
+  "Soldotna": [
+    "SXQ"
+  ],
+  "El Cajon": [
+    "SEE"
+  ],
+  "Phan Rang": [
+    "PHA"
+  ],
+  "Son-La": [
+    "SQH"
+  ],
+  "Truckee": [
+    "TKF"
+  ],
+  "Frejus": [
+    "FRJ"
+  ],
+  "Geelong": [
+    "GEX"
+  ],
+  "Livingston-Montana": [
+    "LVM"
+  ],
+  "Monument Valley": [
+    "GMV"
+  ],
+  "Lakeland": [
+    "LAL"
+  ],
+  "Syangboche": [
+    "SYH"
+  ],
+  "Murrieta-Temecula": [
+    "RBK"
+  ],
+  "Oristano": [
+    "FNU"
+  ],
+  "Mysore": [
+    "MYQ"
+  ],
+  "Findley": [
+    "FDY"
+  ],
+  "Penneshaw": [
+    "PEA"
+  ],
+  "Kempten": [
+    "EMP"
+  ],
+  "Wycombe": [
+    "HYC"
+  ],
+  "Bembridge": [
+    "BBP"
+  ],
+  "Spearfish-South Dakota": [
+    "SPF"
+  ],
+  "Gdynia": [
+    "QYD"
+  ],
+  "Olive Branch": [
+    "OLV"
+  ],
+  "Vina del Mar": [
+    "KNA"
+  ],
+  "Zonguldak": [
+    "ONQ"
+  ],
+  "Broomfield-CO": [
+    "BJC"
+  ],
+  "Tunica": [
+    "UTM"
+  ],
+  "Kasaba Bay": [
+    "ZKB"
+  ],
+  "Lindau": [
+    "LND"
+  ],
+  "Janesville": [
+    "JVL"
+  ],
+  "Lawrenceville": [
+    "LZU"
+  ],
+  "Bowling Green": [
+    "BWG"
+  ],
+  "Minhad AB": [
+    "NHD"
+  ],
+  "Kirovograd": [
+    "KGO"
+  ],
+  "Dabaa City": [
+    "DBB"
+  ],
+  "Bryce Canyon": [
+    "BCE"
+  ],
+  "Shchyolkovo": [
+    "CKL"
+  ],
+  "Tengchong": [
+    "TCZ"
+  ],
+  "Sevastopol": [
+    "UKS"
+  ],
+  "Camp Bastion": [
+    "OAZ"
+  ],
+  "Olathe": [
+    "JCI",
+    "OJC"
+  ],
+  "Easton": [
+    "ESN"
+  ],
+  "Hamar": [
+    "HMR"
+  ],
+  "Yuba City": [
+    "MYV"
+  ],
+  "Duncan": [
+    "DUC"
+  ],
+  "Uvalde": [
+    "UVA"
+  ],
+  "Lockport": [
+    "LOT"
+  ],
+  "Ocean Reef Club Airport": [
+    "OCA"
+  ],
+  "Yushu": [
+    "YUS"
+  ],
+  "Huai An": [
+    "HIA"
+  ],
+  "Oshawa": [
+    "YOO"
+  ],
+  "Lahr": [
+    "LHA"
+  ],
+  "Monywa": [
+    "NYW"
+  ],
+  "Cooinda": [
+    "CDA"
+  ],
+  "Jabiru": [
+    "JAB"
+  ],
+  "Smyrna": [
+    "MQY"
+  ],
+  "Sewanee": [
+    "UOS"
+  ],
+  "Shiquanhe": [
+    "NGQ"
+  ],
+  "Cochstedt": [
+    "CSO"
+  ],
+  "Chicago-Wheeling": [
+    "PWK"
+  ],
+  "Kelso": [
+    "KLS"
+  ],
+  "Tureia": [
+    "ZTA"
+  ],
+  "Puerto Obaldia": [
+    "PUE"
+  ],
+  "Kerch": [
+    "KHC"
+  ],
+  "Ukunda": [
+    "UKA"
+  ],
+  "Casa Grande": [
+    "CGZ"
+  ],
+  "Buckeye": [
+    "BXK"
+  ],
+  "Sterling": [
+    "STK"
+  ],
+  "Rawlins": [
+    "RWL"
+  ],
+  "Caldwell": [
+    "CDW"
+  ],
+  "Kaiser Lake Ozark": [
+    "AIZ"
+  ],
+  "Thomasville": [
+    "TVI"
+  ],
+  "Henderson": [
+    "HSH"
+  ],
+  "Tifton": [
+    "TMA"
+  ],
+  "RADOM": [
+    "RDO"
+  ],
+  "Phoenix ": [
+    "DVT"
+  ],
+  "Revelstoke": [
+    "YRV"
+  ],
+  "Farmingdale": [
+    "FRG"
+  ],
+  "Zhongwei": [
+    "ZHY"
+  ],
+  "McKinley Park": [
+    "MCL"
+  ],
+  "Prospect Creek": [
+    "PPC"
+  ],
+  "Khwai River": [
+    "KHW"
+  ],
+  "Wheeling": [
+    "HLG"
+  ],
+  "Ye": [
+    "XYE"
+  ],
+  "Rockport": [
+    "RKP"
+  ],
+  "Verdun": [
+    "MVV"
+  ],
+  "Baise": [
+    "AEB"
+  ],
+  "Okaukuejo": [
+    "OKF"
+  ],
+  "Mokuti Lodge": [
+    "OKU"
+  ],
+  "Koethen": [
+    "KOQ"
+  ],
+  "Sankt Peter-Ording": [
+    "PSH"
+  ],
+  "Troutdale": [
+    "TTD"
+  ],
+  "Hillsboro": [
+    "HIO"
+  ],
+  "Khost": [
+    "KHT"
+  ],
+  "Burns": [
+    "BNO"
+  ],
+  "Prineville": [
+    "PRZ"
+  ],
+  "Red Bluff": [
+    "RBL"
+  ],
+  "Novato": [
+    "NOT"
+  ],
+  "Lakeview": [
+    "LKV"
+  ],
+  "Tillamook": [
+    "OTK"
+  ],
+  "The Dalles": [
+    "DLS"
+  ],
+  "Gaithersburg": [
+    "GAI"
+  ],
+  "Sharona": [
+    "OAS"
+  ],
+  "Pembroke": [
+    "YTA"
+  ],
+  "Tsumeb": [
+    "TSB"
+  ],
+  "Suffield": [
+    "YSD"
+  ],
+  "BLUMENAU": [
+    "BNU"
+  ],
+  "Cornwall": [
+    "YCC"
+  ],
+  "Juiz de Fora": [
+    "IZA"
+  ],
+  "Morrisville": [
+    "MVL"
+  ],
+  "Baikonur": [
+    "BXY"
+  ],
+  "Washington County": [
+    "WST"
+  ],
+  "Block Island": [
+    "BID"
+  ],
+  "Nightmute": [
+    "NME"
+  ],
+  "Toksook Bay": [
+    "OOK"
+  ],
+  "Ittoqqortoormiit": [
+    "OBY"
+  ],
+  "Vinnitsa": [
+    "VIN"
+  ],
+  "Bainbridge": [
+    "BGE"
+  ],
+  "La Romaine": [
+    "ZGS"
+  ],
+  "Kegaska": [
+    "ZKG"
+  ],
+  "Black Tickle": [
+    "YBI"
+  ],
+  "Madera": [
+    "MAE"
+  ],
+  "Trail": [
+    "YZZ"
+  ],
+  "Arctic Bay": [
+    "YAB"
+  ],
+  "Grand-Santi": [
+    "GSI"
+  ],
+  "Maripasoula": [
+    "MPY"
+  ],
+  "Saint-Laurent-du-Maroni": [
+    "LDX"
+  ],
+  "Burqin": [
+    "KJI"
+  ],
+  "Capurgana": [
+    "CPB"
+  ],
+  "Sohag": [
+    "HMB"
+  ],
+  "Rivera": [
+    "RVY"
+  ],
+  "Patos de Minas": [
+    "POJ"
+  ],
+  "Ourilandia do Norte": [
+    "OIA"
+  ],
+  "Redencao": [
+    "RDC"
+  ],
+  "Sao Felix do Xingu": [
+    "SXX"
+  ],
+  "Bointo": [
+    "BYO"
+  ],
+  "Sao Felix do Araguaia": [
+    "SXO"
+  ],
+  "Cacador": [
+    "CFC"
+  ],
+  "Carauari": [
+    "CAF"
+  ],
+  "Eirunepe": [
+    "ERN"
+  ],
+  "Francisco Beltrao": [
+    "FBE"
+  ],
+  "Confresa": [
+    "CFO"
+  ],
+  "Apalachicola": [
+    "AAF"
+  ],
+  "Umuarama": [
+    "UMU"
+  ],
+  "Diamantina": [
+    "DTI"
+  ],
+  "Fonte Boa": [
+    "FBA"
+  ],
+  "Sao Paulo de Olivenca": [
+    "OLC"
+  ],
+  "Humaita": [
+    "HUW"
+  ],
+  "Santa Isabel do Rio Negro": [
+    "IRZ"
+  ],
+  "Una": [
+    "UNA"
+  ],
+  "Telfer": [
+    "TEF"
+  ],
+  "Alanya": [
+    "GZP"
+  ],
+  "Shank": [
+    "OAA"
+  ],
+  "Fort Pierce": [
+    "FPR"
+  ],
+  "North Kingstown": [
+    "NCO"
+  ],
+  "Norwood": [
+    "OWD"
+  ],
+  "Westfield": [
+    "BAF"
+  ],
+  "Danbury": [
+    "DXR"
+  ],
+  "Nashua": [
+    "ASH"
+  ],
+  "Lawrence": [
+    "LWM",
+    "LWC"
+  ],
+  "Gadsden": [
+    "GAD"
+  ],
+  "Winder": [
+    "WDR"
+  ],
+  "Dalton": [
+    "DNN"
+  ],
+  "LaGrange": [
+    "LGC"
+  ],
+  "Pine Mountain": [
+    "PIM"
+  ],
+  "New Philadelpha": [
+    "PHD"
+  ],
+  "Hilton Head Island": [
+    "HHH"
+  ],
+  "Morganton": [
+    "MRN"
+  ],
+  "Pikeville": [
+    "PVL"
+  ],
+  "Toccoa": [
+    "TOC"
+  ],
+  "Poltava": [
+    "PLV"
+  ],
+  "Wau": [
+    "WUU"
+  ],
+  "Humera": [
+    "HUE"
+  ],
+  "Moyale": [
+    "OYL"
+  ],
+  "Zagora": [
+    "OZG"
+  ],
+  "Yengema": [
+    "WYE"
+  ],
+  "Gbangbatok": [
+    "GBK"
+  ],
+  "Turukhansk": [
+    "THX"
+  ],
+  "Bor": [
+    "TGP"
+  ],
+  "Renmark": [
+    "RMK"
+  ],
+  "Leigh Creek": [
+    "LGH"
+  ],
+  "Rottnest Island": [
+    "RTS"
+  ],
+  "Forrest": [
+    "FOS"
+  ],
+  "Keewaywin": [
+    "KEW"
+  ],
+  "Hearst": [
+    "YHF"
+  ],
+  "Hornepayne": [
+    "YHN"
+  ],
+  "Kirkland Lake": [
+    "YKX"
+  ],
+  "Manitouwadge": [
+    "YMG"
+  ],
+  "Wawa": [
+    "YXZ"
+  ],
+  "Manitowaning": [
+    "YEM"
+  ],
+  "Pompano Beach": [
+    "PPM"
+  ],
+  "Mallacoota": [
+    "XMC"
+  ],
+  "Al-Ula": [
+    "ULH"
+  ],
+  "Yuendumu ": [
+    "YUE"
+  ],
+  "Praya": [
+    "LOP"
+  ],
+  "108 Mile Ranch": [
+    "ZMH"
+  ],
+  "Handan": [
+    "HDG"
+  ],
+  "Fredericksburg": [
+    "FBG"
+  ],
+  "Jixi": [
+    "JXA"
+  ],
+  "Seogwipo": [
+    "JDG"
+  ],
+  "Gimli": [
+    "YGM"
+  ],
+  "Beloyarsky": [
+    "EYK"
+  ],
+  "Racine": [
+    "RAC"
+  ],
+  "Taytay": [
+    "RZP"
+  ],
+  "Shigatse": [
+    "RKZ"
+  ],
+  "Gulf Shores": [
+    "GUF"
+  ],
+  "Isabela": [
+    "IBB"
+  ],
+  "Khmeinitskiy": [
+    "HMJ"
+  ],
+  "Yalata": [
+    "KYI"
+  ],
+  "Hazleton": [
+    "HZL"
+  ],
+  "Cumberland": [
+    "CBE"
+  ],
+  "Wyndham": [
+    "WYN"
+  ],
+  "Bob Quinn Lake": [
+    "YBO"
+  ],
+  "Kaluga": [
+    "KLF"
+  ],
+  "Lone Rock": [
+    "LNR"
+  ],
+  "Joliet": [
+    "JOT"
+  ],
+  "Okeechobee": [
+    "OBE"
+  ],
+  "Sebring": [
+    "SEF"
+  ],
+  "Avon Park": [
+    "AVO"
+  ],
+  "Winter Haven": [
+    "GIF"
+  ],
+  "Zephyrhills": [
+    "ZPH"
+  ],
+  "Ocala": [
+    "OCF"
+  ],
+  "Aiken": [
+    "AIK"
+  ],
+  "Lumberton": [
+    "LBT"
+  ],
+  "Pinehurst-Southern Pines": [
+    "SOP"
+  ],
+  "Statesville": [
+    "SVH"
+  ],
+  "Lock Haven": [
+    "LHV"
+  ],
+  "Dunkirk": [
+    "DKK"
+  ],
+  "Mount Holly": [
+    "LLY"
+  ],
+  "Linden": [
+    "LDJ"
+  ],
+  "Angola": [
+    "ANQ"
+  ],
+  "Clearwater": [
+    "CLW"
+  ],
+  "North Myrtle Beach": [
+    "CRE"
+  ],
+  "Buochs": [
+    "BXO"
+  ],
+  "Wilkes-Barre": [
+    "WBW"
+  ],
+  "Willoughby": [
+    "LNN"
+  ],
+  "Bayannur": [
+    "RLK"
+  ],
+  "Frankfort": [
+    "FFT"
+  ],
+  "Marco Island Airport": [
+    "MRK"
+  ],
+  "Drummond Island": [
+    "DRE"
+  ],
+  "Gladwin": [
+    "GDW"
+  ],
+  "Marshfield": [
+    "MFI"
+  ],
+  "Wisconsin Rapids": [
+    "ISW"
+  ],
+  "Clinton": [
+    "CWI",
+    "CSM"
+  ],
+  "Beverly": [
+    "BVY"
+  ],
+  "Trois Rivieres": [
+    "YRQ"
+  ],
+  "Poplar Bluff": [
+    "POF"
+  ],
+  "Keokuk": [
+    "EOK"
+  ],
+  "St. Paul": [
+    "STP"
+  ],
+  "Soderhamn": [
+    "SOO"
+  ],
+  "Saravane": [
+    "VNA"
+  ],
+  "Dikson": [
+    "DKS"
+  ],
+  "Bantry": [
+    "BYT"
+  ],
+  "Alldays": [
+    "ADY"
+  ],
+  "Garissa": [
+    "GAS"
+  ],
+  "Hola": [
+    "HOA"
+  ],
+  "Kericho": [
+    "KEY"
+  ],
+  "Kilaguni": [
+    "ILU"
+  ],
+  "Antsirabe": [
+    "ATJ"
+  ],
+  "Bekily": [
+    "OVA"
+  ],
+  "Ust-Tsylma": [
+    "UTS"
+  ],
+  "Gorno-Altaysk": [
+    "RGK"
+  ],
+  "Fond du Lac": [
+    "FLD"
+  ],
+  "Stevens Point": [
+    "STE"
+  ],
+  "Honuu": [
+    "MQJ"
+  ],
+  "Peenemunde": [
+    "PEF"
+  ],
+  "Nusawiru": [
+    "CJN"
+  ],
+  "Galion": [
+    "GQQ"
+  ],
+  "Tiputini": [
+    "TPN"
+  ],
+  "Pastaza": [
+    "PTZ"
+  ],
+  "Clarksville": [
+    "CKV"
+  ],
+  "Coatesville": [
+    "CTH"
+  ],
+  "Lashkar Gah": [
+    "BST"
+  ],
+  "Lankaran": [
+    "LLK"
+  ],
+  "Qabala": [
+    "GBB"
+  ],
+  "Zaqatala": [
+    "ZTU"
+  ],
+  "Lake Placid": [
+    "LKP"
+  ],
+  "Khandyga": [
+    "KDY"
+  ],
+  "Qianjiang": [
+    "JIQ"
+  ],
+  "Hamhung": [
+    "DSO"
+  ],
+  "Beaver Falls": [
+    "BFP"
+  ],
+  "Renton": [
+    "RNT"
+  ],
+  "La Verne": [
+    "POC"
+  ],
+  "Cross City": [
+    "CTY"
+  ],
+  "Clemson": [
+    "CEU"
+  ],
+  "Duxford": [
+    "QFO"
+  ],
+  "Great Keppel Island": [
+    "GKL"
+  ],
+  "Roper Bar": [
+    "RPB"
+  ],
+  "Innisfail": [
+    "IFL"
+  ],
+  "Kapolei": [
+    "JRF"
+  ],
+  "Bamyan": [
+    "BIN"
+  ],
+  "Baishan": [
+    "NBS"
+  ],
+  "Chongjin": [
+    "RGO"
+  ],
+  "Moomba": [
+    "MOO"
+  ],
+  "Lublin": [
+    "LUZ"
+  ],
+  "East Tawas": [
+    "ECA"
+  ],
+  "Maamigili": [
+    "VAM"
+  ],
+  "Yongzhou": [
+    "LLF"
+  ],
+  "Mali Losinj": [
+    "LSZ"
+  ],
+  "Onslow": [
+    "ONS"
+  ],
+  "Theodore": [
+    "TDR"
+  ],
+  "Boulder": [
+    "WBU"
+  ],
+  "Birburg": [
+    "BBJ"
+  ],
+  "Palo Alto": [
+    "PAO"
+  ],
+  "Ust-Nera": [
+    "USR"
+  ],
+  "Yangzhou": [
+    "YTY"
+  ],
+  "Pontiac": [
+    "PTK"
+  ],
+  "Kissidougou": [
+    "KSI"
+  ],
+  "Keene": [
+    "EEN"
+  ],
+  "Tianshui": [
+    "THQ"
+  ],
+  "Kawama": [
+    "VRO"
+  ],
+  "Kooddoo": [
+    "GKK"
+  ],
+  "Rio Hondo": [
+    "RHD"
+  ],
+  "Keetmanshoop": [
+    "KMP"
+  ],
+  "Kangding": [
+    "KGT"
+  ],
+  "Veliky Ustyug": [
+    "VUS"
+  ],
+  "Iowa City": [
+    "IOW"
+  ],
+  "Turpan": [
+    "TLQ"
+  ],
+  "Annapolis": [
+    "ANP"
+  ],
+  "Cuamba": [
+    "FXO"
+  ],
+  "Bodaibo": [
+    "ODO"
+  ],
+  "Zhytomyr": [
+    "ZTR"
+  ],
+  "Mattala": [
+    "HRI"
+  ],
+  "Pecos": [
+    "PEQ"
+  ],
+  "Hattiesburg": [
+    "HBG"
+  ],
+  "Botucatu": [
+    "QCJ"
+  ],
+  "Sao Carlos": [
+    "QSC"
+  ],
+  "Yankton": [
+    "YKN"
+  ],
+  "Sir Bani Yas Island": [
+    "XSB"
+  ],
+  "Bromont": [
+    "ZBM"
+  ],
+  "Kratie": [
+    "KTI"
+  ],
+  "Guyuan": [
+    "GYU"
+  ],
+  "Changhai": [
+    "CNI"
+  ],
+  "Redhill": [
+    "KRH"
+  ],
+  "Jiagedaqi District": [
+    "JGD"
+  ],
+  "Chinchilla": [
+    "CCL"
+  ],
+  "Hayward": [
+    "HWD",
+    "HYR"
+  ],
+  "Motueka": [
+    "MZP"
+  ],
+  "Shute Harbour": [
+    "JHQ"
+  ],
+  "Ann Arbor": [
+    "ARB"
+  ],
+  "Shepparton": [
+    "SHT"
+  ],
+  "Temora": [
+    "TEM"
+  ],
+  "Gayndah": [
+    "GAH"
+  ],
+  "Wilcannia": [
+    "WIO"
+  ],
+  "Bijie": [
+    "BFJ"
+  ],
+  "Lensk": [
+    "ULK"
+  ],
+  "Kavalerovo": [
+    "KVR"
+  ],
+  "Igdir": [
+    "IGD"
+  ],
+  "Kutahya": [
+    "KZR"
+  ],
+  "Velikiye Luki": [
+    "VLU"
+  ],
+  "Lake Macquarie": [
+    "BEO"
+  ],
+  "Brampton Island": [
+    "BMP"
+  ],
+  "Alameda": [
+    "NGZ"
+  ],
+  "Cochrane": [
+    "YCN"
+  ],
+  "Braganca Paulista": [
+    "BJP"
+  ],
+  "Brusselton": [
+    "BQB"
+  ],
+  "Srednekolymsk": [
+    "SEK"
+  ],
+  "Inverell": [
+    "IVR"
+  ],
+  "Glen Innes": [
+    "GLI"
+  ],
+  "Immokalee ": [
+    "IMM"
+  ],
+  "Sulawesi Tenggara": [
+    "TQQ"
+  ],
+  "Yichun": [
+    "YIC"
+  ],
+  "Sheboygan": [
+    "SBM"
+  ],
+  "Cloudbreak": [
+    "KFE"
+  ],
+  "Bajura": [
+    "BJU"
+  ],
+  "Marana": [
+    "MZJ"
+  ],
+  "Safford": [
+    "SAD"
+  ],
+  "Solomon": [
+    "SLJ"
+  ],
+  "Kerama": [
+    "KJP"
+  ],
+  "Ekibastuz": [
+    "EKB"
+  ],
+  "Sikeston": [
+    "SIK"
+  ],
+  "Tetiaroa": [
+    "TTI"
+  ],
+  "Queensbury": [
+    "GFL"
+  ],
+  "Fryeburg": [
+    "FRY"
+  ],
+  "Coeur d'Alene": [
+    "COE"
+  ],
+  "Danville": [
+    "DNV",
+    "DAN"
+  ],
+  "Coonabarabran": [
+    "COJ"
+  ],
+  "Titusville": [
+    "TIX"
+  ],
+  "Bumi Hills": [
+    "BZH"
+  ],
+  "Bouarfa": [
+    "UAR"
+  ],
+  "NYERI": [
+    "NYE"
+  ],
+  "Eden Prairie": [
+    "FCM"
+  ],
+  "Likoma Island": [
+    "LIX"
+  ],
+  "Sigiriya": [
+    "GIU"
+  ],
+  "Neumuenster": [
+    "EUM"
+  ],
+  "Barrie-Orillia": [
+    "YLK"
+  ],
+  "Saint Catherines": [
+    "YCM"
+  ],
+  "Parry Sound": [
+    "YPD"
+  ],
+  "Manassas": [
+    "MNZ"
+  ],
+  "Angleton": [
+    "LJN"
+  ],
+  "Bingol": [
+    "BGG"
+  ],
+  "Kastamonu": [
+    "KFS"
+  ],
+  "Lvliang": [
+    "LLV"
+  ],
+  "Daocheng": [
+    "DCY"
+  ],
+  "Xiahe city": [
+    "GXH"
+  ],
+  "Comiso": [
+    "CIY"
+  ],
+  "Markovo": [
+    "KVM"
+  ],
+  "Zyryanka": [
+    "ZKP"
+  ],
+  "Ust-Maya": [
+    "UMS"
+  ],
+  "Aldan": [
+    "ADH"
+  ],
+  "Olekminsk": [
+    "OLZ"
+  ],
+  "Xinyuan": [
+    "NLT"
+  ],
+  "Port alsworth": [
+    "PTA"
+  ],
+  "Belfort": [
+    "BOR"
+  ],
+  "Obock": [
+    "OBC"
+  ],
+  "Tadjoura": [
+    "TDJ"
+  ],
+  "Santa Cruz des Quiche": [
+    "AQB"
+  ],
+  "Nordfjordur": [
+    "NOR"
+  ],
+  "Bursa": [
+    "BTZ"
+  ],
+  "Waris-Papua Island": [
+    "WAR"
+  ],
+  "Newton": [
+    "EWK"
+  ],
+  "Bairnsdale": [
+    "BSJ"
+  ],
+  "Fort Bridger": [
+    "FBR"
+  ],
+  "Chehalis": [
+    "CLS"
+  ],
+  "Evanston": [
+    "EVW"
+  ],
+  "Eufala": [
+    "EUF"
+  ],
+  "Manteo": [
+    "MEO"
+  ],
+  "Auburn": [
+    "AUO"
+  ],
+  "Pukarua": [
+    "PUK"
+  ],
+  "Corvallis": [
+    "CVO"
+  ],
+  "Prominent Hill": [
+    "PXH"
+  ],
+  "Chatsworth": [
+    "CWT"
+  ],
+  "Shelton": [
+    "SHN"
+  ],
+  "Napakiak": [
+    "WNA"
+  ],
+  "Napaskiak": [
+    "PKA"
+  ],
+  "Bedwell Harbour": [
+    "YBW"
+  ],
+  "Washabo": [
+    "WSO"
+  ],
+  "Walker's Cay": [
+    "WKR"
+  ],
+  "Bartica": [
+    "GFO"
+  ],
+  "Doylestown": [
+    "DYL"
+  ],
+  "Tingo Maria": [
+    "TGI"
+  ],
+  "Tres Lagoas": [
+    "TJL"
+  ],
+  "Zhangye": [
+    "YZY"
+  ],
+  "Cacoal": [
+    "OAL"
+  ],
+  "Castro": [
+    "MHC"
+  ],
+  "Stillwater": [
+    "SWO"
+  ],
+  "Okmulgee": [
+    "OKM"
+  ],
+  "Cushing": [
+    "CUH"
+  ],
+  "Winfield": [
+    "WLD"
+  ],
+  "Ada": [
+    "ADT"
+  ],
+  "Iraan": [
+    "IRB"
+  ],
+  "ELLIOT LAKE": [
+    "YEL"
+  ],
+  "North Wilkesboro": [
+    "IKB"
+  ],
+  "Yerbogachen": [
+    "ERG"
+  ],
+  "Cheraw": [
+    "HCW"
+  ],
+  "Beni Mellal": [
+    "BEM"
+  ],
+  "Cizre": [
+    "NKT"
+  ],
+  "Suntar": [
+    "SUY"
+  ],
+  "Zouerat": [
+    "OUZ"
+  ],
+  "Asaba": [
+    "ABB"
+  ],
+  "Uyo": [
+    "QUO"
+  ],
+  "Kasama": [
+    "KAA"
+  ],
+  "Songea": [
+    "SGX"
+  ],
+  "Chizhou": [
+    "JUH"
+  ],
+  "Anshan": [
+    "AOG"
+  ],
+  "Daqing": [
+    "DQA"
+  ],
+  "Zunyi": [
+    "ZYI",
+    "WMT"
+  ],
+  "Yinchun": [
+    "LDS"
+  ],
+  "Anshun": [
+    "AVA"
+  ],
+  "Sikasso": [
+    "KSS"
+  ],
+  "Tonghua": [
+    "TNH"
+  ],
+  "Suzhou": [
+    "SZV"
+  ],
+  "Mulia": [
+    "LII"
+  ],
+  "Bintuni": [
+    "NTI"
+  ],
+  "Wasior": [
+    "WSR"
+  ],
+  "Siborong-Borong": [
+    "DTB"
+  ],
+  "Nagan Raya": [
+    "MEQ"
+  ],
+  "Bau-Bau": [
+    "BUW"
+  ],
+  "Kao": [
+    "KAZ"
+  ],
+  "Melonguane": [
+    "MNA"
+  ],
+  "Sanggata": [
+    "SGQ"
+  ],
+  "Muara Bungo": [
+    "BUU"
+  ],
+  "Illaga": [
+    "ILA"
+  ],
+  "Oksibil": [
+    "OKL"
+  ],
+  "Kokonau": [
+    "KOX"
+  ],
+  "Clermont": [
+    "CMQ"
+  ],
+  "Warrnambool": [
+    "WMB"
+  ],
+  "Seosan": [
+    "HMY"
+  ],
+  "El Monte": [
+    "EMT"
+  ],
+  "Farah": [
+    "FAH"
+  ],
+  "Pasighat": [
+    "IXT"
+  ],
+  "Kramatorsk": [
+    "KRQ"
+  ],
+  "Kautokeino": [
+    "QKX"
+  ],
+  "Stinson": [
+    "SSF"
+  ],
+  "Jasper": [
+    "JAS",
+    "APT"
+  ],
+  "Marfa": [
+    "MRF"
+  ],
+  "Alpine": [
+    "ALE"
+  ],
+  "Bubaque": [
+    "BQE"
+  ],
+  "Chichen Itza": [
+    "CZA"
+  ],
+  "Bunbury": [
+    "BUY"
+  ],
+  "Upland": [
+    "CCB"
+  ],
+  "Elkhart": [
+    "EKI"
+  ],
+  "Hartsville": [
+    "HVS"
+  ],
+  "San Cristobal de las Casas": [
+    "SZT"
+  ],
+  "Dunnville": [
+    "DU9"
+  ],
+  "Rio Hato": [
+    "RIH"
+  ],
+  "Leesburg": [
+    "LEE"
+  ],
+  "Pouso Alegre": [
+    "PPY"
+  ],
+  "Divinopolis": [
+    "DIQ"
+  ],
+  "Eysk": [
+    "EIK"
+  ],
+  "Berdyansk": [
+    "ERD"
+  ],
+  "Banyuwangi": [
+    "BWX"
+  ],
+  "Erenhot": [
+    "ERL"
+  ],
+  "Chino": [
+    "CNO"
+  ],
+  "Taketomi": [
+    "HTR"
+  ],
+  "Cayo Santa Maria": [
+    "BWW"
+  ],
+  "Paso Robles": [
+    "PRB"
+  ],
+  "Half Moon Bay": [
+    "HAF"
+  ],
+  "Hechi": [
+    "HCJ"
+  ],
+  "Coondewanna": [
+    "CJF"
+  ],
+  "Guarapari": [
+    "GUZ"
+  ],
+  "Ubatuba": [
+    "UBT"
+  ],
+  "Borroloola": [
+    "BOX"
+  ],
+  "Goodwood": [
+    "QUG"
+  ],
+  "Tena": [
+    "TNW"
+  ],
+  "Fuyuan": [
+    "FYJ"
+  ],
+  "Phinda": [
+    "PZL"
+  ],
+  "Liupanshui": [
+    "LPF"
+  ],
+  "Kaili": [
+    "KJH"
+  ],
+  "Shennongjia": [
+    "HPG"
+  ],
+  "Zhangjiakou": [
+    "ZQZ"
+  ],
+  "Arxan": [
+    "YIE"
+  ],
+  "Hengyang": [
+    "HNY"
+  ],
+  "Ngawa": [
+    "AHJ"
+  ],
+  "Wonsan": [
+    "WOS"
+  ],
+  "Magas": [
+    "IGT"
+  ],
+  "Talladega": [
+    "ASN"
+  ],
+  "Anegada": [
+    "NGD"
+  ],
+  "Troy": [
+    "TOI"
+  ],
+  "Enterprise": [
+    "ETS"
+  ],
+  "Efogi": [
+    "EFG"
+  ],
+  "Kagi": [
+    "KGW"
+  ],
+  "Nadunumu": [
+    "NDN"
+  ],
+  "Bodinumu": [
+    "BNM"
+  ],
+  "Alexander City": [
+    "ALX"
+  ],
+  "Wadeye": [
+    "PKT"
+  ],
+  "Pirlangimpi": [
+    "GPN"
+  ],
+  "Wood Buffalo": [
+    "HZP"
+  ],
+  "Holdredge": [
+    "HDE"
+  ],
+  "Pratt": [
+    "PTT"
+  ],
+  "Lexington": [
+    "LXN"
+  ],
+  "Council Bluffs": [
+    "CBF"
+  ],
+  "Kokomo": [
+    "OKK"
+  ],
+  "Galesburg": [
+    "GBG"
+  ],
+  "Guymon": [
+    "GUY"
+  ],
+  "Independence": [
+    "IDP"
+  ],
+  "Bay City": [
+    "BBC"
+  ],
+  "Coffeyville": [
+    "CFV"
+  ],
+  "Greeley": [
+    "GXY"
+  ],
+  "Oakley": [
+    "OEL"
+  ],
+  "Fremont": [
+    "FET"
+  ],
+  "La Grande": [
+    "LGD"
+  ],
+  "Szczytno-Szymany": [
+    "SZY"
+  ],
+  "Mount Pocono": [
+    "MPO"
+  ],
+  "Quakertown": [
+    "UKT"
+  ],
+  "Banff": [
+    "YBA"
+  ],
+  "Banning": [
+    "BNG"
+  ],
+  "Norfolk  Nebraska": [
+    "OFK"
+  ],
+  "Teofilo Otoni": [
+    "TFL"
+  ],
+  "Buzios": [
+    "BZC"
+  ],
+  "Itaperuna": [
+    "ITP"
+  ],
+  "Resende": [
+    "REZ"
+  ],
+  "Kabinda": [
+    "KBN"
+  ],
+  "Ikela": [
+    "IKL"
+  ],
+  "Aripuana": [
+    "AIR"
+  ],
+  "Juruena": [
+    "JRN"
+  ],
+  "Juina": [
+    "JIA"
+  ],
+  "Vila Rica": [
+    "VLP"
+  ],
+  "Juara": [
+    "JUA"
+  ],
+  "Caceres": [
+    "CCX"
+  ],
+  "Tangara da Serra": [
+    "TGQ"
+  ],
+  "Canarana": [
+    "CQA"
+  ],
+  "Vila Bela da Santissima Trindade ": [
+    "MTG"
+  ],
+  "Bumba": [
+    "BMB"
+  ],
+  "Arapiraca": [
+    "APQ"
+  ],
+  "Floriano": [
+    "FLB"
+  ],
+  "Picos": [
+    "PCS"
+  ],
+  "Beni": [
+    "BNC"
+  ],
+  "Boende": [
+    "BNB"
+  ],
+  "Montauk": [
+    "MTP"
+  ],
+  "Valparaiso IN": [
+    "VPZ"
+  ],
+  "DHARAVANDHOO": [
+    "DRV"
+  ],
+  "Saumlaki": [
+    "SXK"
+  ],
+  "Melo": [
+    "MLZ"
+  ],
+  "Paysandu": [
+    "PDU"
+  ],
+  "Artigas ": [
+    "ATI"
+  ],
+  "Horsham": [
+    "HSM"
+  ],
+  "Swan Hill": [
+    "SWH"
+  ],
+  "Turtle Island": [
+    "TTL"
+  ],
+  "Karimunjawa": [
+    "KWB"
+  ],
+  "Kongolo": [
+    "KOO"
+  ],
+  "Attopeu": [
+    "AOU"
+  ],
+  "Sao Miguel do Oeste": [
+    "SQX"
+  ],
+  "Ludington": [
+    "LDM"
+  ],
+  "Sohar": [
+    "OHS"
+  ],
+  "Kadanwari": [
+    "KCF"
+  ],
+  "Sindh": [
+    "RZS"
+  ],
+  "Thimarafushi": [
+    "TMF"
+  ],
+  "Ifuru": [
+    "IFU"
+  ],
+  "Kieta": [
+    "KZF"
+  ],
+  "Ordu-Giresun": [
+    "OGU"
+  ],
+  "Hakkari": [
+    "YKO"
+  ],
+  "Jakar": [
+    "BUT"
+  ],
+  "Toli-Toli": [
+    "TLI"
+  ],
+  "Tarko-Sale": [
+    "TQL"
+  ],
+  "Jinchuan": [
+    "JIC"
+  ],
+  "Bole": [
+    "BPL"
+  ],
+  "Fuyun": [
+    "FYN"
+  ],
+  "Achinsk": [
+    "ACS"
+  ],
+  "LINFEN": [
+    "LFQ"
+  ],
+  "Hinton": [
+    "YJP"
+  ],
+  "Watsonville": [
+    "WVI"
+  ],
+  "Gelephu": [
+    "GLU"
+  ],
+  "Hollister": [
+    "HLI"
+  ],
+  "Dulkaninna": [
+    "DLK"
+  ],
+  "Musselwhite Mine": [
+    "YBS"
+  ],
+  "Rizhao": [
+    "RIZ"
+  ],
+  "Sanming": [
+    "SQJ"
+  ],
+  "Taroom": [
+    "XTO"
+  ],
+  "Squamish": [
+    "YSE"
+  ],
+  "La Grande-4": [
+    "YAH"
+  ],
+  "Alert Bay": [
+    "YAL"
+  ],
+  "Centralia": [
+    "YCE"
+  ],
+  "Chetwynd": [
+    "YCQ"
+  ],
+  "Ross River": [
+    "XRR"
+  ],
+  "Dolbeau-St-F\u00e9licien": [
+    "YDO"
+  ],
+  "Amos": [
+    "YEY"
+  ],
+  "Hope": [
+    "YHE"
+  ],
+  "Haines Junction": [
+    "YHT"
+  ],
+  "Digby": [
+    "YDG"
+  ],
+  "Fort Liard": [
+    "YJF"
+  ],
+  "Key Lake": [
+    "YKJ"
+  ],
+  "Leaf Rapids": [
+    "YLR"
+  ],
+  "Matane": [
+    "YME"
+  ],
+  "Charlevoix": [
+    "YML"
+  ],
+  "Owen Sound": [
+    "YOS"
+  ],
+  "Port Hawkesbury": [
+    "YPS"
+  ],
+  "St Thomas": [
+    "YQS"
+  ],
+  "Smiths Falls": [
+    "YSH"
+  ],
+  "St Leonard": [
+    "YSL"
+  ],
+  "Vernon": [
+    "YVE"
+  ],
+  "Beaver Creek": [
+    "YXQ"
+  ],
+  "Salmon Arm": [
+    "YSN"
+  ],
+  "Kelsey": [
+    "KES"
+  ],
+  "Pukatawagan": [
+    "XPK"
+  ],
+  "Jenpeg": [
+    "ZJG"
+  ],
+  "Thicket Portage": [
+    "YTD"
+  ],
+  "Pikwitonei": [
+    "PIW"
+  ],
+  "Poplar River": [
+    "XPP"
+  ],
+  "Pincher Creek": [
+    "WPC"
+  ],
+  "Stewart": [
+    "ZST"
+  ],
+  "Ignace": [
+    "ZUC"
+  ],
+  "Neubrandenburg": [
+    "FNB"
+  ],
+  "Kinloss": [
+    "FSS"
+  ],
+  "Bia\u0142a Podlaska": [
+    "BXP"
+  ],
+  "Daugavpils": [
+    "DGP"
+  ],
+  "Lime Acres": [
+    "LMR"
+  ],
+  "Sowa": [
+    "SXN"
+  ],
+  "Sumbe": [
+    "NDD"
+  ],
+  "Mangochi": [
+    "MAI"
+  ],
+  "Arandis": [
+    "ADI"
+  ],
+  "Merowe": [
+    "MWE"
+  ],
+  "Alton/St Louis": [
+    "ALN"
+  ],
+  "Brady": [
+    "BBD"
+  ],
+  "Bishop": [
+    "BIH"
+  ],
+  "Baker City": [
+    "BKE"
+  ],
+  "Big Piney": [
+    "BPI"
+  ],
+  "Battle Creek": [
+    "BTL"
+  ],
+  "Burley": [
+    "BYI"
+  ],
+  "Charles City": [
+    "CCY"
+  ],
+  "Chanute": [
+    "CNU"
+  ],
+  "Crossville": [
+    "CSV"
+  ],
+  "Fort Belvoir": [
+    "DAA"
+  ],
+  "Daggett": [
+    "DAG"
+  ],
+  "Deming": [
+    "DMN"
+  ],
+  "Mercury": [
+    "DRA"
+  ],
+  "Needles": [
+    "EED"
+  ],
+  "Junction": [
+    "JCT"
+  ],
+  "Lovelock": [
+    "LOL"
+  ],
+  "Mobridge": [
+    "MBG"
+  ],
+  "Mc Comb": [
+    "MCB"
+  ],
+  "Carbondale/Murphysboro": [
+    "MDH"
+  ],
+  "Eastover": [
+    "MMT"
+  ],
+  "Mayport": [
+    "NRB"
+  ],
+  "Orangeburg": [
+    "OGB"
+  ],
+  "Ottumwa": [
+    "OTM"
+  ],
+  "Fort Rucker/Ozark": [
+    "OZR"
+  ],
+  "Pinedale": [
+    "PWY"
+  ],
+  "Poughkeepsie": [
+    "POU"
+  ],
+  "Russell": [
+    "RSL"
+  ],
+  "Redwood Falls": [
+    "RWF"
+  ],
+  "Ukiah": [
+    "UKI"
+  ],
+  "Valentine": [
+    "VTN"
+  ],
+  "Winnemucca": [
+    "WMC"
+  ],
+  "Woodward": [
+    "WWR"
+  ],
+  "Zanesville": [
+    "ZZV"
+  ],
+  "Castell\u00f3n de la Plana": [
+    "CDT"
+  ],
+  "Teruel": [
+    "TEV"
+  ],
+  "Sarzana (SP)": [
+    "QLP"
+  ],
+  "Batajnica": [
+    "BJY"
+  ],
+  "Rubelsanto": [
+    "RUV"
+  ],
+  "Comayagua": [
+    "XPL"
+  ],
+  "Upala": [
+    "UPL"
+  ],
+  "San Nicol\u00e1s": [
+    "QSN"
+  ],
+  "Pinar Del Rio": [
+    "SNJ"
+  ],
+  "Kangan": [
+    "KNR"
+  ],
+  "Karaj": [
+    "PYK"
+  ],
+  "Ahmed Al Jaber AB": [
+    "XIJ"
+  ],
+  "Kamra": [
+    "ATG"
+  ],
+  "Sargodha": [
+    "SGI"
+  ],
+  "Qayyarah": [
+    "RQW"
+  ],
+  "Nenana": [
+    "ENN"
+  ],
+  "Wasilla": [
+    "WWA"
+  ],
+  "Iwakuni": [
+    "IWK"
+  ],
+  "Ie": [
+    "IEJ"
+  ],
+  "Surallah": [
+    "AAV"
+  ],
+  "Barretos": [
+    "BAT"
+  ],
+  "Taubat\u00e9": [
+    "QHP"
+  ],
+  "Tocopilla": [
+    "TOQ"
+  ],
+  "Cha\u00f1aral": [
+    "CNR"
+  ],
+  "Talca": [
+    "TLX"
+  ],
+  "Taltal": [
+    "TTC"
+  ],
+  "Apiay": [
+    "API"
+  ],
+  "Cove\u00f1as": [
+    "CVE"
+  ],
+  "La Dorada": [
+    "PAL"
+  ],
+  "Paz De Ariporo": [
+    "PZA"
+  ],
+  "Tres Esquinas": [
+    "TQS"
+  ],
+  "Rioja": [
+    "RIJ"
+  ],
+  "Ja\u00e9n": [
+    "JAE"
+  ],
+  "Tamchy": [
+    "IKU"
+  ],
+  "Vilyuisk": [
+    "VYI"
+  ],
+  "Sovetskaya Gavan": [
+    "GVN"
+  ],
+  "Nikolayevsk-na-Amure Airport": [
+    "NLI"
+  ],
+  "Inta": [
+    "INA"
+  ],
+  "Zhigansk": [
+    "ZIX"
+  ],
+  "Polonnaruwa Town": [
+    "HIM"
+  ],
+  "Durgapur": [
+    "RDP"
+  ],
+  "Puttaparthi": [
+    "PUT"
+  ],
+  "Smolensk": [
+    "LNX"
+  ],
+  "Alpha": [
+    "ABH"
+  ],
+  "Deniliquin": [
+    "DNQ"
+  ],
+  "Forbes": [
+    "FRB"
+  ],
+  "Morwell": [
+    "TGN"
+  ],
+  "Sale": [
+    "SXE"
+  ],
+  "West Wyalong": [
+    "WWY"
+  ],
+  "Guanghua": [
+    "LHK"
+  ],
+  "Shiyan": [
+    "WDS"
+  ],
+  "Mengnai": [
+    "HTT"
+  ],
+  "Bengbu": [
+    "BFU"
+  ],
+  "Rugao": [
+    "RUG"
+  ],
+  "Wuhu": [
+    "WHU"
+  ],
+  "Shanshan": [
+    "SXJ"
+  ],
+  "Yingkou": [
+    "YKH"
+  ],
+  "Bogorodskoe": [
+    "BQG"
+  ],
+  "Parakou": [
+    "PKO"
+  ],
+  "Kandi": [
+    "KDC"
+  ],
+  "Hermannsburg": [
+    "HMG"
+  ],
+  "Baidoa": [
+    "BIB"
+  ],
+  "Petermann": [
+    "KCS"
+  ],
+  "Baltrum": [
+    "BMR"
+  ],
+  "Skagit": [
+    "MVW"
+  ],
+  "Goondiwindi": [
+    "GOO"
+  ],
+  "Docker River": [
+    "DKV"
+  ],
+  "Rensselaer": [
+    "RNZ"
+  ],
+  "Sabetta": [
+    "SBT"
+  ],
+  "Alxa Left Banner": [
+    "AXF"
+  ],
+  "Simberi Island": [
+    "NIS"
+  ],
+  "Bulolo": [
+    "BUL"
+  ],
+  "Statesboro": [
+    "TBR"
+  ],
+  "Amata": [
+    "AMT"
+  ],
+  "Erldunda": [
+    "EDD"
+  ],
+  "Finke": [
+    "FIK"
+  ],
+  "Jaguaruna": [
+    "JJG"
+  ],
+  "Hwange": [
+    "WKI"
+  ],
+  "Klaipeda": [
+    "KLJ"
+  ],
+  "WEST BEND": [
+    "ETB"
+  ],
+  "GAYLORD": [
+    "GLR"
+  ],
+  "ANDERSON": [
+    "AID"
+  ],
+  "Novi Sad": [
+    "QND"
+  ],
+  "Grundarfjordur": [
+    "GUU"
+  ],
+  "Prairie du Chien": [
+    "PCD"
+  ],
+  "Otjiwarongo": [
+    "OTJ"
+  ],
+  "Taos": [
+    "TSM"
+  ],
+  "Raton": [
+    "RTN"
+  ],
+  "Pampa": [
+    "PPA"
+  ],
+  "Flippin": [
+    "FLP"
+  ],
+  "Borger": [
+    "BGD"
+  ],
+  "Longwood": [
+    "HLE"
+  ],
+  "Sankt-Augustin": [
+    "BNJ"
+  ],
+  "Nogliki": [
+    "NGK"
+  ],
+  "Santa Ynez": [
+    "SQA"
+  ],
+  "Haixi": [
+    "HXD"
+  ],
+  "Qionghai": [
+    "BAR"
+  ],
+  "Bowen": [
+    "ZBO"
+  ],
+  "Wulanchabu": [
+    "UCB"
+  ],
+  "Odienne": [
+    "KEO"
+  ],
+  "Siguiri": [
+    "GII"
+  ],
+  "Nzerekore": [
+    "NZE"
+  ],
+  "Brockman": [
+    "OCM"
+  ],
+  "Shaoyang": [
+    "WGN"
+  ],
+  "Teixeira de Freitas": [
+    "TXF"
+  ],
+  "Spartangurg": [
+    "SPA"
+  ],
+  "Bajawa": [
+    "BJW"
+  ],
+  "San Antonio de Pale": [
+    "NBN"
+  ],
+  "Oyo": [
+    "OLL"
+  ],
+  "Parsons": [
+    "PPF"
+  ],
+  "Phongsaly": [
+    "PCQ"
+  ],
+  "Waycross": [
+    "AYS"
+  ],
+  "Diass": [
+    "DSS"
+  ],
+  "Naracoorte": [
+    "NAC"
+  ],
+  "Ponta Grossa": [
+    "PGZ"
+  ],
+  "Palenque": [
+    "PQM"
+  ],
+  "Caloundra": [
+    "CUD"
+  ],
+  "Clarks Point": [
+    "CLP"
+  ],
+  "Doris Lake": [
+    "JOJ"
+  ],
+  "Tola": [
+    "ECI"
+  ],
+  "Attu": [
+    "QGQ"
+  ],
+  "Kangaatsiaq": [
+    "QPW"
+  ],
+  "Kitsissuarsuit": [
+    "QJE"
+  ],
+  "Ilimanaq": [
+    "XIQ"
+  ],
+  "Qeqertaq": [
+    "QQT"
+  ],
+  "Ikamiut": [
+    "QJI"
+  ],
+  "Eqalugaarsuit": [
+    "QFG"
+  ],
+  "Ikerasaarsuk": [
+    "QRY"
+  ],
+  "Novo Progresso": [
+    "NPR"
+  ],
+  "Sorriso": [
+    "SMT"
+  ],
+  "Encarnacion": [
+    "ENO"
+  ],
+  "Urzhar": [
+    "UZR"
+  ],
+  "Nyurba": [
+    "NYR"
+  ],
+  "Batagay-Alyta": [
+    "SUK"
+  ],
+  "Ust-Kuyga": [
+    "UKG"
+  ],
+  "Verkhnevilyuysk": [
+    "VHV"
+  ],
+  "Yuzhno-Kurilsk": [
+    "DEE"
+  ],
+  "Shakhtyorsk": [
+    "EKS"
+  ],
+  "Talakan": [
+    "TLK"
+  ],
+  "Red Dog": [
+    "RDB"
+  ],
+  "Impfondo": [
+    "ION"
+  ],
+  "El Bayadh": [
+    "EBH"
+  ],
+  "Zintan": [
+    "ZIS"
+  ],
+  "Monkey Bay": [
+    "MYZ"
+  ],
+  "Bauchi": [
+    "BCU"
+  ],
+  "Gombe": [
+    "GMO"
+  ],
+  "Kolda": [
+    "KDA"
+  ],
+  "Kilwa Masoko": [
+    "KIY"
+  ],
+  "Moshi": [
+    "QSI"
+  ],
+  "Mansa": [
+    "MNS"
+  ],
+  "Ghazni": [
+    "GZI"
+  ],
+  "Baicheng": [
+    "DBC"
+  ],
+  "Longnan": [
+    "LNL"
+  ],
+  "Shangrao": [
+    "SQD"
+  ],
+  "Songyuan": [
+    "YSQ"
+  ],
+  "Jiansanjiang": [
+    "JSJ"
+  ],
+  "Libo": [
+    "LLB"
+  ],
+  "Chengde": [
+    "CDE"
+  ],
+  "Wudalianchi": [
+    "DTU"
+  ],
+  "Ejin Banner": [
+    "EJN"
+  ],
+  "Alxa Right Banner": [
+    "RHT"
+  ],
+  "Holingol": [
+    "HUO"
+  ],
+  "Golog": [
+    "GMQ"
+  ],
+  "Yarkant": [
+    "QSZ"
+  ],
+  "Tezu": [
+    "TEI"
+  ],
+  "Cangyuan": [
+    "CWJ"
+  ],
+  "Lancang Lahu": [
+    "JMJ"
+  ],
+  "Ninglang": [
+    "NLH"
+  ],
+  "Pimenta Bueno": [
+    "PBQ"
+  ],
+  "Xinzhou": [
+    "WUT"
+  ],
+  "Zhalantun": [
+    "NZL"
+  ],
+  "Adampur": [
+    "AIP"
+  ],
+  "Toranagallu": [
+    "VDY"
+  ],
+  "Shirdi": [
+    "SAG"
+  ],
+  "Jeypore": [
+    "PYB"
+  ],
+  "Sumenep": [
+    "SUP"
+  ],
+  "Sipora": [
+    "RKO"
+  ],
+  "Pasir Pangaraian": [
+    "PPR"
+  ],
+  "Tanjung Balai Karimun": [
+    "TJB"
+  ],
+  "Kerinci Regency": [
+    "KRC"
+  ],
+  "Buru Island": [
+    "NRE"
+  ],
+  "Namlea": [
+    "NAM"
+  ],
+  "Dobo": [
+    "DOB"
+  ],
+  "Sanana": [
+    "SQN"
+  ],
+  "Ayawasi": [
+    "AYW"
+  ],
+  "Bunyu": [
+    "BYQ"
+  ],
+  "Buol": [
+    "UOL"
+  ],
+  "Raha": [
+    "RAQ"
+  ],
+  "Jask": [
+    "JSK"
+  ],
+  "Sainyabuli": [
+    "ZBY"
+  ],
+  "Baglung": [
+    "BGL"
+  ],
+  "Rajbiraj": [
+    "RJB"
+  ],
+  "Duqm": [
+    "DQM"
+  ],
+  "Croker Island": [
+    "CKI"
+  ],
+  "Barimunya": [
+    "BYP"
+  ],
+  "Laucala": [
+    "LUC"
+  ],
+  "Yasawa Island": [
+    "YAS"
+  ],
+  "Waiheke Island": [
+    "WIK"
+  ],
+  "Dekai": [
+    "DEX"
+  ],
+  "Napuka": [
+    "NAU"
+  ],
+  "Faaite": [
+    "FAC"
+  ],
+  "Nukutavake": [
+    "NUK"
+  ],
+  "Vahitahi": [
+    "VHZ"
+  ],
+  "Hikueru": [
+    "HHZ"
+  ],
+  "Raroia": [
+    "RRR"
+  ],
+  "Kauehi": [
+    "KHZ"
+  ],
+  "Tatakoto": [
+    "TKV"
+  ],
+  "Sasereme": [
+    "TDS"
+  ],
+  "Boven Digoel": [
+    "TMH"
+  ],
+  "Noonkanbah": [
+    "NKB"
+  ],
+  "Algeciras": [
+    "AEI"
+  ],
+  "Kasese": [
+    "KSE"
+  ],
+  "Sunchales": [
+    "NCJ"
+  ],
+  "Seldovia": [
+    "SOV"
+  ],
+  "Lutselk'e": [
+    "YSG"
+  ],
+  "Dwangwa": [
+    "DWA"
+  ],
+  "Higleig": [
+    "HGI"
+  ],
+  "Ajmer": [
+    "KQH"
+  ],
+  "Kannur": [
+    "CNN"
+  ],
+  "Arathusa": [
+    "ASS"
+  ],
+  "Vidalia": [
+    "VDI"
+  ],
+  "Islamabad": [
+    "ISB"
+  ],
+  "Mitchell": [
+    "MHE"
+  ],
+  "Geita": [
+    "GIT"
+  ],
+  "Gitega": [
+    "GID"
+  ],
+  "COSTA MARQUES": [
+    "CQS"
+  ],
+  "Yambol": [
+    "JAM"
+  ],
+  "Yuanmou": [
+    "YUA"
+  ],
+  "Ge\u00e7itkale": [
+    "GEC"
+  ],
+  "Mbeya": [
+    "MBI"
+  ],
+  "Sugapa-Papua Island": [
+    "UGU"
+  ],
+  "Eilat": [
+    "ETM"
+  ],
+  "Al Masna'ah": [
+    "MNH"
+  ],
+  "Cagayan de Oro City": [
+    "CGY"
+  ],
+  "Copiapo": [
+    "CPO"
+  ]
+}
