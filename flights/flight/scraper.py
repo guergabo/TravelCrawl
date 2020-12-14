@@ -17,8 +17,6 @@ import json                                          # python package for conver
 from bs4 import BeautifulSoup                        # python package for scraping HTML.
 import pandas as pd                                  # python package for dataFrames.
 import re                                            # python package for finding strings.
-import covid19                                       # python file containing functions to access Covid19 API.
-import airports as air                               # python file containing functions to access airports.csv.
 
 
 ### COLUMNS FOR DATAFRAME ###
@@ -172,8 +170,8 @@ def kayak_scraping(url):
         check_out_urls.append(full_url)                                                            # append url to list.
 
     # CREATE DATA FRAME.
-    df = df_create(url)           # create data frame.
-    print(df.to_string())                     # print to double check.
+    df = df_create(url)     # create data frame.
+    return df
 
 
 ### CREATE DATA FRAME ###
@@ -202,7 +200,7 @@ def df_create(url):
     enddate = end_split[0]                       # assign enddate from url.
 
     # CREATE DATA FRAME | array must be same length == NA?
-    df = pd.DataFrame({
+    data = {
         'origin': origin,                        # origin location of the flight.
         'destination': destination,              # destination location of the flight.
         'startdate': startdate,                  # start date of the flight.
@@ -219,7 +217,8 @@ def df_create(url):
         'in_durations': in_durations,            # inbound duration.
         'prices': prices,                        # flight price.
         'check_out': check_out_urls              # check out url.
-    })
+    }
+    df = pd.DataFrame.from_dict(data)
 
     return df                                    # returning the pandas dataframe.
 

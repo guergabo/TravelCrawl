@@ -4,6 +4,7 @@
 # Uniqname: Guergabo
 # Date-Modified: 12-06-2020
 
+
 ### PACKAGES ###
 import csv                                                              # python package to read csv files.
 import json                                                             # python package to write json files.
@@ -32,10 +33,11 @@ def build_airport_dictionary():
         csv_reader = csv.reader(csv_file, delimiter=',')                # create an instance to be able to parse
         for row in csv_reader:                                          # loop over the rows in the csv.
             if (len(row[2]) > 0) & (row[4] != "\\N"):                   # ignore empty rows.
-                if row[2] in IATA_airport_code:                         # check if the city name exists more than once.
-                    IATA_airport_code[row[2]].append(row[4])            # map the city - iata airport code.
+                if row[2].lower() in IATA_airport_code:                         # check if the city name exists more than once.
+                    IATA_airport_code[row[2].lower()].append(row[4].lower())            # map the city - iata airport code and country.
+                    IATA_airport_code[row[2].lower()].append(row[3].lower())            # map the city - iata airport code and country.
                 else:
-                    IATA_airport_code[row[2]] =  [row[4]]               # map the city - iata airport code.
+                    IATA_airport_code[row[2].lower()] =  [row[4].lower(), row[3].lower()]       # map the city - iata airport code and country.
 
         return IATA_airport_code                                        # return cleaned up dictionary.
 
@@ -72,7 +74,11 @@ def iata_retrieve(city_name):
     -----------
 
     '''
-    IATA_CODE = IATA_airport_code[city_name]                                      # O(1) search on airport
+    city_name = city_name.lower()
+    json_file = open(CACHE_FILENAME, 'r')
+    py_file = json.load(json_file)
+
+    IATA_CODE = py_file[city_name]                                                # O(1) search on airport
     if len(IATA_CODE) > 1:                                                        # check if multiple cities.
         print(IATA_CODE)                                                          # display airport codes.
         response = input('Which airport did you mean? Please Input an integer.')  # user prompt.
@@ -88,3 +94,6 @@ if __name__ == '__main__':
     CACHE_DICT = build_airport_dictionary()
     cache_airport(CACHE_DICT)
     print('This dictionary contains ' + str(len(IATA_airport_code)) + ' airports.')
+
+    IATA_CODE = iata_retrieve('DETROIT')
+    print(IATA_CODE)
