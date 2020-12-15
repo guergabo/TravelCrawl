@@ -6,7 +6,7 @@ ______________________________
 A web application to retrieve travel fare information scraped from the web. 
 ```
 
-### Project Structure
+### Structure
 ______________________________
 ![Screenshot (1010)](https://user-images.githubusercontent.com/65991626/102286230-dec87e80-3f05-11eb-85e1-cdb5987e2af2.png)
 
