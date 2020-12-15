@@ -3,7 +3,7 @@ from django.shortcuts import render   # function to render the html..
 from .forms import FlightForm         # class for forms.
 from django.views import View         # View class to inherit.
 from .scraper import *                # Contains web scraping functions.
-
+from .models import Airport           # model for iata_codes of airports.
 
 ### HomeSearchView ###
 class HomeSearchView(View):
@@ -27,6 +27,21 @@ class HomeSearchView(View):
         destination = form['destination'].value()
         startdate = form['startdate'].value()
         enddate = form['enddate'].value()
+
+        # MAPPING CITY TO IATA CODE
+        d1_origin = Airport.objects.filter(city_name=origin)
+        d1_destination = Airport.objects.filter(city_name=destination)
+        print(d1_origin)
+        print(d1_destination)
+
+        if len(d1_origin) > 1:
+            origin = d1_origin[0].iata_code
+        else:
+            origin = d1_origin.iata_code
+        if len(d1_destination) > 1:
+            destination = d1_destination[0].iata_code
+        else:
+            destination = d1_destination.iata_code
 
         # CREATE URL.
         url = kayak_url_structure(origin, destination, startdate, enddate)

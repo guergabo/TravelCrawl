@@ -8,12 +8,16 @@
 {% block content %}
     <div class="header">
     <h1>TravelCrawl.</h1>
-    <h2>Search for the cheapest flight.</h2>
+    <h4>Search for the cheapest flight.</h4>
     </div>
 
     <form method="POST"> {% csrf_token %}
-        {{form.as_p}}
-        <input type="submit" value="Search"/>
+        {{ form.origin}}
+        {{ form.destination}}
+
+        {{ form.startdate}}
+        {{ form.enddate }}
+        <input type="submit" value="Let's Go!"/>
     </form>
 {% endblock %}
 </body>

@@ -11,7 +11,7 @@ import json                                                             # python
 
 
 ### IATA AIRPORT CODES ###
-IATA_airport_code = dict()                                              # create dictionary.
+IATA_airport_code = list()                                              # create dictionary.
 CACHE_FILENAME = 'airports_iata.json'                                   # file where IATA code data is stored.
 
 
@@ -33,11 +33,8 @@ def build_airport_dictionary():
         csv_reader = csv.reader(csv_file, delimiter=',')                # create an instance to be able to parse
         for row in csv_reader:                                          # loop over the rows in the csv.
             if (len(row[2]) > 0) & (row[4] != "\\N"):                   # ignore empty rows.
-                if row[2].lower() in IATA_airport_code:                         # check if the city name exists more than once.
-                    IATA_airport_code[row[2].lower()].append(row[4].lower())            # map the city - iata airport code and country.
-                    IATA_airport_code[row[2].lower()].append(row[3].lower())            # map the city - iata airport code and country.
-                else:
-                    IATA_airport_code[row[2].lower()] =  [row[4].lower(), row[3].lower()]       # map the city - iata airport code and country.
+                    row_dict = {'city': row[2].lower(), 'iata':row[4].lower(), 'country':row[3].lower()}
+                    IATA_airport_code.append(row_dict)
 
         return IATA_airport_code                                        # return cleaned up dictionary.
 
@@ -55,10 +52,16 @@ def cache_airport(cache_dict):
     -----------
 
     '''
-    dumped_json_cache = json.dumps(cache_dict, indent=2)               # convert dictionary to json object.
-    file = open(CACHE_FILENAME, 'w')                                   # create json file.
-    file.write(dumped_json_cache)                                      # write into file.
-    file.close()                                                       # close file.
+    # dumped_json_cache = json.dumps(cache_dict, indent=2)               # convert dictionary to json object.
+    # file = open(CACHE_FILENAME, 'w')                                   # create json file.
+    # file.write(dumped_json_cache)                                      # write into file.
+    # file.close()                                                       # close file.
+    csv_file = 'iata_db.csv'
+    with open(csv_file, 'w', encoding='utf-8') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=['city', 'iata', 'country'])
+        writer.writeheader()
+        for data in cache_dict:
+            writer.writerow(data)
 
 
 ### RETRIEVAL FUNCTION ###
@@ -92,8 +95,9 @@ def iata_retrieve(city_name):
 if __name__ == '__main__':
     ### 5602 AIRPORTS ###
     CACHE_DICT = build_airport_dictionary()
+    print(CACHE_DICT)
     cache_airport(CACHE_DICT)
-    print('This dictionary contains ' + str(len(IATA_airport_code)) + ' airports.')
+    # print('This dictionary contains ' + str(len(IATA_airport_code)) + ' airports.')
 
-    IATA_CODE = iata_retrieve('DETROIT')
-    print(IATA_CODE)
+    # IATA_CODE = iata_retrieve('DETROIT')
+    # print(IATA_CODE)

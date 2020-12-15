@@ -20,6 +20,10 @@ import re                                            # python package for findin
 
 
 ### COLUMNS FOR DATAFRAME ###
+origin = []
+destination = []
+startdate = []
+enddate = []
 out_airlines = []                                    # create list for outbound airline.
 in_airlines = []                                     # create list for inbound airline.
 out_dep_times = []                                   # create list for outbound departure times.
@@ -111,6 +115,7 @@ def kayak_scraping(url):
             in_airlines.append(al.contents[0].strip())
         count += 1
 
+
     # DEPARTURE TIMES x 2 | ROUND-TRIP.
     times = search_list.find_all('span', class_='depart-time base-time')  # find all the classes containing departure times.
     count = 1
@@ -130,6 +135,35 @@ def kayak_scraping(url):
         else:                                                                   # inbound departure times are teh even ones (2,4,6).
             in_arr_times.append(span.string.strip())
         count += 1
+
+
+    # MERIDIEMS X 4 | ROUND-TRIP
+    meridiems = soup.find_all('span', class_='time-meridiem meridiem')
+    count = 1
+    index_1 = 0
+    index_2 = 0
+    index_3 = 0
+    index_4 = 0
+    for span in meridiems:
+        if count == 1:
+            out_dep_times[index_1] = out_dep_times[index_1]  + span.string.strip()
+            index_1 += 1
+        elif count == 2:
+            out_arr_times[index_2] = out_arr_times[index_2] + span.string.strip()
+            index_2 += 1
+        elif count == 3:
+            in_dep_times[index_3] = in_dep_times[index_3] + span.string.strip()
+            index_3 += 1
+        elif count == 4:
+            in_arr_times[index_4] = in_arr_times[index_4] + span.string.strip()
+            index_4 += 1
+        count += 1
+
+        if count > 4:
+            if index_1 <= (len(out_dep_times) - 1):
+                out_dep_times[index_1] = out_dep_times[index_1]  + span.string.strip() # firstone
+                index_1 += 1
+                count = 2       # for next one.
 
     # STOPS X 2 | ROUND-TRIP.
     stops = search_list.find_all('span', class_='stops-text')                   # find all the classes containing stops.
@@ -194,31 +228,38 @@ def df_create(url):
     end_split = url_list[6].split('?')           # split the parameter.
 
     # ASSIGN INFORMATION.
-    origin = route_split[0]                      # assign origin from url.
-    destination = route_split[1]                 # assign destination from url.
-    startdate = url_list[5]                      # assign startdate from url.
-    enddate = end_split[0]                       # assign enddate from url.
+    org = route_split[0]                         # assign origin from url.
+    dest = route_split[1]                        # assign destination from url.
+    start = url_list[5]                          # assign startdate from url.
+    end = end_split[0]                           # assign enddate from url.
+
+    for i in range(len(out_airlines)):
+        origin.append(org.upper())                       # create list for origin.
+        destination.append(dest.upper())                 # create list for destination.
+        startdate.append(start)                  # create list for startdate.
+        enddate.append(end)                      # create list for enddate.
+
 
     # CREATE DATA FRAME | array must be same length == NA?
-    data = {
-        'origin': origin,                        # origin location of the flight.
-        'destination': destination,              # destination location of the flight.
-        'startdate': startdate,                  # start date of the flight.
-        'enddate': enddate,                      # end date of the flight.
-        'out_airlines': out_airlines,            # outbound flight airline.
-        'in_airlines': in_airlines,              # inbound flight airline.
-        'out_dep_times': out_dep_times,          # outbound departure time.
-        'in_dep_times': in_dep_times,            # inbound departure time.
-        'out_arr_times': out_arr_times,          # outbound departure time.
-        'in_arr_times': in_arr_times,            # inbound departure time.
-        'out_stops': out_stops,                  # outbound stop.
-        'in_stops': in_stops,                    # inbound stop.
-        'out_durations': out_durations,          # outbound duration.
-        'in_durations': in_durations,            # inbound duration.
-        'prices': prices,                        # flight price.
-        'check_out': check_out_urls              # check out url.
+    data_series = {
+        'origin': pd.Series(origin),                        # origin location of the flight.
+        'destination': pd.Series(destination),              # destination location of the flight.
+        'startdate': pd.Series(startdate),                  # start date of the flight.
+        'enddate': pd.Series(enddate),                      # end date of the flight.
+        'out_airlines': pd.Series(out_airlines),            # outbound flight airline.
+        'in_airlines': pd.Series(in_airlines),              # inbound flight airline.
+        'out_dep_times': pd.Series(out_dep_times),          # outbound departure time.
+        'in_dep_times': pd.Series(in_dep_times),            # inbound departure time.
+        'out_arr_times': pd.Series(out_arr_times),          # outbound departure time.
+        'in_arr_times': pd.Series(in_arr_times),            # inbound departure time.
+        'out_stops': pd.Series(out_stops),                  # outbound stop.
+        'in_stops': pd.Series(in_stops),                    # inbound stop.
+        'out_durations': pd.Series(out_durations),          # outbound duration.
+        'in_durations': pd.Series(in_durations),            # inbound duration.
+        'prices': pd.Series(prices),                        # flight price.
+        'check_out': pd.Series(check_out_urls)              # check out url.
     }
-    df = pd.DataFrame.from_dict(data)
+    df = pd.DataFrame(data_series)
 
     return df                                    # returning the pandas dataframe.
 
@@ -241,15 +282,10 @@ def data_cache(source):
 
 
 if __name__ == '__main__':
-    # GET IATA CODE FROM CITY NAMES.
-    outbound = (air.iata_retrieve('DETROIT')).upper()
-    inbound =  (air.iata_retrieve('MIAMI')).upper()
 
-    # GET DEPARTURE AND RETURN DATES.
-    # ... [through django?]
 
     # CREATE URL.
-    url = kayak_url_structure(outbound, inbound, '2021-02-07', '2021-02-12')
+    url = kayak_url_structure('DTW', 'MIA', '2021-02-07', '2021-02-12')
     print(url)
 
     # GET FLIGHT INFORMATION.
