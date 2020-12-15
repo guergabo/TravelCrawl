@@ -2,10 +2,14 @@
 
 ### About The Project
 ______________________________
+```
 A web application to retrieve travel fare information scraped from the web. 
-
 ```
 
+### Project Structure
+______________________________
+```
+A web application to retrieve travel fare information scraped from the web. 
 ```
 
 ### Built With
