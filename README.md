@@ -113,8 +113,8 @@ User has the ability to search for cheap flights based on:
 - Departure Date
 - Return Date
 
-This will display a table of flights based on the query and the user has the ability to select a flight and be redirected to 
-check out by clicking the "Buy Now" Icon. 
+This will display a table of flights based on the query and the user has the ability to select a flight 
+and be redirected to check out by clicking the "Buy Now" Icon. 
 
 The interactive and presentation technologies used were Django version 3.1.4.
 ```
