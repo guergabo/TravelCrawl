@@ -97,7 +97,7 @@ ______________________________
 ```
 
 ```
-![Uploading ezgif.com-gif-maker.gif…]()
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/65991626/102281269-9ce70a80-3efc-11eb-8623-3d99633aa659.gif)
 
 
 ### Web Users Can
