@@ -79,7 +79,7 @@ Format: CSV
 ______________________________
 ###### The Datbase Schema was created in Django using models.py
 ```
-from django.db import models  # inheriting from the models class to connect to db.
+from django.db import models  
 
 # Airport Class for the search bar 
 class Airport(models.Model):
