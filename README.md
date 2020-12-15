@@ -9,7 +9,7 @@ python3 manage.py runsever
 
 Required Packages:
 ```                                     
-from bs4 import BeautifulSoup                        
+from bs4 import BeautifulSoup  # python package                       
 import pandas as pd                                  
 import re  
 import json    
