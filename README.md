@@ -29,14 +29,12 @@ $ python3 manage.py runsever
 ```
 
 Required Packages:
-```                                     
-from bs4 import BeautifulSoup  # python package                       
-import pandas as pd            # python package                                  
-import re                      # python package
-import json                    # python package
-import requests                # python package
-import csv                     # python package   
-```
+- from bs4 import BeautifulSoup                        
+- import pandas as pd                                             
+- import re                   
+- import json                   
+- import requests                
+- import csv                   
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65991626/102282323-6a3e1180-3efe-11eb-9c31-197d2c9fdc43.gif">
