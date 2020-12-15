@@ -1,7 +1,7 @@
 # TravelMeta
 
 ### About The Project
-A web application to retrieve travel fare information scraped from the web.
+A web application to retrieve travel fare information scraped from the web. :spider:
 
 ### Built With
 ```
