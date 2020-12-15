@@ -67,10 +67,9 @@ df = pd.DataFrame(data_series)
 URL: https://openflights.org/data.html#airport
 Format: CSV
 ```
-###### Summary of Scraped Data
-```
+###### Summary of Database Data
+![Screenshot (1006)](https://user-images.githubusercontent.com/65991626/102278794-64453200-3ef8-11eb-9a86-cad96a4540a3.png)
 
-```
 
 ### Database
 ```
