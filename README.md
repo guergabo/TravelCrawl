@@ -20,8 +20,12 @@ ______________________________
 ### Getting Started
 ______________________________
 Running the Django Application:
+
 ```
-python3 manage.py runsever
+$ git clone https://github.com/guergabo/Travel_Fare_Meta_Search_Website
+```
+```
+$ python3 manage.py runsever
 ```
 
 Required Packages:
