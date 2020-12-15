@@ -100,8 +100,8 @@ ______________________________
 
 ### Web Users Can
 ______________________________
-```
 Look up round-trip flight tickets based on 4 categories:
+```
 - Origin Location
 - Destination
 - Departure Date
