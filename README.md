@@ -2,7 +2,7 @@
 A web application made using HTML5, CSS3, Python, and Django to store and retrieve travel pricing information scraped from the web.
 
 ### Getting Started
-Some basic Git commands are:
+Running the Django Server:
 ```
 python3 manage.py runsever
 ```
