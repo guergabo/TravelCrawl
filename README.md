@@ -10,11 +10,12 @@ python3 manage.py runsever
 Required Packages:
 
 ```
-import requests                                      
-import json                                          
+                                     
 from bs4 import BeautifulSoup                        
 import pandas as pd                                  
-import re                                            
+import re  
+import json    
+import requests 
 import csv   
 ```
 
