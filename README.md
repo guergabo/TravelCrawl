@@ -8,6 +8,7 @@ python3 manage.py runsever
 ```
 
 Required Packages:
+
 ```
 import requests                                      # python package for GET request.
 import json                                          # python package for converting json format.
