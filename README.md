@@ -8,9 +8,7 @@ python3 manage.py runsever
 ```
 
 Required Packages:
-
-```
-                                     
+```                                     
 from bs4 import BeautifulSoup                        
 import pandas as pd                                  
 import re  
