@@ -101,8 +101,11 @@ class Airport(models.Model):
 ### Interaction 
 ______________________________
 ```
-
+User has the option of selecting an origin, destination, departure date, and return date.
+This will display a table of flight options and the user has the ability to select a flight and be redirected to check out. 
+The interactive and presentation technologies used were Django version 3.1.4.
 ```
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65991626/102281269-9ce70a80-3efc-11eb-8623-3d99633aa659.gif">
 </p>
