@@ -1,7 +1,7 @@
-# TravelMeta
+# TravelCrawl :spider: 
 
 ### About The Project
-A web application to retrieve travel fare information scraped from the web. :spider: :computer:
+A web application to retrieve travel fare information scraped from the web. 
 
 ### Built With
 ```
