@@ -35,7 +35,7 @@ import csv                     # python package
 
 ### Data Sources
 ______________________________
-##### Web Crawling:
+Web Crawling:
 ###### Requested and parsed through the HTML. No caching was used because of how often the data changes (seconds). The scraped data was temporarilty stored in a Pandas DataFrame to take advantage of the functionality to_html() offers.
 ```
 URL: https://www.kayak.com/flight
@@ -65,7 +65,7 @@ data_series = {
 df = pd.DataFrame(data_series)
 ```
 
-##### CSV Manipulation: 
+CSV Manipulation: 
 ###### Downloaded the the original csv file and filtered down to 6000+ airports. Stored this data in the in the db.sqlite3 database as a django model Aiport 
 ```
 URL: https://openflights.org/data.html#airport
@@ -77,7 +77,7 @@ Format: CSV
 
 ### Database
 ______________________________
-###### The Datbase Schema was created in Django using models.py
+The Datbase Schema was created in Django using models.py
 ```
 from django.db import models  
 
