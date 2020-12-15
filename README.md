@@ -30,8 +30,6 @@ import requests                # python package
 import csv                     # python package   
 ```
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/65991626/102282323-6a3e1180-3efe-11eb-9c31-197d2c9fdc43.gif)
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65991626/102282323-6a3e1180-3efe-11eb-9c31-197d2c9fdc43.gif">
 </p>
@@ -75,8 +73,9 @@ URL: https://openflights.org/data.html#airport
 Format: CSV
 ```
 ###### Summary of Database Data
-![Screenshot (1007)](https://user-images.githubusercontent.com/65991626/102278955-a1112900-3ef8-11eb-8b3d-c747b53416f3.png)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65991626/102278955-a1112900-3ef8-11eb-8b3d-c747b53416f3.png">
+</p>
 
 ### Database
 ______________________________
@@ -100,10 +99,13 @@ ______________________________
 ```
 
 ```
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/65991626/102281269-9ce70a80-3efc-11eb-8623-3d99633aa659.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65991626/102281269-9ce70a80-3efc-11eb-8623-3d99633aa659.gif">
+</p>
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/65991626/102281451-f2bbb280-3efc-11eb-882d-643355de1644.gif)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65991626/102281451-f2bbb280-3efc-11eb-882d-643355de1644.gif">
+</p>
 
 ### Web Users Can
 ______________________________
