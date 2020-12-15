@@ -2,9 +2,7 @@
 
 ### About The Project
 ______________________________
-```
 A web application to retrieve travel fare information scraped from the web. 
-```
 
 ### Structure
 ______________________________
@@ -13,12 +11,11 @@ ______________________________
 
 ### Built With
 ______________________________
-```
 - HTML5
 - CSS3
 - Python  
 - Django Web FrameWork
-```
+
 
 ### Getting Started
 ______________________________
