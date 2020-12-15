@@ -31,12 +31,14 @@ import csv                     # python package
 
 
 ### Data Sources
-###### Web Crawling:
+##### Web Crawling:
+###### Requested and parsed through the HTML. No caching was used because of how often the data changes (seconds).
 ```
 URL: https://www.kayak.com/flight
 Format: HTML
 ```
-###### CSV Manipulation: 
+##### CSV Manipulation: 
+###### Downloaded the the original csv file and filtered down to 6000+ airports. Stored this data in the in the db.sqlite3 database as a django model Aiport 
 ```
 URL: https://openflights.org/data.html#airport
 Format: CSV
