@@ -100,9 +100,16 @@ class Airport(models.Model):
 
 ### Interaction 
 ______________________________
+User Capabilities
 ```
-User has the option of selecting an origin, destination, departure date, and return date.
-This will display a table of flight options and the user has the ability to select a flight and be redirected to check out. 
+User has the option of selecting flights based on: 
+- Origin Location
+- Destination
+- Departure Date
+- Return Date
+
+This will display a table of flights based on the query and the user has the ability to select a flight and be redirected to check out by clicking the "Buy Now" Icon. 
+
 The interactive and presentation technologies used were Django version 3.1.4.
 ```
 
@@ -113,17 +120,6 @@ The interactive and presentation technologies used were Django version 3.1.4.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65991626/102281451-f2bbb280-3efc-11eb-882d-643355de1644.gif">
 </p>
-
-### Web Users Can
-______________________________
-Checkout out by clicking the "Buy Now" Icon which will redirect them to the check out page. Users search based on 4 categories:
-```
-- Origin Location
-- Destination
-- Departure Date
-- Return Date
-```
-
 
 ### Admin Can
 ______________________________
