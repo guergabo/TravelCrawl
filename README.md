@@ -1,5 +1,15 @@
 # TravelMeta
-A web application made using HTML5, CSS3, Python, and Django to store and retrieve travel pricing information scraped from the web.
+
+### About The Project
+A web application to retrieve travel fare information scraped from the web.
+
+### Built With
+```
+- HTML5
+- CSS3
+- Python  
+- Django Web FrameWork
+```
 
 ### Getting Started
 Running the Django Application:
