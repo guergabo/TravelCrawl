@@ -30,7 +30,7 @@ import requests                # python package
 import csv                     # python package   
 ```
 
-![4qhw0e](https://im7.ezgif.com/tmp/ezgif-7-99e760d479a8.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/65991626/102282323-6a3e1180-3efe-11eb-9c31-197d2c9fdc43.gif)
 
 
 ### Data Sources
