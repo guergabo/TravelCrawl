@@ -36,8 +36,15 @@ import csv                     # python package
 ```
 
 ### Database
+CSV Manipulation: 
 ```
-
+URL: https://openflights.org/data.html#airport
+Format: CSV
+```
+Web Crawling:
+```
+URL: https://www.kayak.com/flight
+Format: HTML
 ```
 
 ### Interaction 
