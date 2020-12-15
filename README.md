@@ -1,6 +1,7 @@
 # TravelCrawl :spider: 
 
 ### About The Project
+______________________________
 A web application to retrieve travel fare information scraped from the web. 
 
 ### Built With
@@ -13,6 +14,7 @@ ______________________________
 ```
 
 ### Getting Started
+______________________________
 Running the Django Application:
 ```
 python3 manage.py runsever
@@ -32,6 +34,7 @@ import csv                     # python package
 
 
 ### Data Sources
+______________________________
 ##### Web Crawling:
 ###### Requested and parsed through the HTML. No caching was used because of how often the data changes (seconds). The scraped data was temporarilty stored in a Pandas DataFrame to take advantage of the functionality to_html() offers.
 ```
@@ -73,25 +76,30 @@ Format: CSV
 
 
 ### Database
+______________________________
 ```
 
 ```
 
 ### Interaction 
+______________________________
 ```
 
 ```
 
 ### Web Users Can
+______________________________
 ```
 
 ```
 
 ### Admin Can
+______________________________
 ```
 
 ```
 
 ### Contributers
+______________________________
 Gabriel Guerra
  
