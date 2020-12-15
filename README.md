@@ -68,7 +68,7 @@ URL: https://openflights.org/data.html#airport
 Format: CSV
 ```
 ###### Summary of Database Data
-![Screenshot (1006)](https://user-images.githubusercontent.com/65991626/102278794-64453200-3ef8-11eb-9a86-cad96a4540a3.png)
+![Screenshot (1007)](https://user-images.githubusercontent.com/65991626/102278955-a1112900-3ef8-11eb-8b3d-c747b53416f3.png)
 
 
 ### Database
