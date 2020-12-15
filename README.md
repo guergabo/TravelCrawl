@@ -37,11 +37,37 @@ import csv                     # python package
 URL: https://www.kayak.com/flight
 Format: HTML
 ```
+```
+# CREATE DATA FRAME | array must be same length == NA?
+data_series = {
+    'origin': pd.Series(origin),                        # origin location of the flight.
+    'destination': pd.Series(destination),              # destination location of the flight.
+    'startdate': pd.Series(startdate),                  # start date of the flight.
+    'enddate': pd.Series(enddate),                      # end date of the flight.
+    'out_airlines': pd.Series(out_airlines),            # outbound flight airline.
+    'in_airlines': pd.Series(in_airlines),              # inbound flight airline.
+    'out_dep_times': pd.Series(out_dep_times),          # outbound departure time.
+    'in_dep_times': pd.Series(in_dep_times),            # inbound departure time.
+    'out_arr_times': pd.Series(out_arr_times),          # outbound departure time.
+    'in_arr_times': pd.Series(in_arr_times),            # inbound departure time.
+    'out_stops': pd.Series(out_stops),                  # outbound stop.
+    'in_stops': pd.Series(in_stops),                    # inbound stop.
+    'out_durations': pd.Series(out_durations),          # outbound duration.
+    'in_durations': pd.Series(in_durations),            # inbound duration.
+    'prices': pd.Series(prices),                        # flight price.
+    'check_out': pd.Series(check_out_urls)              # check out url.
+}
+df = pd.DataFrame(data_series)
+```
+
 ##### CSV Manipulation: 
 ###### Downloaded the the original csv file and filtered down to 6000+ airports. Stored this data in the in the db.sqlite3 database as a django model Aiport 
 ```
 URL: https://openflights.org/data.html#airport
 Format: CSV
+```
+```
+
 ```
 
 ### Database
