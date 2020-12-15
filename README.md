@@ -133,7 +133,7 @@ Create, Read, Update, or Delete the database of 6000+ airports.
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/65991626/102285197-c35c7400-3f03-11eb-9809-45f49e59258d.png" width="500">
+  <img src="https://user-images.githubusercontent.com/65991626/102285197-c35c7400-3f03-11eb-9809-45f49e59258d.png" width="600">
 </p>
 
 ### Contributers
