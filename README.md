@@ -12,8 +12,8 @@ python3 manage.py runsever
 ### Web users can
 
 
-#### Admin can
+### Admin can
 
 
-#### Contributers
+### Contributers
 Gabriel Guerra
