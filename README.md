@@ -3,11 +3,12 @@ A web application made using HTML5, CSS3, Python, and Django to store and retrie
 
 ### Getting Started
 
-# Web users can:
+
+### Web users can
 
 
-## Admin can:
+#### Admin can
  
 
-## Contributers:
+#### Contributers
 Gabriel Guerra
