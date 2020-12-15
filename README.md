@@ -37,8 +37,8 @@ import csv                     # python package
 URL: https://www.kayak.com/flight
 Format: HTML
 ```
+###### Summary of Scraped Data
 ```
-# CREATE DATA FRAME | array must be same length == NA?
 data_series = {
     'origin': pd.Series(origin),                        # origin location of the flight.
     'destination': pd.Series(destination),              # destination location of the flight.
@@ -66,6 +66,7 @@ df = pd.DataFrame(data_series)
 URL: https://openflights.org/data.html#airport
 Format: CSV
 ```
+###### Summary of Scraped Data
 ```
 
 ```
