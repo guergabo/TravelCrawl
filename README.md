@@ -100,14 +100,14 @@ ______________________________
 
 ### Web Users Can
 ______________________________
-Look up round-trip flight tickets based on 4 categories:
+Checkout out by clicking the "Buy Now" Icon which will redirect them to the check out page. 
+To look up round-trip flight tickets users search based on 4 categories:
 ```
 - Origin Location
 - Destination
 - Departure Date
 - Return Date
 ```
-User can checkout out by clicking the "Buy Now" Icon which will redirect them to the check out page. 
 
 
 ### Admin Can
