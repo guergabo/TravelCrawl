@@ -126,7 +126,7 @@ The interactive and presentation technologies used were Django version 3.1.4.
 ### Admin Can
 ______________________________
 ```
-
+Create, Read, Update, or Delete the database of 6000+ airports.
 ```
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65991626/102285180-b8094880-3f03-11eb-986f-3faddf00c26e.png">
