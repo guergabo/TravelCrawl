@@ -10,13 +10,13 @@ python3 manage.py runsever
 Required Packages:
 
 ```
-import requests                                      # python package for GET request.
-import json                                          # python package for converting json format.
-from bs4 import BeautifulSoup                        # python package for scraping HTML.
-import pandas as pd                                  # python package for dataFrames.
-import re                                            # python package for finding strings.
-import csv                                           # python package for csv. 
-'''
+import requests                                      
+import json                                          
+from bs4 import BeautifulSoup                        
+import pandas as pd                                  
+import re                                            
+import csv   
+```
 
 ![4qhw0e](https://im7.ezgif.com/tmp/ezgif-7-99e760d479a8.gif)
 
@@ -29,3 +29,4 @@ import csv                                           # python package for csv.
 
 ### Contributers
 Gabriel Guerra
+ 
