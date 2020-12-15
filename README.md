@@ -107,6 +107,8 @@ Look up round-trip flight tickets based on 4 categories:
 - Departure Date
 - Return Date
 ```
+User can checkout out by clicking the "Buy Now" Icon which will redirect them to the check out page. 
+
 
 ### Admin Can
 ______________________________
