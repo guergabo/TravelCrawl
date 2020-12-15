@@ -103,7 +103,7 @@ class Airport(models.Model):
 ______________________________
 User Capabilities
 ```
-User has the option of selecting flights based on: 
+User has the ability to search for cheap flights based on: 
 - Origin Location
 - Destination
 - Departure Date
