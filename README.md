@@ -19,15 +19,6 @@ ______________________________
 
 ### Getting Started
 ______________________________
-Running the Django Application:
-
-```
-$ git clone https://github.com/guergabo/Travel_Fare_Meta_Search_Website
-```
-```
-$ python3 manage.py runsever
-```
-
 Required Packages:
 - from bs4 import BeautifulSoup                        
 - import pandas as pd                                             
@@ -36,6 +27,13 @@ Required Packages:
 - import requests                
 - import csv                   
 
+Running the Django Application:
+```
+$ git clone https://github.com/guergabo/Travel_Fare_Meta_Search_Website
+```
+```
+$ python3 manage.py runsever
+```
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65991626/102282323-6a3e1180-3efe-11eb-9c31-197d2c9fdc43.gif">
 </p>
