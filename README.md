@@ -98,7 +98,7 @@ class Airport(models.Model):
         return text
 ```
 
-### Interaction 
+### Demo 
 ______________________________
 User Capabilities
 ```
