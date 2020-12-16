@@ -92,7 +92,7 @@ Format: CSV
 
 ### Database
 ______________________________
-The Datbase Schema was created in Django using a script that parsed through iata_db.csv and created instances of the Airport class from models.py
+The Database Schema was created in Django using a script that parsed through iata_db.csv and created instances of the Airport class from models.py.
 ```
 from django.db import models  
 
