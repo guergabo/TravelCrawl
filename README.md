@@ -3,6 +3,9 @@
 ### About The Project
 ______________________________
 A meta search web application for travel fare data. 
+
+### Table of Contents
+______________________________
 - <a href="https://github.com/guergabo/TravelCrawl#structure">Structure</a>
 - <a href="https://github.com/guergabo/TravelCrawl#built-with">Built With</a>
 - <a href="https://github.com/guergabo/TravelCrawl#getting-started">Getting Started</a>
