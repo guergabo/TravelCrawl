@@ -99,6 +99,7 @@ Format: CSV
 ### Database
 ______________________________
 The Database Schema was created in Django using a script that parsed through iata_db.csv and created instances of the Airport class from models.py.
+This database would be used to map the city name the user inputs with the IATA code of the airport needed to scrape the url. 
 ```
 from django.db import models  
 
