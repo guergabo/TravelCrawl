@@ -3,6 +3,15 @@
 ### About The Project
 ______________________________
 A meta search web application to retrieve travel fare information scraped from the web. 
+<a href="https://github.com/guergabo/TravelCrawl#structure">Structure</a>
+<a href="https://github.com/guergabo/TravelCrawl#built-with">Built With</a>
+<a href="https://github.com/guergabo/TravelCrawl#getting-started">Getting Started</a>
+<a href="https://github.com/guergabo/TravelCrawl#data-sources">Data Sources</a>
+<a href="https://github.com/guergabo/TravelCrawl#database">Database</a>
+<a href="https://github.com/guergabo/TravelCrawl#demo">Demo</a>
+<a href="https://github.com/guergabo/TravelCrawl#admin">Admin</a>
+<a href="https://github.com/guergabo/TravelCrawl#contributors">Contributor</a>
+
 
 ### Structure
 ______________________________
@@ -122,13 +131,13 @@ The interactive and presentation technologies used were Django version 3.1.4.
   <img src="https://user-images.githubusercontent.com/65991626/102281451-f2bbb280-3efc-11eb-882d-643355de1644.gif">
 </p>
 
-### Admin Can
+### Admin 
 ______________________________
 ```
 $ python3 manage.py createsuperuser 
 ```
 ```
-Create, Read, Update, or Delete the database of 6000+ airports.
+Can create, read, update, or delete the database of 6000+ airports.
 ```
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65991626/102285197-c35c7400-3f03-11eb-9809-45f49e59258d.png" width="600">
