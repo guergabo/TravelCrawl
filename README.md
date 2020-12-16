@@ -40,7 +40,7 @@ $ python3 manage.py runsever
 ### Data Sources
 ______________________________
 Web Crawling:
-###### Requested and parsed through the HTML. No caching was used because of how often the data changes (seconds). The scraped data was temporarilty stored in a Pandas DataFrame to take advantage of the functionality to_html() offers.
+##### Requested and parsed through the HTML. No caching was used because of how often the data changes (seconds). The scraped data was temporarilty stored in a Pandas DataFrame to take advantage of the functionality to_html() offers.
 ```
 URL: https://www.kayak.com/flight
 Format: HTML
