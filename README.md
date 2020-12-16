@@ -3,14 +3,14 @@
 ### About The Project
 ______________________________
 A meta search web application to retrieve travel fare information scraped from the web. 
-<a href="https://github.com/guergabo/TravelCrawl#structure">Structure</a>
-<a href="https://github.com/guergabo/TravelCrawl#built-with">Built With</a>
-<a href="https://github.com/guergabo/TravelCrawl#getting-started">Getting Started</a>
-<a href="https://github.com/guergabo/TravelCrawl#data-sources">Data Sources</a>
-<a href="https://github.com/guergabo/TravelCrawl#database">Database</a>
-<a href="https://github.com/guergabo/TravelCrawl#demo">Demo</a>
-<a href="https://github.com/guergabo/TravelCrawl#admin">Admin</a>
-<a href="https://github.com/guergabo/TravelCrawl#contributors">Contributor</a>
+- <a href="https://github.com/guergabo/TravelCrawl#structure">Structure</a>
+- <a href="https://github.com/guergabo/TravelCrawl#built-with">Built With</a>
+- <a href="https://github.com/guergabo/TravelCrawl#getting-started">Getting Started</a>
+- <a href="https://github.com/guergabo/TravelCrawl#data-sources">Data Sources</a>
+- <a href="https://github.com/guergabo/TravelCrawl#database">Database</a>
+- <a href="https://github.com/guergabo/TravelCrawl#demo">Demo</a>
+- <a href="https://github.com/guergabo/TravelCrawl#admin">Admin</a>
+- <a href="https://github.com/guergabo/TravelCrawl#contributors">Contributor</a>
 
 
 ### Structure
