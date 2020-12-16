@@ -34,8 +34,11 @@ Required Packages:
 - import re                   
 - import json                   
 - import requests                
-- import csv                   
+- import csv 
 
+```
+pip3 install Django
+```
 ```
 $ git clone https://github.com/guergabo/Travel_Fare_Meta_Search_Website
 ```
