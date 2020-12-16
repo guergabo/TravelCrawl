@@ -27,7 +27,6 @@ Required Packages:
 - import requests                
 - import csv                   
 
-Running the Django Application:
 ```
 $ git clone https://github.com/guergabo/Travel_Fare_Meta_Search_Website
 ```
