@@ -71,12 +71,12 @@ df = pd.DataFrame(data_series)
 
 
 CSV Manipulation: 
-###### Downloaded the the original csv file and filtered down to 6000+ airports. Stored this data in the db.sqlite3 database as a django model representation. 
+##### Downloaded the the original csv file and filtered down to 6000+ airports. Stored this data in the db.sqlite3 database as a django model representation. 
 ```
 URL: https://openflights.org/data.html#airport
 Format: CSV
 ```
-###### Summary of Database Data
+##### Summary of Database Data
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65991626/102278955-a1112900-3ef8-11eb-8b3d-c747b53416f3.png">
 </p>
