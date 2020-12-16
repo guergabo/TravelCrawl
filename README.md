@@ -125,6 +125,9 @@ The interactive and presentation technologies used were Django version 3.1.4.
 ### Admin Can
 ______________________________
 ```
+$ python3 manage.py createsuperuser 
+```
+```
 Create, Read, Update, or Delete the database of 6000+ airports.
 ```
 <p align="center">
