@@ -48,14 +48,14 @@ $ python3 manage.py runsever
 
 ### Data Sources
 ______________________________
-Web Crawling:
-##### Requested and parsed through the HTML. No caching was used because of how often the data changes (seconds). The scraped data was temporarilty stored in a Pandas DataFrame to take advantage of the functionality to_html() offers.
+##### Web Crawling:
+Requested and parsed through the HTML. No caching was used because of how often the data changes (seconds). The scraped data was temporarilty stored in a Pandas DataFrame to take advantage of the functionality to_html() offers.
 ```
 URL: https://www.kayak.com/flight
 Format: HTML
 ```
 
-##### Summary of Scraped Data:
+###### Summary of Scraped Data:
 ```
 data_series = {
     'origin': pd.Series(origin),                        # origin location of the flight.
@@ -79,13 +79,13 @@ df = pd.DataFrame(data_series)
 ```
 
 
-CSV Manipulation: 
-##### Downloaded the the original csv file and filtered down to 6000+ airports. Stored this data in the db.sqlite3 database as a django model representation. 
+##### CSV Manipulation: 
+Downloaded the the original csv file and filtered down to 6000+ airports. Stored this data in the db.sqlite3 database as a django model representation. 
 ```
 URL: https://openflights.org/data.html#airport
 Format: CSV
 ```
-##### Summary of Database Data
+###### Summary of Database Data
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65991626/102278955-a1112900-3ef8-11eb-8b3d-c747b53416f3.png">
 </p>
