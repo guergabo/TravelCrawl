@@ -55,7 +55,7 @@ URL: https://www.kayak.com/flight
 Format: HTML
 ```
 
-###### Summary of Scraped Data:
+###### Summary of Scraped Data
 ```
 data_series = {
     'origin': pd.Series(origin),                        # origin location of the flight.
